@@ -239,6 +239,21 @@ function cmd(argv) {
     return;
   }
 
+  if (command === "status") {
+    const db = openDb();
+    const byLine = db.prepare("SELECT line, status, COUNT(*) c FROM works GROUP BY line, status ORDER BY line").all();
+    console.log("works by line/status:");
+    let last = "";
+    for (const r of byLine) {
+      if (r.line !== last) { console.log(`  ${r.line}:`); last = r.line; }
+      console.log(`    ${r.status}: ${r.c}`);
+    }
+    const total = db.prepare("SELECT COUNT(*) c FROM works").get().c;
+    const rendered = db.prepare("SELECT COUNT(*) c FROM works WHERE status IN ('rendered','published')").get().c;
+    console.log(`total: ${total} | rendered/published: ${rendered}`);
+    return;
+  }
+
   throw new Error(`unknown command: ${command}`);
 }
 
