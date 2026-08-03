@@ -284,9 +284,10 @@
       "thesis": "The conventional picture: DNA → codes proteins → builds body → generates consciousness The Cassiopaean picture: consciousness → interacts with DNA → DNA transceives → maintains reality program",
       "pil": "queue/queue4/dna_superconductor_platinum.py",
       "rendered": true,
-      "skiaPorted": false,
-      "onSite": false,
-      "youtubeStatus": "unpublished"
+      "skiaPorted": true,
+      "onSite": true,
+      "youtubeStatus": "unpublished",
+      "videoUrl": "https://pub-8f77709efb2043fbbd8e88677347249a.r2.dev/videos/dna_superconductor.mp4"
     },
     {
       "id": "dream_incubation",
