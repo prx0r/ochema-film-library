@@ -127,8 +127,15 @@ function cmd(argv) {
     const a = argv[i];
     if (a.startsWith("--")) {
       const [k, v] = a.slice(2).split("=", 2);
-      opts[k] = v ?? argv[i + 1];
-      if (opts[k] === argv[i + 1]) i += 1;
+      const next = argv[i + 1];
+      if (v !== undefined) {
+        opts[k] = v;
+      } else if (next !== undefined && !next.startsWith("--")) {
+        opts[k] = next;
+        i += 1;
+      } else {
+        opts[k] = true;
+      }
     }
   }
 
@@ -168,12 +175,12 @@ function cmd(argv) {
     if (!existsSync(video)) throw new Error(`no ${video} — render first`);
     const contact = join(workDir, "contact.png");
     const pack = JSON.parse(readFileSync(join(workDir, "pack.json"), "utf8"));
-    const r1 = spawnSync("rclone", ["copy", video, "r2:atlas-sources/videos", "--log-level", "ERROR"], { encoding: "utf8" });
+    const r1 = spawnSync("rclone", ["copyto", video, `r2:atlas-sources/videos/${workId}.mp4`, "--log-level", "ERROR"], { encoding: "utf8" });
     if (r1.status !== 0) throw new Error("rclone video upload failed");
     if (existsSync(contact)) {
       const jpg = join(workDir, "thumb.jpg");
       spawnSync("ffmpeg", ["-y", "-loglevel", "error", "-i", contact, "-frames:v", "1", "-q:v", "4", jpg]);
-      spawnSync("rclone", ["copy", jpg, "r2:atlas-sources/thumbnails", "--log-level", "ERROR"]);
+      spawnSync("rclone", ["copyto", jpg, `r2:atlas-sources/thumbnails/${workId}.jpg`, "--log-level", "ERROR"]);
     }
     const worksJson = JSON.parse(readFileSync(join(ROOT, "library", "works.json"), "utf8"));
     const w = worksJson.works.find((x) => x.id === workId);
