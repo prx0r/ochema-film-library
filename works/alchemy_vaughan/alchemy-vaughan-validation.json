@@ -1,0 +1,41 @@
+{
+  "pack": "alchemy-vaughan",
+  "title": "thomas vaughan virgin mercury as kundalini",
+  "source": "pack.json",
+  "render": {
+    "outputPath": "/mnt/HC_Volume_106427611/occhema-film-library/works/alchemy_vaughan/video.mp4",
+    "frames": 1680,
+    "fps": 24,
+    "width": 1280,
+    "height": 720,
+    "duration": 70
+  },
+  "fonts": {
+    "latinFamily": "Tantra Garamond",
+    "devanagariFamily": "Tantra Devanagari",
+    "latinRegistered": true,
+    "devanagariRegistered": true
+  },
+  "validation": {
+    "valid": true,
+    "errors": [],
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "nb_frames": "1680"
+        }
+      ],
+      "format": {
+        "duration": "70.000000",
+        "size": "2704181"
+      }
+    }
+  }
+}

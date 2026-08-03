@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Batch-render all ported works that don't have a video yet.
 //   node scripts/batch-render.mjs [--limit N] [--only <line>]
-import { readdirSync, existsSync } from "node:fs";
+import { readdirSync, existsSync, unlinkSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawn } from "node:child_process";
@@ -37,7 +37,7 @@ for (const id of jobs) {
     ], { cwd: ROOT, stdio: ["ignore", "inherit", "inherit"] });
     p.on("exit", (code) => res(code));
   });
-  if (r !== 0) { console.log(`  ✗ ${id} failed`); continue; }
+  if (r !== 0) { console.log(`  ✗ ${id} failed`); unlinkSync(join(WORKS, id, "video.mp4")); continue; }
   console.log(`  ✓ ${id}`);
 }
 console.log("Batch complete.");
