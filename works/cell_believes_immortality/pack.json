@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "id": "cell-believes-immortality",
+  "title": "each cell believes in its own immortality",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 966551480,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Seth's claim: each cell believes",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Seth's claim: each cell believes",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Imprinted in every chromosome",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Imprinted in every chromosome",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "A built-in faith pervades every creature",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "A built-in faith pervades every creature",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The cell knows it lives beyond death",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "The cell knows it lives beyond death",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Innate knowledge of inevitability",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Innate knowledge of inevitability",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The magical approach is biological",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "The magical approach is biological",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Cancer as cellular amnesia",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Cancer as cellular amnesia",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Regeneration science and planaria",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Regeneration science and planaria",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Placebo as belief-activated healing",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Placebo as belief-activated healing",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "What this means for aging",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "What this means for aging",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "The evidence from basal cognition",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "The evidence from basal cognition",
+      "devanagari": "योग",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Do you believe what your cells know?",
+      "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+      "term": "Do you believe what your cells know?",
+      "devanagari": "मन्त्र",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    }
+  ]
+}

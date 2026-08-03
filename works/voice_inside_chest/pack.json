@@ -1,0 +1,499 @@
+{
+  "version": "1.0",
+  "id": "voice-inside-chest",
+  "title": "the voice inside your chest",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 1114617579,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Architecture of the second brain",
+      "subtitle": "Your gut contains a complete nervous system — 500 million neurons, more than the spinal cord.",
+      "term": "Architecture of the second brain",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Enteric network",
+      "subtitle": "It wraps the entire digestive tract in a dense mesh of sensory neurons, interneurons, and motor neurons.",
+      "term": "Enteric network",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Independent origin",
+      "subtitle": "These neurons did not grow from your brain. They migrated from the neural crest during early embryonic development.",
+      "term": "Independent origin",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Long migration",
+      "subtitle": "Neural crest cells travel from the closing neural tube down into the developing gut, building a second brain from a different source.",
+      "term": "Long migration",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Independence",
+      "subtitle": "The enteric nervous system can function without any input from the brain or spinal cord.",
+      "term": "Independence",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Peristaltic reflex",
+      "subtitle": "An isolated segment of gut can coordinate peristalsis entirely on its own. Cut it free and it still moves food.",
+      "term": "Peristaltic reflex",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Local decision",
+      "subtitle": "Sensory neurons detect stretch. Interneurons process the signal. Motor neurons contract the muscle downstream. All in the gut.",
+      "term": "Local decision",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Serotonin factory",
+      "subtitle": "The gut produces 95 percent of the body's serotonin — the molecule most associated with mood, well-being, and emotion.",
+      "term": "Serotonin factory",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Mood molecule",
+      "subtitle": "Most of the serotonin in your blood was made by enteric neurons, not by your brain.",
+      "term": "Mood molecule",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Gut-brain chemistry",
+      "subtitle": "The gut synthesizes serotonin from dietary tryptophan and releases it into the bloodstream and the brain.",
+      "term": "Gut-brain chemistry",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "The vagus highway",
+      "subtitle": "The vagus nerve connects the gut and the brain, carrying signals in both directions.",
+      "term": "The vagus highway",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Eighty percent ascending",
+      "subtitle": "Eighty to ninety percent of vagal fibers carry information from the body upward to the brainstem.",
+      "term": "Eighty percent ascending",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Bottom-up perception",
+      "subtitle": "Your brain does not merely command the body. It listens to the body, and most of what it hears comes from the gut.",
+      "term": "Bottom-up perception",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Microbiome dialogue",
+      "subtitle": "The gut microbiome produces neurotransmitters that enteric neurons detect and relay.",
+      "term": "Microbiome dialogue",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Bacterial signaling",
+      "subtitle": "Gut bacteria synthesize dopamine, serotonin, GABA, and other molecules that influence mood and behavior.",
+      "term": "Bacterial signaling",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Ecosystem inside",
+      "subtitle": "Your gut hosts an ecosystem of trillions of microorganisms. They talk to your second brain, and your second brain talks to your first.",
+      "term": "Ecosystem inside",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Gut feelings are real",
+      "subtitle": "Interoception — the perception of internal body states — carries enteric signals into conscious awareness.",
+      "term": "Gut feelings are real",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Insula integration",
+      "subtitle": "The insular cortex maps the body's internal state. It is where the gut feeling becomes a felt sensation.",
+      "term": "Insula integration",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Intuition has anatomy",
+      "subtitle": "What we call intuition may be the enteric nervous system contributing its computation to decisions before the brain has finished processing.",
+      "term": "Intuition has anatomy",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Enteric glia",
+      "subtitle": "More than half of the cells in the enteric nervous system are glia — support cells that maintain neuronal health.",
+      "term": "Enteric glia",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Gut barrier",
+      "subtitle": "Enteric glia help maintain the gut barrier and regulate inflammation. They are the immune system's interface with the enteric brain.",
+      "term": "Gut barrier",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Trophic support",
+      "subtitle": "Glial cells release neurotrophic factors that keep enteric neurons alive and functional throughout life.",
+      "term": "Trophic support",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Stress reshapes the gut",
+      "subtitle": "Chronic stress alters enteric neural activity, barrier function, and gut motility.",
+      "term": "Stress reshapes the gut",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "Vagal withdrawal",
+      "subtitle": "Stress suppresses vagal tone, disconnecting the two brains and leaving the gut to operate without higher modulation.",
+      "term": "Vagal withdrawal",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "Healing the connection",
+      "subtitle": "Restoring vagal tone through breath, movement, or social connection improves enteric function and emotional regulation.",
+      "term": "Healing the connection",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "Lifelong neurogenesis",
+      "subtitle": "Unlike most of the central nervous system, the enteric nervous system continues to generate new neurons throughout life.",
+      "term": "Lifelong neurogenesis",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "Continuous renewal",
+      "subtitle": "The enteric brain is not a fixed structure. It rewires, replaces, and adapts in response to diet, experience, and injury.",
+      "term": "Continuous renewal",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "Two brains, one body",
+      "subtitle": "The cephalic brain and the enteric brain are separate organs with different embryological origins, different transmitters, different functio",
+      "term": "Two brains, one body",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "Parallel processing",
+      "subtitle": "They process information in parallel, communicate bidirectionally, and influence each other's development.",
+      "term": "Parallel processing",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "Second mind",
+      "subtitle": "The enteric nervous system has its own sensory processing, its own reflexes, its own memory, its own capacity to learn.",
+      "term": "Second mind",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "Intelligence is distributed",
+      "subtitle": "Intelligence is not a single organ. It is distributed throughout the body, and the body has ways of knowing the brain does not.",
+      "term": "Intelligence is distributed",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "Embodied cognition",
+      "subtitle": "Cognition is not computation on abstract symbols. It is the activity of a body that senses, moves, digests, and feels.",
+      "term": "Embodied cognition",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "Listen",
+      "subtitle": "The voice inside your chest is not a metaphor. It is a neural network with half a billion neurons speaking in the language of serotonin and ",
+      "term": "Listen",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-034",
+      "title": "Resilience",
+      "subtitle": "The enteric nervous system repairs itself, adapts to injury, and maintains function across decades of use.",
+      "term": "Resilience",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-035",
+      "title": "Neuroplasticity",
+      "subtitle": "Enteric neuroplasticity is the reason dietary changes, probiotics, and behavioral interventions can reshape gut function.",
+      "term": "Neuroplasticity",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-036",
+      "title": "Supported claims",
+      "subtitle": "That the gut has an independent nervous system. That it produces most of the body's serotonin. That it communicates with the brain.",
+      "term": "Supported claims",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-037",
+      "title": "Emerging frontier",
+      "subtitle": "That gut feelings are interoceptive signals reaching awareness. That the microbiome modulates mood. These are active research frontiers.",
+      "term": "Emerging frontier",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-038",
+      "title": "Not metaphor",
+      "subtitle": "What traditions called the second brain or the voice in the chest is now visible as a biological organ with specific anatomy and physiology.",
+      "term": "Not metaphor",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-039",
+      "title": "Closing",
+      "subtitle": "You are not one voice. You are a chorus. The body speaks in a language older than language. It has been speaking since before there was a br",
+      "term": "Closing",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-040",
+      "title": "Final frame",
+      "subtitle": "Listen to the voice inside your chest. It has been trying to tell you something.",
+      "term": "Final frame",
+      "devanagari": "वाक्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "dreams-more-real",
+  "title": "dreams are more real than waking reality",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 3649852313,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Dreams are the source",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Dreams are the source",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Not byproduct — origin",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Not byproduct — origin",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Events from nonphysical properties",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Events from nonphysical properties",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The dream state is the source",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "The dream state is the source",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Significances not cause-effect",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Significances not cause-effect",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The dreaming intellect",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "The dreaming intellect",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Early man dreamed locations",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Early man dreamed locations",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Inventions began as dreams",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Inventions began as dreams",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The universe dreamed itself",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "The universe dreamed itself",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Living from the dream source",
+      "subtitle": "Seth on dreams as the source of all physical events",
+      "term": "Living from the dream source",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

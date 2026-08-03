@@ -1,0 +1,487 @@
+{
+  "version": "1.0",
+  "id": "dreams-create-worlds",
+  "title": "dreams create worlds",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 4269637269,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The third of life",
+      "subtitle": "You spend one third of your life in a world that modern science insists does not exist.",
+      "term": "The third of life",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "The body sleeps — the brain does not",
+      "subtitle": "During REM sleep, the brain is as electrically active as during waking. The body is paralyzed. The mind is anywhere but here.",
+      "term": "The body sleeps — the brain does not",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Not random noise",
+      "subtitle": "Neuroscience once dismissed dreams as random neural firing. But dreams have structure, narrative, meaning — and their own logic.",
+      "term": "Not random noise",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Seth's claim",
+      "subtitle": "In the 1960s, a channeled personality named Seth said: the dream world is as real as the physical world. It has its own laws, its own time, ",
+      "term": "Seth's claim",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Two faces",
+      "subtitle": "'Pretend you are a creature with two faces. One face looks out upon one world — the other upon another. Both are fully conscious.'",
+      "term": "Two faces",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Two frameworks",
+      "subtitle": "Neuroscience says: dreams are memory consolidation and noise. Seth says: dreams are a distinct dimension with its own root assumptions.",
+      "term": "Two frameworks",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The dreaming wave",
+      "subtitle": "Seth: 'In dreams, your consciousness operates as a wave — not confined to the body, not bound by space or time.'",
+      "term": "The dreaming wave",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Waves of awareness",
+      "subtitle": "When the body sleeps, consciousness returns to its native element — the dreaming sea from which it emerged.",
+      "term": "Waves of awareness",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Seeding",
+      "subtitle": "A question placed before sleep becomes a dream. A dream understood becomes an event in the waking world.",
+      "term": "Seeding",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The night's answer",
+      "subtitle": "The dreaming mind does not answer questions with words. It answers with encounters. It shows you what you need to see.",
+      "term": "The night's answer",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Source of events",
+      "subtitle": "Seth: 'All physical events are the end products of nonphysical properties. The dream state is the source.'",
+      "term": "Source of events",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "From dream to world",
+      "subtitle": "An idea dreamed becomes a tool. A vision dreamed becomes a city. A fear dreamed becomes an illness.",
+      "term": "From dream to world",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Original learning",
+      "subtitle": "Early humans dreamed the location of water and food. They did not discover the world through trial and error — they were shown.",
+      "term": "Original learning",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "The inner GPS",
+      "subtitle": "In dreams, the mind maps territories the body has never visited. The dream came first. The journey followed.",
+      "term": "The inner GPS",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Cooperative dreaming",
+      "subtitle": "All species once shared their dreams. A cross-species conversation — silent, imagistic, precise — maintained the balance of ecosystems.",
+      "term": "Cooperative dreaming",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "The forgotten language",
+      "subtitle": "Seth: 'In early times, all species shared their dreams. Man inquired of the animals in his sleep.'",
+      "term": "The forgotten language",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Every invention was dreamed",
+      "subtitle": "Fire, tools, language, art, cities, science — every human invention began as a dream-image before it became physical.",
+      "term": "Every invention was dreamed",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "The dream precedes the form",
+      "subtitle": "Man dreamed his world and then created it. The physical universe is a dream that solidified.",
+      "term": "The dream precedes the form",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Waking is a specialized dream",
+      "subtitle": "The waking state is not the opposite of dreaming. It is a specialized extension of dreaming — a focused beam of the same light.",
+      "term": "Waking is a specialized dream",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "The ocean and the wave",
+      "subtitle": "Dreaming is the ocean. Waking is a wave on that ocean. The wave does not cease to be ocean when it rises.",
+      "term": "The ocean and the wave",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Lucid dreaming",
+      "subtitle": "In the lucid dream, the dreamer knows they are dreaming. The rules of reality become optional. This is a glimpse of the true nature of all e",
+      "term": "Lucid dreaming",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "The threshold",
+      "subtitle": "Lucid dreaming is not a trick. It is a remembering of what you are. The dreamer who wakes within the dream is practicing for a larger awaken",
+      "term": "The threshold",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Consciousness in all things",
+      "subtitle": "Every atom, every cell, every molecule — all possess a kind of consciousness. They are information-gathering processes with their own interi",
+      "term": "Consciousness in all things",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "The spectrum of awareness",
+      "subtitle": "There is no sharp boundary between conscious and unconscious. There is only a spectrum of awareness from the mineral to the divine.",
+      "term": "The spectrum of awareness",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "The spacious present",
+      "subtitle": "Past, present, and future coexist in the dream state. Sequence is a filter that waking consciousness applies to a simultaneous reality.",
+      "term": "The spacious present",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "All time is now",
+      "subtitle": "In dreams, you know the beginning and end of events at once. Time is not traversed — it is perceived whole.",
+      "term": "All time is now",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "The dialogue",
+      "subtitle": "The dreaming self is not unconscious. It is talking to you constantly. You are not listening because you have been taught not to.",
+      "term": "The dialogue",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "Learning to listen",
+      "subtitle": "The first step of dream work is not to interpret. It is to acknowledge that the dream is a real communication from a real intelligence.",
+      "term": "Learning to listen",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "The inner senses",
+      "subtitle": "Seth describes six inner senses — faculties that perceive realities the outer senses cannot reach. They see within the body, across space, t",
+      "term": "The inner senses",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "Expanding perception",
+      "subtitle": "The inner senses are not paranormal. They are normal faculties that have been atrophied by a culture that only values outer perception.",
+      "term": "Expanding perception",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "Two faces of the self",
+      "subtitle": "One face looks at the world. One face looks at the dream. Both are you. Both are conscious. Neither is more real.",
+      "term": "Two faces of the self",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "The integration",
+      "subtitle": "The goal is not to escape into dreams or to dismiss them. It is to live with both faces aware of each other.",
+      "term": "The integration",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "The merge",
+      "subtitle": "Dream and waking are not two states. They are one consciousness perceived through two different apertures.",
+      "term": "The merge",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-034",
+      "title": "One consciousness",
+      "subtitle": "When the apertures align, the distinction dissolves. You perceive the dream within the waking — and the waking within the dream.",
+      "term": "One consciousness",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-035",
+      "title": "The universe dreamed itself",
+      "subtitle": "'The universe dreamed itself into being' is not poetry. It is the most literal description of existence.",
+      "term": "The universe dreamed itself",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-036",
+      "title": "Divine psychological gestalt",
+      "subtitle": "A being whose reality escapes the definition of 'being' — the source from which all being emerges. And you are part of its dream.",
+      "term": "Divine psychological gestalt",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-037",
+      "title": "The transition",
+      "subtitle": "Every night you die to the waking world and are born into the dream. Every morning you die to the dream and are born into waking. Practice d",
+      "term": "The transition",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-038",
+      "title": "Closing",
+      "subtitle": "You are not a body having a dream. You are a dream having a body. The world is a dream that knows itself.",
+      "term": "Closing",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-039",
+      "title": "Final frame",
+      "subtitle": "Dream deeply. The universe is dreaming through you.",
+      "term": "Final frame",
+      "devanagari": "माया",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    }
+  ]
+}

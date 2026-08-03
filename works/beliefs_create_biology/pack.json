@@ -1,0 +1,511 @@
+{
+  "version": "1.0",
+  "id": "beliefs-create-biology",
+  "title": "your beliefs create your biology",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 2721293159,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The materialist assumption",
+      "subtitle": "For centuries, Western science has assumed that matter generates mind — that consciousness is a byproduct of brain activity.",
+      "term": "The materialist assumption",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "The boundary",
+      "subtitle": "The brain is the hardware. Consciousness is the software. Or so the story goes.",
+      "term": "The boundary",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The placebo",
+      "subtitle": "A patient receives a sugar pill and is told it is a powerful painkiller. Their pain vanishes.",
+      "term": "The placebo",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Not imagined",
+      "subtitle": "fMRI scans show the brain's pain centers deactivating. The saline did nothing. The belief did everything.",
+      "term": "Not imagined",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Growing stronger",
+      "subtitle": "In 2023, a meta-analysis found the placebo effect in pain trials is 65% stronger than it was in the 1990s.",
+      "term": "Growing stronger",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Learning to heal",
+      "subtitle": "We are not imagining relief more effectively — we are learning to translate belief into biology more efficiently.",
+      "term": "Learning to heal",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The forgotten variable",
+      "subtitle": "The placebo effect was once dismissed as a statistical nuisance. It is now understood as the mechanism of healing itself.",
+      "term": "The forgotten variable",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "A different starting point",
+      "subtitle": "In 1963, a woman named Jane Roberts began channeling a personality named Seth.",
+      "term": "A different starting point",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Seth's claim",
+      "subtitle": "Seth said: 'Desire, love, intent, belief and purpose — these form the experience of your body and all the events it perceives.'",
+      "term": "Seth's claim",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Not metaphor",
+      "subtitle": "He meant this literally — not metaphorically. Belief is not a commentary on biology. Belief IS the substance of biology.",
+      "term": "Not metaphor",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Belief enters the cell",
+      "subtitle": "How does a thought become a biological change? The same way an instruction becomes a cellular response.",
+      "term": "Belief enters the cell",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Gene expression",
+      "subtitle": "Beliefs regulate gene expression through epigenetic mechanisms. A thought can silence a gene or activate it.",
+      "term": "Gene expression",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "The body listens",
+      "subtitle": "Every cell of your body is listening to your thoughts. Not metaphorically — biochemically.",
+      "term": "The body listens",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Cellular faith",
+      "subtitle": "Seth: 'Each cell contains within itself a belief and an understanding of its own inevitability.'",
+      "term": "Cellular faith",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Built-in optimism",
+      "subtitle": "Each cell believes in a better tomorrow. This is not poetry — it is the biological impetus of all growth.",
+      "term": "Built-in optimism",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "The network",
+      "subtitle": "Cells communicate through gap junctions, ion channels, electromagnetic fields. They weigh probabilities. They make decisions.",
+      "term": "The network",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Value fulfillment",
+      "subtitle": "Life seeks not just to continue, but to enhance the quality of life itself. Seth called this value fulfillment.",
+      "term": "Value fulfillment",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Cooperative venture",
+      "subtitle": "The very existence of one human body speaks of molecular and cellular cooperation that chance alone cannot explain.",
+      "term": "Cooperative venture",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Molecular cooperation",
+      "subtitle": "Minerals, plants, animals, cells — all participate in a cooperative venture that unites every level of life.",
+      "term": "Molecular cooperation",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "The given gift",
+      "subtitle": "Cooperation is not learned — it is given. The gift of life brings along with it the actualization of that cooperation.",
+      "term": "The given gift",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "DNA as antenna",
+      "subtitle": "Cassiopaean: 'DNA acts as a superconductor — a neurotransceiver for thought pattern programs.'",
+      "term": "DNA as antenna",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Electrical conductor",
+      "subtitle": "Research confirms that DNA conducts electricity. Its structure is optimized for charge transport.",
+      "term": "Electrical conductor",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Signal or noise?",
+      "subtitle": "What if DNA is not a blueprint but a receiver — shaped by consciousness to receive consciousness?",
+      "term": "Signal or noise?",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "The field of awareness",
+      "subtitle": "Consciousness is not located inside the body. The body is located inside consciousness.",
+      "term": "The field of awareness",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "Brain or field?",
+      "subtitle": "The brain is not the source of consciousness — it is a reducing valve that filters consciousness into the bandwidth of a single body.",
+      "term": "Brain or field?",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "Illness as communication",
+      "subtitle": "Seth: 'Illness is often another mode of expression, a means to a desired end.'",
+      "term": "Illness as communication",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "The body's language",
+      "subtitle": "The body has no language but health and its disturbance. Illness is the body's way of speaking what the mind cannot.",
+      "term": "The body's language",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "The dreaming source",
+      "subtitle": "Seth: 'The dream state is the source of all physical events. Physical events are the end products of nonphysical properties.'",
+      "term": "The dreaming source",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "Events from significances",
+      "subtitle": "Events are not built from cause and effect. They are built from significances — from meaning, belief, and intent.",
+      "term": "Events from significances",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "The psyche as gestalt",
+      "subtitle": "The psyche is not a thing. It is an ever-forming state of being — a gestalt of aware energy.",
+      "term": "The psyche as gestalt",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "You create it",
+      "subtitle": "You create the psyche and it creates you. This is not paradox — it is the structure of subjective life.",
+      "term": "You create it",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "The first distortion",
+      "subtitle": "The Law of One: 'Intelligent infinity invested itself in an exploration of many-ness. The first distortion is free will.'",
+      "term": "The first distortion",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "Freedom is primitive",
+      "subtitle": "Freedom does not emerge from causality. Causality emerges from freedom. This is the ground of all existence.",
+      "term": "Freedom is primitive",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-034",
+      "title": "Impressions on consciousness",
+      "subtitle": "Tantraloka: vikalpa-samskara — conceptual constructions leave impressions on consciousness that shape subsequent form.",
+      "term": "Impressions on consciousness",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-035",
+      "title": "Seeds of belief",
+      "subtitle": "Every thought is a seed planted in the field of the body. The harvest is health or illness, vitality or decay.",
+      "term": "Seeds of belief",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-036",
+      "title": "Healing parity",
+      "subtitle": "The body learned to heal itself in sleep — in dreams. At certain levels, every cell contributes to the health of all.",
+      "term": "Healing parity",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-037",
+      "title": "The nocturnal pharmacy",
+      "subtitle": "In the dream state, each portion of consciousness contributes to the health and stability of all other portions.",
+      "term": "The nocturnal pharmacy",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-038",
+      "title": "Consciousness before matter",
+      "subtitle": "Seth: 'There was consciousness before there was matter. It is an error to separate matter from consciousness.'",
+      "term": "Consciousness before matter",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-039",
+      "title": "Matter as manifestation",
+      "subtitle": "Consciousness materializes itself as matter in physical life. The body does not generate consciousness — it is generated BY consciousness.",
+      "term": "Matter as manifestation",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-040",
+      "title": "Closing",
+      "subtitle": "Your beliefs create your biology. This is not a slogan. It is the most verified and most ignored finding in medical science.",
+      "term": "Closing",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-041",
+      "title": "Final frame",
+      "subtitle": "You are not a body having a spiritual experience. You are consciousness having a biological experience.",
+      "term": "Final frame",
+      "devanagari": "जीव",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

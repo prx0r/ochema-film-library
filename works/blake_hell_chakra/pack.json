@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "id": "blake-hell-chakra",
+  "title": "blake's printing house in hell is your spinal chakra",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 17569458,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Blake's hell is the spine",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Blake's hell is the spine",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Marriage of heaven and hell",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Marriage of heaven and hell",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The printing house",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "The printing house",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Six chambers six chakras",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Six chambers six chakras",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Knowledge through descent",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Knowledge through descent",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Energy is eternal delight",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Energy is eternal delight",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The body as divine vehicle",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "The body as divine vehicle",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Doors of perception",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Doors of perception",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Liberation of the senses",
+      "subtitle": "The six chambers as the six lower energy centers",
+      "term": "Liberation of the senses",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    }
+  ]
+}

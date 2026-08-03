@@ -1,0 +1,187 @@
+{
+  "version": "1.0",
+  "id": "past-can-be-changed",
+  "title": "the past can be changed",
+  "description": "remission is retroactive alteration",
+  "theme": "whiteScientific",
+  "seed": 1140529748,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The claim",
+      "subtitle": "Remission of sins means 'to send back' — the past can be altered.",
+      "term": "The claim",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Early Christian knowledge",
+      "subtitle": "The early Christians understood that forgiveness is retroactive healing.",
+      "term": "Early Christian knowledge",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The fixed past",
+      "subtitle": "We assume the past is settled — immutable, unchangeable.",
+      "term": "The fixed past",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The assumption",
+      "subtitle": "But is this an assumption about reality or a limitation of perception?",
+      "term": "The assumption",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The quantum eraser",
+      "subtitle": "In the lab, a future measurement determines a past event's trajectory.",
+      "term": "The quantum eraser",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Delayed choice",
+      "subtitle": "Wheeler's delayed choice experiment: choice now decides what happened.",
+      "term": "Delayed choice",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The present as power",
+      "subtitle": "If the past is not fixed, the present is the only point of power.",
+      "term": "The present as power",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Now changes everything",
+      "subtitle": "What you do now reaches backward and forward.",
+      "term": "Now changes everything",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Seth on the past",
+      "subtitle": "'Each present moment brings its own built-in past along with it.'",
+      "term": "Seth on the past",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Not given — chosen",
+      "subtitle": "The past is not a given — it is a selection from probability.",
+      "term": "Not given — chosen",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Caution",
+      "subtitle": "Quantum eraser is real. Retroactive causality is theoretical.",
+      "term": "Caution",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "The therapeutic truth",
+      "subtitle": "Whether or not the past physically changes, your relationship to it can.",
+      "term": "The therapeutic truth",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Closing",
+      "subtitle": "The past is not a prison. It is a story you can rewrite.",
+      "term": "Closing",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Final frame",
+      "subtitle": "Send healing backward. The past is listening.",
+      "term": "Final frame",
+      "devanagari": "काल",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    }
+  ]
+}

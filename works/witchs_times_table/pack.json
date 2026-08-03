@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "id": "witchs-times-table",
+  "title": "the witch's times-table decodes the universe",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 1613010786,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Goethe hid a tattva map",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "Goethe hid a tattva map",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "The witch's kitchen",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "The witch's kitchen",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The one times table",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "The one times table",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Decoding the progression",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "Decoding the progression",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "36 tattvas as numbers",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "36 tattvas as numbers",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Descent through pure path",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "Descent through pure path",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Goethe's esoteric sources",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "Goethe's esoteric sources",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "From one to many",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "From one to many",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Numbers as consciousness structure",
+      "subtitle": "Goethe's number cipher as the 36 tattvas progression",
+      "term": "Numbers as consciousness structure",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    }
+  ]
+}

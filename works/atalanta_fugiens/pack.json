@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "atalanta-fugiens",
+  "title": "atalanta fugiens",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 2509905938,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Michael Maier alchemical music",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "Michael Maier alchemical music",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "50 emblems 50 fugues",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "50 emblems 50 fugues",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Atalanta and Hippomenes the race",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "Atalanta and Hippomenes the race",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The three golden apples",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "The three golden apples",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Each emblem is a stage",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "Each emblem is a stage",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The music encodes the process",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "The music encodes the process",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The chakra correspondence",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "The chakra correspondence",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The fugue as spiritual ascent",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "The fugue as spiritual ascent",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Seeing with the ears",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "Seeing with the ears",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The alchemy of sound",
+      "subtitle": "The alchemical fugue as chakra progression",
+      "term": "The alchemy of sound",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "version": "1.0",
+  "id": "consciousness-container",
+  "title": "consciousness is not located",
+  "description": "the 36 tattvas — how one becomes many without leaving itself",
+  "theme": "whiteScientific",
+  "seed": 561838767,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Siva",
+      "subtitle": "Pure consciousness, the unconditioned ground.",
+      "term": "Siva",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Not a god",
+      "subtitle": "Siva is not a deity — it is the field of all possible appearing.",
+      "term": "Not a god",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Sakti",
+      "subtitle": "The power to appear as all this — consciousness is not static.",
+      "term": "Sakti",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Dynamic",
+      "subtitle": "Siva-Sakti are not two things — they are the same reality as ground and as power.",
+      "term": "Dynamic",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Sadasiva",
+      "subtitle": "I-am-this — the first pulse of subject and object together.",
+      "term": "Sadasiva",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "First distinction",
+      "subtitle": "Not two — one pulse that contains both poles.",
+      "term": "First distinction",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Isvara",
+      "subtitle": "This-ness becomes prominent — the world begins to appear as other.",
+      "term": "Isvara",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The object pole",
+      "subtitle": "Objectivity emerges from the unity.",
+      "term": "The object pole",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Sadvidya",
+      "subtitle": "I-ness becomes prominent — the sense of self emerges.",
+      "term": "Sadvidya",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The subject pole",
+      "subtitle": "Subjectivity emerges from the unity.",
+      "term": "The subject pole",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Maya",
+      "subtitle": "Consciousness contracts into finitude — the power of limitation.",
+      "term": "Maya",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Not illusion",
+      "subtitle": "Maya is not false appearance — it is consciousness freely choosing to appear limited.",
+      "term": "Not illusion",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Kala",
+      "subtitle": "Limited agency — I can only do this much.",
+      "term": "Kala",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Vidya",
+      "subtitle": "Limited knowledge — I can only know this much.",
+      "term": "Vidya",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Raga",
+      "subtitle": "Attachment — I want this and not that.",
+      "term": "Raga",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Kala",
+      "subtitle": "Time — I experience sequence, not simultaneity.",
+      "term": "Kala",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Niyati",
+      "subtitle": "Causality — events appear determined.",
+      "term": "Niyati",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Purusha",
+      "subtitle": "The individual experiencer enters.",
+      "term": "Purusha",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Prakrti",
+      "subtitle": "The apparatus of experience — nature as the field of limitation.",
+      "term": "Prakrti",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Buddhi",
+      "subtitle": "The intellect — discernment, decision, the capacity to know this as this.",
+      "term": "Buddhi",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Ahankara",
+      "subtitle": "The I-maker — the sense that this experience belongs to me.",
+      "term": "Ahankara",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Manas",
+      "subtitle": "The mind — attention, deliberation, oscillation.",
+      "term": "Manas",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "The five senses",
+      "subtitle": "Hearing, touching, seeing, tasting, smelling — gates through which consciousness perceives.",
+      "term": "The five senses",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "The five subtle elements",
+      "subtitle": "Sound, touch, form, taste, smell — the raw data of perception.",
+      "term": "The five subtle elements",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "The five gross elements",
+      "subtitle": "Ether, air, fire, water, earth — consciousness becomes physical.",
+      "term": "The five gross elements",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "Ether",
+      "subtitle": "Space — the first condition of physical appearance.",
+      "term": "Ether",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "Earth",
+      "subtitle": "The most contracted form of consciousness.",
+      "term": "Earth",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "The body",
+      "subtitle": "Earth tattva — the final density of appearing.",
+      "term": "The body",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "Matter as consciousness",
+      "subtitle": "The body is not unconscious — it is consciousness appearing at maximum contraction.",
+      "term": "Matter as consciousness",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "Neuroscience",
+      "subtitle": "Modern science looks for consciousness inside the brain.",
+      "term": "Neuroscience",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "Not found",
+      "subtitle": "After decades of searching, the neural correlate is not the thing itself.",
+      "term": "Not found",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "Wrong question",
+      "subtitle": "Abhinavagupta: you cannot find consciousness inside experience because consciousness is the space of experience.",
+      "term": "Wrong question",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "The descent",
+      "subtitle": "36 tattvas: one consciousness appearing as all this.",
+      "term": "The descent",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-034",
+      "title": "The ascent",
+      "subtitle": "The return path: from earth back to Siva — consciousness recognizing itself.",
+      "term": "The ascent",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-035",
+      "title": "Discipline",
+      "subtitle": "The tattvas are ontological, not physical.",
+      "term": "Discipline",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-036",
+      "title": "No reduction",
+      "subtitle": "They describe modes of appearing, not physical layers.",
+      "term": "No reduction",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-037",
+      "title": "Closing",
+      "subtitle": "Siva never leaves. The 36 tattvas are the same one, appearing at different densities of self-limitation.",
+      "term": "Closing",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-038",
+      "title": "Final frame",
+      "subtitle": "Consciousness is not located. It is where location appears.",
+      "term": "Final frame",
+      "devanagari": "चेतन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    }
+  ]
+}

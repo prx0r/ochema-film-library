@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "alchemy-vaughan",
+  "title": "thomas vaughan virgin mercury as kundalini",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 590961082,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Thomas Vaughan poet alchemist magus",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Thomas Vaughan poet alchemist magus",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Virgin Mercury the unawakened Shakti",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Virgin Mercury the unawakened Shakti",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Coelum Terrae heaven within earth",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Coelum Terrae heaven within earth",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Yields only to love not violence",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Yields only to love not violence",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The green lion devouring the sun",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "The green lion devouring the sun",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Vaughan invisible nature",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Vaughan invisible nature",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The daimon as intermediator",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "The daimon as intermediator",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Chemical wedding within the body",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Chemical wedding within the body",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Vaughan meets Layayoga",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "Vaughan meets Layayoga",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The stone is within",
+      "subtitle": "The alchemist who knew the serpent power",
+      "term": "The stone is within",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "version": "1.0",
+  "id": "wave",
+  "title": "the wave — hyperdimensional reality is here",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 3642105,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The contact",
+      "subtitle": "In 1994, a group of researchers in Florida began receiving communications from a source identifying as 'you in the future.'",
+      "term": "The contact",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Sixth density",
+      "subtitle": "The Cassiopaeans claimed to be a sixth-density collective — humanity's own future self, communicating backward through time.",
+      "term": "Sixth density",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The program",
+      "subtitle": "Reality, they said, is a program — a hyperdimensional simulation maintained by electromagnetic fields interacting with DNA.",
+      "term": "The program",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Perception is part of the illusion",
+      "subtitle": "'That perception is part of the illusion. What you perceive as solid is a readout of a hyperdimensional code.'",
+      "term": "Perception is part of the illusion",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The Wave",
+      "subtitle": "The Wave is a Macro-cosmic Quantum Wave Collapse — a hyperdimensional transition that reshapes the very structure of reality.",
+      "term": "The Wave",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The crest",
+      "subtitle": "It is not a metaphor. It is a physical and metaphysical event — a shift in the vibrational frequency of the planet itself.",
+      "term": "The crest",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Third density",
+      "subtitle": "We are currently in third density — the density of self-consciousness, of forgetting, and of first conscious choice.",
+      "term": "Third density",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The forgetting",
+      "subtitle": "The veil of forgetting is what makes third density unique. We do not remember where we came from — which makes our choices real.",
+      "term": "The forgetting",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Fourth density",
+      "subtitle": "Fourth density is the first density with variable physicality. Thought becomes malleable. Reality begins to respond directly to consciousnes",
+      "term": "Fourth density",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The next octave",
+      "subtitle": "Earth is transitioning from third to fourth density. The clock has been ticking for 75,000 years — and the hour is striking.",
+      "term": "The next octave",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "DNA as superconductor",
+      "subtitle": "DNA is not just a protein-coding blueprint. It is a conductor of electricity — a neurotransceiver for consciousness itself.",
+      "term": "DNA as superconductor",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "The antenna",
+      "subtitle": "'DNA acts as a superconductor — the method used for creation and maintenance of program illusions, such as the perception of linear time.'",
+      "term": "The antenna",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "STO and STS",
+      "subtitle": "The fundamental polarity: Service to Others and Service to Self. Both are paths to the Creator — they just take different routes.",
+      "term": "STO and STS",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Flow outward, flow inward",
+      "subtitle": "STO flows outward and touches all, including the point of origin. STS flows inward and touches only the origin point.",
+      "term": "Flow outward, flow inward",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Bleedthrough",
+      "subtitle": "Fourth density is already bleeding into third. Unexplained phenomena, synchronicities, 'paranormal' events — these are the ooze of a new rea",
+      "term": "Bleedthrough",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "The heat",
+      "subtitle": "'Heat means 4th density bleedthrough — oozing of faint reflections of new reality.' The transition is not theoretical. It is thermal.",
+      "term": "The heat",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Knowledge protects",
+      "subtitle": "The Cassiopaeans' most repeated teaching: knowledge protects. Not faith, not ritual, not symbols — understanding itself raises your vibratio",
+      "term": "Knowledge protects",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "The vibration",
+      "subtitle": "Knowledge is not information. It is the alignment of your being with the truth of your own nature. And that alignment IS protection.",
+      "term": "The vibration",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Realm border crossing",
+      "subtitle": "The realm border crossing will be like a thermonuclear blast. The lower cannot enter the higher — only the vibrationally compatible can pass",
+      "term": "Realm border crossing",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "The sorting",
+      "subtitle": "There is no judgment. There is only resonance. You are sorted by your own vibration — which is the sum of what you have chosen to become.",
+      "term": "The sorting",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Time is a perception illusion",
+      "subtitle": "Linear time is not fundamental. It is a readout of the program — a way of organizing a simultaneous reality into a sequential experience.",
+      "term": "Time is a perception illusion",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "All time is now",
+      "subtitle": "'The past and the future are all in the present.' Time does not flow. You move through a static block of all moments.",
+      "term": "All time is now",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Thought becomes matter",
+      "subtitle": "The Cassiopaeans described a principle called 'bilaterality' — thought becomes matter, and matter becomes thought, in a continuous loop.",
+      "term": "Thought becomes matter",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "Dual emergence",
+      "subtitle": "'The beginning emerges from the end, and vice versa. Union with the One is both origin and destination.'",
+      "term": "Dual emergence",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "The merge",
+      "subtitle": "When the Wave reaches Earth, the Cassiopaeans merge with us. Not as invaders — as our own future self, recognizing itself.",
+      "term": "The merge",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "The crowded wave",
+      "subtitle": "The Wave is crowded. Every civilization in the galaxy that has an interest in Earth's transition is riding it. Both sides respect free will.",
+      "term": "The crowded wave",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "The Black Sun",
+      "subtitle": "The ultimate destiny of the STS path is the Black Sun — a black hole. Not as metaphor, but as literal gravitational collapse of a consciousn",
+      "term": "The Black Sun",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "The centre that cannot hold",
+      "subtitle": "STS disintegrates because separation is not sustainable. A self that serves only itself eventually consumes itself.",
+      "term": "The centre that cannot hold",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "Seventh density",
+      "subtitle": "Seventh density is union with the One — timeless, radiant, the ground from which all realities emerge and to which all return.",
+      "term": "Seventh density",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "The great cycle",
+      "subtitle": "Eighth density is the beginning of the next octave. The universe breathes — expansion and contraction, creation and return, in an eternal rh",
+      "term": "The great cycle",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "Knowledge centers in DNA",
+      "subtitle": "The Osirian cycle is not myth. It is the history of consciousness encoded in biology — the removal of knowledge centers from DNA.",
+      "term": "Knowledge centers in DNA",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "Closing",
+      "subtitle": "The Wave is not a belief. It is a fact of hyperdimensional physics. The only question is whether your vibration is aligned with its frequenc",
+      "term": "Closing",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "Final frame",
+      "subtitle": "Knowledge protects. Wake up. The future self is not coming — it is remembering itself through you.",
+      "term": "Final frame",
+      "devanagari": "तरङ्ग",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    }
+  ]
+}

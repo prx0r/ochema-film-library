@@ -1,0 +1,667 @@
+{
+  "version": "1.0",
+  "id": "life-crosses",
+  "title": "life crosses barriers it cannot climb",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 4017434283,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "A proton reaches a wall",
+      "subtitle": "A proton reaches a wall. Classical physics gives it two options.",
+      "term": "A proton reaches a wall",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Climb",
+      "subtitle": "Bring enough energy to climb over.",
+      "term": "Climb",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Stop",
+      "subtitle": "Or remain where it is.",
+      "term": "Stop",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Third option",
+      "subtitle": "Inside enzymes, a third option matters. The proton can appear on the other side.",
+      "term": "Third option",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "No crack",
+      "subtitle": "Not because the wall opens. Not because the particle secretly found a crack.",
+      "term": "No crack",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Wave penetrates",
+      "subtitle": "Its quantum wave extends through the barrier, giving the transfer a probability even when the classical route is energetically forbidden.",
+      "term": "Wave penetrates",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "No violation",
+      "subtitle": "Life does not violate physics. It uses the version of physics in which a barrier is not always an absolute border.",
+      "term": "No violation",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Wavefunction",
+      "subtitle": "A quantum particle is described by a wavefunction: a distribution of amplitudes over possible outcomes.",
+      "term": "Wavefunction",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Decay",
+      "subtitle": "At a finite barrier, the wavefunction does not stop sharply. It decays through the forbidden region.",
+      "term": "Decay",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Detection",
+      "subtitle": "If enough amplitude reaches the far side, a measurement can find the particle there.",
+      "term": "Detection",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Width",
+      "subtitle": "The probability falls exponentially with barrier width.",
+      "term": "Width",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Mass",
+      "subtitle": "It also falls with particle mass. Electrons tunnel readily; protons can tunnel biologically; heavier atoms do so far less easily.",
+      "term": "Mass",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Geometry becomes destiny",
+      "subtitle": "At this scale, a difference of fractions of an ångström can transform the rate. Geometry becomes destiny.",
+      "term": "Geometry becomes destiny",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Catalysis before enzyme",
+      "subtitle": "Enzymes are molecular catalysts. A reaction in solution may face a steep and badly arranged energy landscape.",
+      "term": "Catalysis before enzyme",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Catalysis inside enzyme",
+      "subtitle": "An enzyme orients substrates, reorganizes electrostatics, positions water, and stabilizes favorable configurations.",
+      "term": "Catalysis inside enzyme",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "No quantum magic",
+      "subtitle": "Tunnelling is not a universal explanation for catalytic power. The enzyme does not replace chemistry with quantum magic.",
+      "term": "No quantum magic",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Prepared situation",
+      "subtitle": "It prepares a molecular situation in which an unavoidable quantum process becomes useful.",
+      "term": "Prepared situation",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Hydrogen transfer",
+      "subtitle": "Hydrogen-transfer enzymes offer the clearest cases because hydrogen is light and its quantum position is comparatively spread out.",
+      "term": "Hydrogen transfer",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Replace H with D",
+      "subtitle": "Replace ordinary hydrogen with deuterium. The heavier isotope tunnels less readily.",
+      "term": "Replace H with D",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Open a case",
+      "subtitle": "A large isotope effect can support tunnelling, but mass is not the only variable.",
+      "term": "Open a case",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Mechanism remains plural",
+      "subtitle": "Protein motion, barrier shape, electrostatics, and coupled coordinates also influence the result. The experiment opens a case. It does not c",
+      "term": "Mechanism remains plural",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Donor and acceptor apart",
+      "subtitle": "In soybean lipoxygenase, donor and acceptor begin too far apart for efficient hydrogen transfer.",
+      "term": "Donor and acceptor apart",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Protein samples geometry",
+      "subtitle": "Protein motion samples configurations. For brief moments, the distance narrows.",
+      "term": "Protein samples geometry",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "Breathing barrier",
+      "subtitle": "The enzyme does not push the particle continuously across. It breathes the barrier into a form through which tunnelling becomes likely.",
+      "term": "Breathing barrier",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "Motion and probability",
+      "subtitle": "Motion prepares. Quantum probability completes.",
+      "term": "Motion and probability",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "Evolution selects geometry",
+      "subtitle": "Evolution does not need to understand wavefunctions. It only needs to preserve molecular arrangements that produce better outcomes.",
+      "term": "Evolution selects geometry",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    },
+    {
+      "id": "scene-027",
+      "title": "The molecule inherits mathematics",
+      "subtitle": "Quantum effects can become biologically functional without being represented by the organism. Selection operates on outcomes. The molecule i",
+      "term": "The molecule inherits mathematics",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "tuning-network"
+      }
+    },
+    {
+      "id": "scene-028",
+      "title": "Triangle",
+      "subtitle": "Build a triangle and geometric relations arrive with the arrangement.",
+      "term": "Triangle",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "source-compile-runtime"
+      }
+    },
+    {
+      "id": "scene-029",
+      "title": "Double well",
+      "subtitle": "Build a double-well molecular potential at the right scale and tunnelling enters the reaction landscape.",
+      "term": "Double well",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "recursive-observer"
+      }
+    },
+    {
+      "id": "scene-030",
+      "title": "Reliable flux",
+      "subtitle": "Build an enzyme that repeatedly narrows donor and acceptor distance, and a small probability becomes a reliable biological flux.",
+      "term": "Reliable flux",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "open-question"
+      }
+    },
+    {
+      "id": "scene-031",
+      "title": "Pointer into possibility",
+      "subtitle": "The organism does not create the quantum law. It creates a pointer into the region where the law becomes useful.",
+      "term": "Pointer into possibility",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "relational-birth"
+      }
+    },
+    {
+      "id": "scene-032",
+      "title": "Structure selects",
+      "subtitle": "Structure does not merely decorate matter. Structure selects which physical possibilities become real often enough to matter.",
+      "term": "Structure selects",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-033",
+      "title": "Water relay",
+      "subtitle": "In respiratory enzymes, proton transfer may use hydrogen-bonded water chains. Bonding patterns reorganize in a relay.",
+      "term": "Water relay",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-034",
+      "title": "Electric gate",
+      "subtitle": "Electric fields, protonation states, and conformational switches lower one route while suppressing others.",
+      "term": "Electric gate",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-035",
+      "title": "Constraint gives direction",
+      "subtitle": "The proton reaches the correct destination not because every possibility remains open, but because architecture makes one event repeatable a",
+      "term": "Constraint gives direction",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-036",
+      "title": "Life sculpts barriers",
+      "subtitle": "Life does not defeat barriers. It sculpts them.",
+      "term": "Life sculpts barriers",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-037",
+      "title": "Warm, wet, noisy",
+      "subtitle": "Living systems do not preserve a laboratory-perfect quantum world inside the cell.",
+      "term": "Warm, wet, noisy",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-038",
+      "title": "Noise samples geometry",
+      "subtitle": "Protein fluctuations can sample useful geometries. Dissipation can prevent a system from remaining trapped.",
+      "term": "Noise samples geometry",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-039",
+      "title": "Control without purity",
+      "subtitle": "Life builds noisy structures in which specific quantum facts remain consequential. The miracle is control without purity.",
+      "term": "Control without purity",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-040",
+      "title": "No concept required",
+      "subtitle": "A proton does not know the destination. An enzyme does not know quantum mechanics. Evolution does not calculate tunnelling integrals.",
+      "term": "No concept required",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-041",
+      "title": "Architecture knows",
+      "subtitle": "Knowledge is not required at every level for a structure to exploit a law.",
+      "term": "Architecture knows",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-042",
+      "title": "Truths the body cannot state",
+      "subtitle": "A bird need not understand spin chemistry. A cell need not understand voltage. An embryo need not understand geometry. The body acts through",
+      "term": "Truths the body cannot state",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-043",
+      "title": "Do not overreach",
+      "subtitle": "Tunnelling in enzymes does not prove that thought tunnels, intention controls particles, or spiritual realization is a quantum jump.",
+      "term": "Do not overreach",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-044",
+      "title": "Exact mechanism",
+      "subtitle": "It is a specific physical mechanism defined by masses, barriers, coupling, geometry, and measurable rate effects.",
+      "term": "Exact mechanism",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-045",
+      "title": "Disciplined metaphor",
+      "subtitle": "The responsible philosophical movement goes in the other direction: let the exact mechanism transform the metaphor.",
+      "term": "Disciplined metaphor",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-046",
+      "title": "Same wall, more force",
+      "subtitle": "A person can spend years trying to climb a psychological wall through greater force: more pressure, more command, more repetition of the sam",
+      "term": "Same wall, more force",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-047",
+      "title": "Change geometry",
+      "subtitle": "Sometimes change happens only when the geometry changes.",
+      "term": "Change geometry",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-048",
+      "title": "Preparation",
+      "subtitle": "Support narrows the distance to safety. Regulation permits new evidence. Practice changes the shape of attention.",
+      "term": "Preparation",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-049",
+      "title": "Sudden from one level",
+      "subtitle": "Transformation looks sudden because preparation happened in dimensions the conscious story did not track.",
+      "term": "Sudden from one level",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-050",
+      "title": "Return to wall",
+      "subtitle": "A proton reaches a wall. Classical intuition says it must climb or stop.",
+      "term": "Return to wall",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-051",
+      "title": "Quantum layer",
+      "subtitle": "Quantum mechanics says the wall has thickness, the particle has a wavefunction, and probability penetrates where a point-object could not.",
+      "term": "Quantum layer",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-052",
+      "title": "Biological layer",
+      "subtitle": "Biology adds another layer: the enzyme evolves a chamber in which the forbidden crossing becomes ordinary enough to sustain life.",
+      "term": "Biological layer",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-053",
+      "title": "Closing",
+      "subtitle": "Life crosses barriers it cannot climb. Not through will. Not through violation. Through architecture aligned with a deeper possibility alrea",
+      "term": "Closing",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-054",
+      "title": "Thin wall",
+      "subtitle": "The particle does not conquer the wall. The living system learns how thin the wall must become.",
+      "term": "Thin wall",
+      "devanagari": "जन्म",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "body-older-than-sun",
+  "title": "your body is older than the sun",
+  "description": "Stardust, consciousness, and the cosmic recycling of matter",
+  "theme": "whiteScientific",
+  "seed": 3333347766,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Literally true: stellar nucleosynthesis",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Literally true: stellar nucleosynthesis",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Every carbon atom in your body",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Every carbon atom in your body",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Made in a star before the sun",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Made in a star before the sun",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Seth: consciousness is as old as the universe",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Seth: consciousness is as old as the universe",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The cosmic recycling of matter",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "The cosmic recycling of matter",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "What does it mean to be made of stars?",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "What does it mean to be made of stars?",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Your body is an archive",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Your body is an archive",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The spiritual implication",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "The spiritual implication",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Science and mysticism converge",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "Science and mysticism converge",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "You are the universe experiencing itself",
+      "subtitle": "Stardust, consciousness, and the cosmic recycling of matter",
+      "term": "You are the universe experiencing itself",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

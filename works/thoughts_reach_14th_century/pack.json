@@ -1,0 +1,259 @@
+{
+  "version": "1.0",
+  "id": "thoughts-reach-14th-century",
+  "title": "your thoughts reach 14th-century selves",
+  "description": "Seth on simultaneous existence — the open-ended psyche",
+  "theme": "whiteScientific",
+  "seed": 4257615005,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Seth's claim",
+      "subtitle": "You exist in this life and outside it simultaneously — between lives and in lives at once.",
+      "term": "Seth's claim",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "No closed system",
+      "subtitle": "Your thoughts reach into all simultaneous existences. No system is closed.",
+      "term": "No closed system",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The conventional view",
+      "subtitle": "Reincarnation is usually pictured as a line: past, present, future.",
+      "term": "The conventional view",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The problem with linearity",
+      "subtitle": "If lives are sequential, how does the present affect the past?",
+      "term": "The problem with linearity",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The simultaneous view",
+      "subtitle": "All lives coexist. Each influences all the others.",
+      "term": "The simultaneous view",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The landscape",
+      "subtitle": "Reincarnation is not a line — it is a terrain you are exploring from multiple angles.",
+      "term": "The landscape",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Between and in",
+      "subtitle": "You are between lives and in lives at the same time.",
+      "term": "Between and in",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The paradox",
+      "subtitle": "The whole self is both incarnate and discarnate, focused and unfocused.",
+      "term": "The paradox",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The 14th-century self",
+      "subtitle": "A hypothetical 14th-century version of you exists — and your thoughts reach them.",
+      "term": "The 14th-century self",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The reach",
+      "subtitle": "What you think now is unconsciously perceived by other versions of you.",
+      "term": "The reach",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Bidirectional causality",
+      "subtitle": "The present affects the past — not just the reverse.",
+      "term": "Bidirectional causality",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Present as point of power",
+      "subtitle": "The present moment is the point of power because it can change all moments.",
+      "term": "Present as point of power",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "The block universe",
+      "subtitle": "Special relativity suggests all moments coexist. Time does not flow.",
+      "term": "The block universe",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Consciousness as scanner",
+      "subtitle": "If the block is real, consciousness is the scanner that moves through it.",
+      "term": "Consciousness as scanner",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Quantum eraser",
+      "subtitle": "Experiments show that a future measurement can determine a past event's outcome.",
+      "term": "Quantum eraser",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Wheeler's universe",
+      "subtitle": "John Wheeler: the universe is participatory — observation is involved in creation.",
+      "term": "Wheeler's universe",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Caution",
+      "subtitle": "Simultaneous existence is a metaphysical claim, not established physics.",
+      "term": "Caution",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "The resonance",
+      "subtitle": "But the resonance between Seth's claim and emerging physics is striking.",
+      "term": "The resonance",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Closing",
+      "subtitle": "The psyche is open-ended. Your thoughts reach through time. All selves are one self.",
+      "term": "Closing",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Final frame",
+      "subtitle": "What you think now echoes through all your lives.",
+      "term": "Final frame",
+      "devanagari": "चिन्तन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    }
+  ]
+}

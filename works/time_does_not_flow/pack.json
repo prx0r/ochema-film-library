@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "time-does-not-flow",
+  "title": "time does not flow — you move through a static block",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 3615841326,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The block universe is real",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "The block universe is real",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Special relativity says so",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Special relativity says so",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Seth: past present future coexist",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Seth: past present future coexist",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The spacious present",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "The spacious present",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Time is produced by forgetting",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Time is produced by forgetting",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Sequence is a filter",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Sequence is a filter",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The science of the block universe",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "The science of the block universe",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Implications for free will",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Implications for free will",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "If all moments exist what changes?",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "If all moments exist what changes?",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Death as an illusion",
+      "subtitle": "Physics and mysticism agree: all moments coexist",
+      "term": "Death as an illusion",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

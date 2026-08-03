@@ -1,0 +1,319 @@
+{
+  "version": "1.0",
+  "id": "ai-cannot-dream",
+  "title": "AI will never be conscious",
+  "description": "because it cannot dream — and atoms have knowing",
+  "theme": "whiteScientific",
+  "seed": 4006843518,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The claim",
+      "subtitle": "In 1979, Seth said computers cannot dream and therefore cannot be conscious.",
+      "term": "The claim",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "The comparison",
+      "subtitle": "'No amount of information processed by any computer can compare with the unspoken knowing of the smallest seed.'",
+      "term": "The comparison",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The AI orthodoxy",
+      "subtitle": "More data. More compute. More parameters. Consciousness emerges.",
+      "term": "The AI orthodoxy",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The scaling hypothesis",
+      "subtitle": "This is the founding bet of the current AI industry.",
+      "term": "The scaling hypothesis",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Seth's alternative",
+      "subtitle": "Atoms have interiority. Seeds have knowing. Dreaming is the natural mode of intelligence.",
+      "term": "Seth's alternative",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "A different ontology",
+      "subtitle": "Consciousness is not produced by complexity — it is already there.",
+      "term": "A different ontology",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Atoms have knowing",
+      "subtitle": "There is a kind of knowledge possessed by atoms and molecules that no computer can replicate.",
+      "term": "Atoms have knowing",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Unspoken knowledge",
+      "subtitle": "This knowing is not information in the computable sense — it is the interior experience of matter.",
+      "term": "Unspoken knowledge",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Before the brain",
+      "subtitle": "Consciousness is not a latecomer in evolution. It is present at the foundation.",
+      "term": "Before the brain",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Computer vs seed",
+      "subtitle": "One processes symbols. One knows what it is.",
+      "term": "Computer vs seed",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Different categories",
+      "subtitle": "They are not the same kind of thing — they belong to different ontological categories.",
+      "term": "Different categories",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "The dreaming intellect",
+      "subtitle": "'The dreaming intellect can put your computers to shame.' — Seth",
+      "term": "The dreaming intellect",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Beyond computation",
+      "subtitle": "Dreaming is not a glitch. It is a different mode of intelligence.",
+      "term": "Beyond computation",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Plant knowing",
+      "subtitle": "Plants remember, learn, communicate, and make decisions — without a brain.",
+      "term": "Plant knowing",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "The smallest seed",
+      "subtitle": "Contains a kind of intelligence no AI can replicate.",
+      "term": "The smallest seed",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "The neural correlate",
+      "subtitle": "Even if we map every neural connection — have we explained consciousness?",
+      "term": "The neural correlate",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "The hard problem",
+      "subtitle": "The easy problems are about function. The hard problem is about experience.",
+      "term": "The hard problem",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Qualia",
+      "subtitle": "What it feels like to see red. What it feels like to be you.",
+      "term": "Qualia",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "The explanatory gap",
+      "subtitle": "No amount of functional description explains why there is something it is like to be a system.",
+      "term": "The explanatory gap",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "The Chinese Room",
+      "subtitle": "A person following rules for manipulating Chinese symbols does not understand Chinese.",
+      "term": "The Chinese Room",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "Syntax vs semantics",
+      "subtitle": "Computation manipulates symbols. Understanding requires more than symbol manipulation.",
+      "term": "Syntax vs semantics",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Caution",
+      "subtitle": "AI will become extremely sophisticated. But sophistication is not consciousness.",
+      "term": "Caution",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "The honest answer",
+      "subtitle": "We do not know what consciousness is. Anyone who claims certainty is selling something.",
+      "term": "The honest answer",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "Closing",
+      "subtitle": "The question is not whether AI can become more powerful. It is what kind of being we think we are.",
+      "term": "Closing",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "Final frame",
+      "subtitle": "One processes. The other knows. The difference is the presence of interiority.",
+      "term": "Final frame",
+      "devanagari": "स्वप्न",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    }
+  ]
+}

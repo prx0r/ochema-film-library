@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "reality-is-a-program",
+  "title": "reality is a program — your dna is the previous version",
+  "description": "The Cassiopaean simulation hypothesis meets modern physics",
+  "theme": "whiteScientific",
+  "seed": 2815764832,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The Cassiopaean claim",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "The Cassiopaean claim",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Perception is part of the illusion",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Perception is part of the illusion",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "DNA as the previous program",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "DNA as the previous program",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The method for maintaining illusions",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "The method for maintaining illusions",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Linear time as a program feature",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Linear time as a program feature",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The upcoming system update",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "The upcoming system update",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Free will within the program",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Free will within the program",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Who wrote the program?",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Who wrote the program?",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Simulation hypothesis science",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Simulation hypothesis science",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Knowledge protects",
+      "subtitle": "The Cassiopaean simulation hypothesis meets modern physics",
+      "term": "Knowledge protects",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

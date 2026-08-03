@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "holy-grail-is-real",
+  "title": "the holy grail is real — and it's not a cup",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 3734786466,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The grail is not a cup",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The grail is not a cup",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "A state of consciousness",
+      "subtitle": "Parzival's question could save the world",
+      "term": "A state of consciousness",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The wounded fisher king",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The wounded fisher king",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "The waste land",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The waste land",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Whom does the grail serve?",
+      "subtitle": "Parzival's question could save the world",
+      "term": "Whom does the grail serve?",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The question that heals",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The question that heals",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Parzival's foolishness",
+      "subtitle": "Parzival's question could save the world",
+      "term": "Parzival's foolishness",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The second chance",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The second chance",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The temple of the grail",
+      "subtitle": "Parzival's question could save the world",
+      "term": "The temple of the grail",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "How to ask the question",
+      "subtitle": "Parzival's question could save the world",
+      "term": "How to ask the question",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

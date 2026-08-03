@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "illness-has-purpose",
+  "title": "illness has purpose — it is another mode of expression",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 1302675514,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Illness is not a failure",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "Illness is not a failure",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Another mode of expression",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "Another mode of expression",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "A means to a desired end",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "A means to a desired end",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Success and failure through illness",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "Success and failure through illness",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The body's language of disturbance",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "The body's language of disturbance",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "What happens when we listen",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "What happens when we listen",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "The placebo effect as evidence",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "The placebo effect as evidence",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Mind's control of biology",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "Mind's control of biology",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Beyond victim blaming",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "Beyond victim blaming",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "A new medicine",
+      "subtitle": "Seth on why disease is not a failure of the machine",
+      "term": "A new medicine",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

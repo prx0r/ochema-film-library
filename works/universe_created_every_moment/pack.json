@@ -1,0 +1,247 @@
+{
+  "version": "1.0",
+  "id": "universe-created-every-moment",
+  "title": "the universe is created at every point every moment",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 1723607381,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Seth's cosmology",
+      "subtitle": "'The physical universe was not born through some explosion of energy which is being dispersed.'",
+      "term": "Seth's cosmology",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Created everywhere",
+      "subtitle": "'It is everywhere being created at all of its points at each moment.'",
+      "term": "Created everywhere",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The Big Bang",
+      "subtitle": "The standard story: one moment of creation — then 13.8 billion years of cooling.",
+      "term": "The Big Bang",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "What it explains",
+      "subtitle": "The Big Bang explains the cosmic microwave background, element abundances, expansion.",
+      "term": "What it explains",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "What it leaves out",
+      "subtitle": "Why is there something rather than nothing? And what creates the present moment?",
+      "term": "What it leaves out",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Continuous creation",
+      "subtitle": "Seth: creation is not a past event — it is a present act.",
+      "term": "Continuous creation",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Every point",
+      "subtitle": "Every point in space is a node of ongoing creation.",
+      "term": "Every point",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The psyche participates",
+      "subtitle": "'Your psyche is being drawn back into itself and out of itself in psychological pulses.'",
+      "term": "The psyche participates",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "In and out",
+      "subtitle": "These pulses have a correlation with the behavior of electrons.",
+      "term": "In and out",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The electron correlation",
+      "subtitle": "Electrons are not 'there' — they are events. Their appearance and disappearance mirrors consciousness.",
+      "term": "The electron correlation",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Quantum creation",
+      "subtitle": "In quantum field theory, particles are constantly created and annihilated in the vacuum.",
+      "term": "Quantum creation",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Steady state",
+      "subtitle": "The universe is not running down — it is being continuously replenished.",
+      "term": "Steady state",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Not the old cosmology",
+      "subtitle": "This is not the 1950s steady state theory — it is a different claim about the nature of creation.",
+      "term": "Not the old cosmology",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Participatory universe",
+      "subtitle": "Wheeler: 'We are not only observers. We are participators.'",
+      "term": "Participatory universe",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Creation needs consciousness",
+      "subtitle": "In this view, consciousness is not an afterthought — it is intrinsic to reality.",
+      "term": "Creation needs consciousness",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Caution",
+      "subtitle": "Continuous creation is a metaphysical claim, not a physical theory.",
+      "term": "Caution",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "The resonance",
+      "subtitle": "But it resonates with quantum field theory and the participatory universe.",
+      "term": "The resonance",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Closing",
+      "subtitle": "You are not living in the aftermath of an explosion. You are being created — now.",
+      "term": "Closing",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Final frame",
+      "subtitle": "Creation is not behind you. It is this moment.",
+      "term": "Final frame",
+      "devanagari": "सृष्टि",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    }
+  ]
+}

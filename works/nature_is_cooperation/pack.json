@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "nature-is-cooperation",
+  "title": "there is no competition in nature — only cooperation",
+  "description": "Seth's value fulfillment explains what Darwin missed",
+  "theme": "whiteScientific",
+  "seed": 4289604990,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Cooperation is the foundation",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Cooperation is the foundation",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Not claw and dagger — loving cooperation",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Not claw and dagger — loving cooperation",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "The given gift of life",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "The given gift of life",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Value fulfillment for all species",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Value fulfillment for all species",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Each cell cooperates with every other",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Each cell cooperates with every other",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The body as proof of cooperation",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "The body as proof of cooperation",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "What competitive evolution misses",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "What competitive evolution misses",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Symbiosis in nature",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Symbiosis in nature",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Competition as a subset of cooperation",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "Competition as a subset of cooperation",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "A new foundation for biology",
+      "subtitle": "Seth's value fulfillment explains what Darwin missed",
+      "term": "A new foundation for biology",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

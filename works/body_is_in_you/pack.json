@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "id": "body-is-in-you",
+  "title": "you are not in your body — your body is in you",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 3213210717,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The body is inside consciousness",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "The body is inside consciousness",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Not the reverse",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Not the reverse",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Psyche as gestalt of aware energy",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Psyche as gestalt of aware energy",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Body as projection of consciousness",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Body as projection of consciousness",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Neuroscience from the other direction",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Neuroscience from the other direction",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Where is consciousness?",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Where is consciousness?",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Evidence from OBE research",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Evidence from OBE research",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The rubber hand illusion",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "The rubber hand illusion",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The constructed self-model",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "The constructed self-model",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Container and contained",
+      "subtitle": "Seth on consciousness as the container of experience",
+      "term": "Container and contained",
+      "devanagari": "कर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    }
+  ]
+}

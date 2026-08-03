@@ -1,0 +1,319 @@
+{
+  "version": "1.0",
+  "id": "spacious-present",
+  "title": "ALL TIME IS NOW — The Spacious Present",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 3878033023,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Clock Time is a Convention",
+      "subtitle": "The brain parses sequence from simultaneity — time is not what the clock says.",
+      "term": "Clock Time is a Convention",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "Psychological Time",
+      "subtitle": "The second inner sense: not measured but felt — duration has a texture.",
+      "term": "Psychological Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "In Dreams You Know",
+      "subtitle": "In sleep, the spacious present reveals itself — beginning and end at once.",
+      "term": "In Dreams You Know",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "All Moments Coexist",
+      "subtitle": "Past, present, and future are regions of the same landscape, not a line.",
+      "term": "All Moments Coexist",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The Spacious Present",
+      "subtitle": "The present is not a knife-edge — it is a field of simultaneous experience.",
+      "term": "The Spacious Present",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "All Lives are Simultaneous",
+      "subtitle": "Reincarnation is a landscape, not a chain. You live all lives at once.",
+      "term": "All Lives are Simultaneous",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Each Present Brings Its Past",
+      "subtitle": "The past is not fixed. Each present reorganizes memory.",
+      "term": "Each Present Brings Its Past",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The Past is Plastic",
+      "subtitle": "Memory is a creative act in the now — the past changes with the present.",
+      "term": "The Past is Plastic",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Probable Futures",
+      "subtitle": "You choose among infinite realities each moment — all await your focus.",
+      "term": "Probable Futures",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "The Observer Shapes the Seen",
+      "subtitle": "Expectation directs perception. The spacious present includes all possible views.",
+      "term": "The Observer Shapes the Seen",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "The Eternal Now",
+      "subtitle": "When you remember everything, time ceases. You are all that ever was.",
+      "term": "The Eternal Now",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Remembering Yourself",
+      "subtitle": "Beneath the personal self is the observer who watches all moments.",
+      "term": "Remembering Yourself",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Attention Creates Time",
+      "subtitle": "Where you place attention, a moment unfolds. Time is a function of awareness.",
+      "term": "Attention Creates Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Duration is Not Time",
+      "subtitle": "The felt length of a moment has nothing to do with the clock — it is attention's signature.",
+      "term": "Duration is Not Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Narrative is Linear",
+      "subtitle": "The brain strings moments into a story. It forgets the spiral beneath.",
+      "term": "Narrative is Linear",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "The Simultaneous Self",
+      "subtitle": "You are not one self — you are a field of selves in ongoing dialogue.",
+      "term": "The Simultaneous Self",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "The Threshold Moment",
+      "subtitle": "When linear time pauses — in crisis, awe, or love — the spacious present opens.",
+      "term": "The Threshold Moment",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Recall is Active",
+      "subtitle": "Memory is not storage. It is a creative act performed in the present.",
+      "term": "Recall is Active",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Past and Future Meet",
+      "subtitle": "In the spacious present, past and future touch. The boundary is attention.",
+      "term": "Past and Future Meet",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "You are Time",
+      "subtitle": "Not in time. Time is a dimension of your own being. All time is now.",
+      "term": "You are Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "All Time is Now",
+      "subtitle": "The spiral contains every moment. You are the spacious present experiencing itself.",
+      "term": "All Time is Now",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "The Spiral of Attention",
+      "subtitle": "Where attention goes, time unfolds. You create time by attending.",
+      "term": "The Spiral of Attention",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "The Observer of Time",
+      "subtitle": "Who watches the passage of time is not in time.",
+      "term": "The Observer of Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "The Spiral of Attention",
+      "subtitle": "Where attention goes, time unfolds. You create time by attending.",
+      "term": "The Spiral of Attention",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "The Observer of Time",
+      "subtitle": "Who watches the passage of time is not in time.",
+      "term": "The Observer of Time",
+      "devanagari": "क्षण",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "id": "jesus-fifth-density",
+  "title": "jesus was a 5th-density soul with 1,009 incarnations",
+  "description": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "theme": "whiteScientific",
+  "seed": 2454952215,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "A 5th-density soul",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "A 5th-density soul",
+      "devanagari": "सत्त्व",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "What 5th density means",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "What 5th density means",
+      "devanagari": "रजस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "1,009 incarnations",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "1,009 incarnations",
+      "devanagari": "तमस्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "He was also Socrates",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "He was also Socrates",
+      "devanagari": "प्राण",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "One soul multiple lives",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "One soul multiple lives",
+      "devanagari": "शक्ति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "The descendants today",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "The descendants today",
+      "devanagari": "बोध",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Why a 5D soul would incarnate",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "Why a 5D soul would incarnate",
+      "devanagari": "स्पन्द",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "The gnostic interpretation",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "The gnostic interpretation",
+      "devanagari": "विभूति",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "Challenge to orthodox Christianity",
+      "subtitle": "And he was also Socrates — the Cassiopaean claims",
+      "term": "Challenge to orthodox Christianity",
+      "devanagari": "धर्म",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "powered-prison"
+      }
+    }
+  ]
+}

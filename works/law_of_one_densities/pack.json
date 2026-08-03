@@ -1,0 +1,331 @@
+{
+  "version": "1.0",
+  "id": "law-of-one-densities",
+  "title": "the densities of consciousness",
+  "description": "Ported from the Ochema corpus.",
+  "theme": "whiteScientific",
+  "seed": 3959652738,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Intelligent Infinity",
+      "subtitle": "Infinity became aware of itself — the first knowing.",
+      "term": "Intelligent Infinity",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "The One Creator",
+      "subtitle": "The infinite is one. Many-ness is a finite concept.",
+      "term": "The One Creator",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "First Density",
+      "subtitle": "First density: the awareness of being — mineral, water, fire, wind.",
+      "term": "First Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Red Ray",
+      "subtitle": "Wakefulness without self-reference. The foundation.",
+      "term": "Red Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "Second Density",
+      "subtitle": "Second density: growth and striving toward the light.",
+      "term": "Second Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Orange Ray",
+      "subtitle": "Movement, desire, the beginning of individuation.",
+      "term": "Orange Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Third Density",
+      "subtitle": "Third density: the first consciousness of spirit.",
+      "term": "Third Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Yellow Ray",
+      "subtitle": "Self-consciousness — and the first choice between STO and STS.",
+      "term": "Yellow Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The Veil",
+      "subtitle": "Forgetting is the tool — without it, choice would not be real.",
+      "term": "The Veil",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Fourth Density",
+      "subtitle": "Fourth density: love — the green ray.",
+      "term": "Fourth Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Green Ray",
+      "subtitle": "Variable physicality — consciousness becomes group.",
+      "term": "Green Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "The Heart",
+      "subtitle": "From green ray onward, the heart opens into service.",
+      "term": "The Heart",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Fifth Density",
+      "subtitle": "Fifth density: wisdom — the blue ray.",
+      "term": "Fifth Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "Blue Ray",
+      "subtitle": "Light and knowledge merged — compassion through understanding.",
+      "term": "Blue Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Sixth Density",
+      "subtitle": "Sixth density: balance — the indigo ray.",
+      "term": "Sixth Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Indigo Ray",
+      "subtitle": "STO and STS reconciled — the gateway to intelligent infinity.",
+      "term": "Indigo Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "Seventh Density",
+      "subtitle": "Seventh density: unity — the violet ray.",
+      "term": "Seventh Density",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "Violet Ray",
+      "subtitle": "Union with the One — timeless — the turning to the next octave.",
+      "term": "Violet Ray",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "The Octave",
+      "subtitle": "Eight densities form a great octave — the eighth begins the next.",
+      "term": "The Octave",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Sub-Densities",
+      "subtitle": "Within each density are seven sub-densities — infinite recursion.",
+      "term": "Sub-Densities",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "The Prism",
+      "subtitle": "White light splits into rays — one source, infinite expressions.",
+      "term": "The Prism",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "One Light",
+      "subtitle": "All colors are the same light — all densities are one consciousness.",
+      "term": "One Light",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "The Harvest",
+      "subtitle": "Those finishing the cycle are sorted by their own vibration.",
+      "term": "The Harvest",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    },
+    {
+      "id": "scene-024",
+      "title": "No Judgment",
+      "subtitle": "There is no judgment — only resonance. You choose your destination.",
+      "term": "No Judgment",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "causal-vortex"
+      }
+    },
+    {
+      "id": "scene-025",
+      "title": "Closing",
+      "subtitle": "You are the Creator experiencing Itself. The journey is the destination.",
+      "term": "Closing",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "cooling-chain"
+      }
+    },
+    {
+      "id": "scene-026",
+      "title": "Final Frame",
+      "subtitle": "All is One. One is All. You are That.",
+      "term": "Final Frame",
+      "devanagari": "घन",
+      "motif": "semantic-essay",
+      "duration": 6,
+      "params": {
+        "visual": "dialectic-bridge"
+      }
+    }
+  ]
+}

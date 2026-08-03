@@ -1,0 +1,295 @@
+{
+  "version": "1.0",
+  "id": "dna-superconductor",
+  "title": "your DNA is a superconductor",
+  "description": "programming reality — the Cassiopaean claim meets modern physics",
+  "theme": "whiteScientific",
+  "seed": 1830877492,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "The standard story",
+      "subtitle": "DNA codes proteins. Proteins build the body. The body houses consciousness.",
+      "term": "The standard story",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "constraint-field"
+      }
+    },
+    {
+      "id": "scene-002",
+      "title": "What's missing",
+      "subtitle": "This story leaves out something essential: DNA conducts electricity.",
+      "term": "What's missing",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "point-of-view"
+      }
+    },
+    {
+      "id": "scene-003",
+      "title": "Charge transport",
+      "subtitle": "In the 1990s, researchers discovered that electrons move through DNA's stacked base pairs.",
+      "term": "Charge transport",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "five-lenses"
+      }
+    },
+    {
+      "id": "scene-004",
+      "title": "Molecular wire",
+      "subtitle": "DNA can act as a conductor, semiconductor, or insulator depending on its environment.",
+      "term": "Molecular wire",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "local-power"
+      }
+    },
+    {
+      "id": "scene-005",
+      "title": "The Cassiopaean claim",
+      "subtitle": "In 1994, a channeled source stated that DNA is a superconductor — a neurotransceiver for consciousness.",
+      "term": "The Cassiopaean claim",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "melody-time"
+      }
+    },
+    {
+      "id": "scene-006",
+      "title": "Not just a blueprint",
+      "subtitle": "DNA, they said, is 'the method used for creation and maintenance of program illusions.'",
+      "term": "Not just a blueprint",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "attention-beam"
+      }
+    },
+    {
+      "id": "scene-007",
+      "title": "Neurotransceiver",
+      "subtitle": "Receiving and transmitting — DNA as an antenna between consciousness and the physical world.",
+      "term": "Neurotransceiver",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "desire-orbit"
+      }
+    },
+    {
+      "id": "scene-008",
+      "title": "Thought pattern programs",
+      "subtitle": "Electromagnetic wave transmission facilitates thought patterns through the DNA infrastructure.",
+      "term": "Thought pattern programs",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "smallness-cage"
+      }
+    },
+    {
+      "id": "scene-009",
+      "title": "The program illusion",
+      "subtitle": "'That perception is part of the illusion. What you perceive as solid is a program readout.'",
+      "term": "The program illusion",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "powered-prison"
+      }
+    },
+    {
+      "id": "scene-010",
+      "title": "Perception is programmed",
+      "subtitle": "The Cassiopaeans: your perception of linear time is maintained by how DNA interacts with electromagnetic fields.",
+      "term": "Perception is programmed",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "practice-folds"
+      }
+    },
+    {
+      "id": "scene-011",
+      "title": "Linear time",
+      "subtitle": "If DNA is a clock, what is it measuring? And what if the clock is also the clockmaker?",
+      "term": "Linear time",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "upsurge"
+      }
+    },
+    {
+      "id": "scene-012",
+      "title": "Simultaneity",
+      "subtitle": "All time is now. Sequence is a readout — not a fundamental feature of reality.",
+      "term": "Simultaneity",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 8,
+      "params": {
+        "visual": "wave-ocean"
+      }
+    },
+    {
+      "id": "scene-013",
+      "title": "Modern convergence",
+      "subtitle": "Michael Levin's lab shows that bioelectric fields carry pattern information across cellular networks.",
+      "term": "Modern convergence",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "textures-display"
+      }
+    },
+    {
+      "id": "scene-014",
+      "title": "The field",
+      "subtitle": "Cells communicate electrically. DNA is part of a larger bioelectric field that navigates morphospace.",
+      "term": "The field",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "limitation-reversal"
+      }
+    },
+    {
+      "id": "scene-015",
+      "title": "Levin bridge",
+      "subtitle": "Levin: 'The bioelectric field is the hardware of the body's memory.' The Cassiopaeans: 'DNA is a superconductor.'",
+      "term": "Levin bridge",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "opening-fist"
+      }
+    },
+    {
+      "id": "scene-016",
+      "title": "Osiris",
+      "subtitle": "The cutting up of Osiris' body represents the reduction of human knowledge capacity — the removal of frequencies from DNA.",
+      "term": "Osiris",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "pattern-ensemble"
+      }
+    },
+    {
+      "id": "scene-017",
+      "title": "The myth encodes",
+      "subtitle": "Ancient knowledge encoded as myth: the fall was a reduction in the number of accessible DNA strands.",
+      "term": "The myth encodes",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "dependency-network"
+      }
+    },
+    {
+      "id": "scene-018",
+      "title": "The upgrade",
+      "subtitle": "'You don't get added strands. You receive. Interaction with the upcoming wave, if vibration is aligned.'",
+      "term": "The upgrade",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "umwelt-windows"
+      }
+    },
+    {
+      "id": "scene-019",
+      "title": "Alignment",
+      "subtitle": "The Wave is coming. Your DNA must be tuned to receive it. Knowledge protects.",
+      "term": "Alignment",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "multiscale-agent"
+      }
+    },
+    {
+      "id": "scene-020",
+      "title": "Caution",
+      "subtitle": "DNA charge transport is real. DNA as a superconductor is not established. The boundary matters.",
+      "term": "Caution",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "boundary-gates"
+      }
+    },
+    {
+      "id": "scene-021",
+      "title": "The distinction",
+      "subtitle": "The Cassiopaean claim is extraordinary. But extraordinary claims require disciplined scrutiny.",
+      "term": "The distinction",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 9,
+      "params": {
+        "visual": "memory-relay"
+      }
+    },
+    {
+      "id": "scene-022",
+      "title": "Closing",
+      "subtitle": "Your DNA is not a blueprint. It is an antenna. The program is running — and you are the programmer.",
+      "term": "Closing",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "morphing-invariant"
+      }
+    },
+    {
+      "id": "scene-023",
+      "title": "Final frame",
+      "subtitle": "You don't get. You receive. The Wave is here. Align your vibration.",
+      "term": "Final frame",
+      "devanagari": "विद्युत्",
+      "motif": "semantic-essay",
+      "duration": 7,
+      "params": {
+        "visual": "reciprocal-reeds"
+      }
+    }
+  ]
+}
