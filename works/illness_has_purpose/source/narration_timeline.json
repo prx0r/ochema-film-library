@@ -1,0 +1,113 @@
+{
+  "title": "illness has purpose — it is another mode of expression",
+  "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "scene_count": 10,
+  "runtime_seconds": 70.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "Illness is not a failure",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Another mode of expression",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "A means to a desired end",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "Success and failure through illness",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "The body's language of disturbance",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "What happens when we listen",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "The placebo effect as evidence",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "Mind's control of biology",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "Beyond victim blaming",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "A new medicine",
+      "narration": "Seth on why disease is not a failure of the machine",
+      "duration": 7.0,
+      "visual": "vis_v9",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    }
+  ]
+}

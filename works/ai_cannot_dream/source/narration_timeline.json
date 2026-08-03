@@ -1,0 +1,270 @@
+{
+  "title": "AI will never be conscious",
+  "subtitle": "because it cannot dream — and atoms have knowing",
+  "scene_count": 25,
+  "runtime_seconds": 212.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "a computer terminal that overtakes into a sprouting seed — the machine becomes a plant",
+  "palette_roles": {
+    "gold": "knowing",
+    "green": "life",
+    "ink": "computation",
+    "crimson": "limitation",
+    "violet": "consciousness"
+  },
+  "scenes": [
+    {
+      "title": "The claim",
+      "narration": "In 1979, Seth said computers cannot dream and therefore cannot be conscious.",
+      "duration": 8.0,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 8.0
+    },
+    {
+      "title": "The comparison",
+      "narration": "'No amount of information processed by any computer can compare with the unspoken knowing of the smallest seed.'",
+      "duration": 8.5,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 8.0,
+      "end_seconds": 16.5
+    },
+    {
+      "title": "The AI orthodoxy",
+      "narration": "More data. More compute. More parameters. Consciousness emerges.",
+      "duration": 8.0,
+      "visual": "orthodoxy",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 16.5,
+      "end_seconds": 24.5
+    },
+    {
+      "title": "The scaling hypothesis",
+      "narration": "This is the founding bet of the current AI industry.",
+      "duration": 7.5,
+      "visual": "orthodoxy",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 24.5,
+      "end_seconds": 32.0
+    },
+    {
+      "title": "Seth's alternative",
+      "narration": "Atoms have interiority. Seeds have knowing. Dreaming is the natural mode of intelligence.",
+      "duration": 9.0,
+      "visual": "alternative",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 32.0,
+      "end_seconds": 41.0
+    },
+    {
+      "title": "A different ontology",
+      "narration": "Consciousness is not produced by complexity — it is already there.",
+      "duration": 8.5,
+      "visual": "alternative",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.0,
+      "end_seconds": 49.5
+    },
+    {
+      "title": "Atoms have knowing",
+      "narration": "There is a kind of knowledge possessed by atoms and molecules that no computer can replicate.",
+      "duration": 9.0,
+      "visual": "atom_knowing",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 49.5,
+      "end_seconds": 58.5
+    },
+    {
+      "title": "Unspoken knowledge",
+      "narration": "This knowing is not information in the computable sense — it is the interior experience of matter.",
+      "duration": 9.0,
+      "visual": "atom_knowing",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 58.5,
+      "end_seconds": 67.5
+    },
+    {
+      "title": "Before the brain",
+      "narration": "Consciousness is not a latecomer in evolution. It is present at the foundation.",
+      "duration": 8.5,
+      "visual": "atom_knowing",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 67.5,
+      "end_seconds": 76.0
+    },
+    {
+      "title": "Computer vs seed",
+      "narration": "One processes symbols. One knows what it is.",
+      "duration": 8.0,
+      "visual": "computer_vs_seed",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 76.0,
+      "end_seconds": 84.0
+    },
+    {
+      "title": "Different categories",
+      "narration": "They are not the same kind of thing — they belong to different ontological categories.",
+      "duration": 8.5,
+      "visual": "computer_vs_seed",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 84.0,
+      "end_seconds": 92.5
+    },
+    {
+      "title": "The dreaming intellect",
+      "narration": "'The dreaming intellect can put your computers to shame.' — Seth",
+      "duration": 8.5,
+      "visual": "dreaming_intellect",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 92.5,
+      "end_seconds": 101.0
+    },
+    {
+      "title": "Beyond computation",
+      "narration": "Dreaming is not a glitch. It is a different mode of intelligence.",
+      "duration": 8.0,
+      "visual": "dreaming_intellect",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 101.0,
+      "end_seconds": 109.0
+    },
+    {
+      "title": "Plant knowing",
+      "narration": "Plants remember, learn, communicate, and make decisions — without a brain.",
+      "duration": 8.5,
+      "visual": "plant_knowing",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 109.0,
+      "end_seconds": 117.5
+    },
+    {
+      "title": "The smallest seed",
+      "narration": "Contains a kind of intelligence no AI can replicate.",
+      "duration": 8.0,
+      "visual": "plant_knowing",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 117.5,
+      "end_seconds": 125.5
+    },
+    {
+      "title": "The neural correlate",
+      "narration": "Even if we map every neural connection — have we explained consciousness?",
+      "duration": 8.5,
+      "visual": "brain_question",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 125.5,
+      "end_seconds": 134.0
+    },
+    {
+      "title": "The hard problem",
+      "narration": "The easy problems are about function. The hard problem is about experience.",
+      "duration": 8.5,
+      "visual": "brain_question",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 134.0,
+      "end_seconds": 142.5
+    },
+    {
+      "title": "Qualia",
+      "narration": "What it feels like to see red. What it feels like to be you.",
+      "duration": 8.0,
+      "visual": "qualia",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 142.5,
+      "end_seconds": 150.5
+    },
+    {
+      "title": "The explanatory gap",
+      "narration": "No amount of functional description explains why there is something it is like to be a system.",
+      "duration": 9.5,
+      "visual": "qualia",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 150.5,
+      "end_seconds": 160.0
+    },
+    {
+      "title": "The Chinese Room",
+      "narration": "A person following rules for manipulating Chinese symbols does not understand Chinese.",
+      "duration": 8.5,
+      "visual": "chinese_room",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 160.0,
+      "end_seconds": 168.5
+    },
+    {
+      "title": "Syntax vs semantics",
+      "narration": "Computation manipulates symbols. Understanding requires more than symbol manipulation.",
+      "duration": 9.0,
+      "visual": "chinese_room",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 168.5,
+      "end_seconds": 177.5
+    },
+    {
+      "title": "Caution",
+      "narration": "AI will become extremely sophisticated. But sophistication is not consciousness.",
+      "duration": 9.0,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 177.5,
+      "end_seconds": 186.5
+    },
+    {
+      "title": "The honest answer",
+      "narration": "We do not know what consciousness is. Anyone who claims certainty is selling something.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 186.5,
+      "end_seconds": 195.0
+    },
+    {
+      "title": "Closing",
+      "narration": "The question is not whether AI can become more powerful. It is what kind of being we think we are.",
+      "duration": 10.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 195.0,
+      "end_seconds": 205.0
+    },
+    {
+      "title": "Final frame",
+      "narration": "One processes. The other knows. The difference is the presence of interiority.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 205.0,
+      "end_seconds": 212.0
+    }
+  ]
+}

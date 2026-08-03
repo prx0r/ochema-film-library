@@ -1,0 +1,113 @@
+{
+  "title": "you are not in your body — your body is in you",
+  "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "scene_count": 10,
+  "runtime_seconds": 70.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "The body is inside consciousness",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Not the reverse",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "Psyche as gestalt of aware energy",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "Body as projection of consciousness",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "Neuroscience from the other direction",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "Where is consciousness?",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "Evidence from OBE research",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "The rubber hand illusion",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "The constructed self-model",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "Container and contained",
+      "narration": "Seth on consciousness as the container of experience",
+      "duration": 7.0,
+      "visual": "vis_v9",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    }
+  ]
+}

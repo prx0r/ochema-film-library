@@ -1,0 +1,281 @@
+{
+  "title": "the densities of consciousness",
+  "scene_count": 26,
+  "runtime_seconds": 183.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "white light photon prismatically separated into rays",
+  "palette_roles": {
+    "ray_1": "being",
+    "ray_2": "growth",
+    "ray_3": "self",
+    "ray_4": "love",
+    "ray_5": "wisdom",
+    "ray_6": "gateway",
+    "ray_7": "unity"
+  },
+  "scenes": [
+    {
+      "title": "Intelligent Infinity",
+      "narration": "Infinity became aware of itself — the first knowing.",
+      "duration": 7.0,
+      "visual": "creator",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "The One Creator",
+      "narration": "The infinite is one. Many-ness is a finite concept.",
+      "duration": 7.0,
+      "visual": "creator",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "First Density",
+      "narration": "First density: the awareness of being — mineral, water, fire, wind.",
+      "duration": 6.5,
+      "visual": "first",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 20.5
+    },
+    {
+      "title": "Red Ray",
+      "narration": "Wakefulness without self-reference. The foundation.",
+      "duration": 7.0,
+      "visual": "first",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 20.5,
+      "end_seconds": 27.5
+    },
+    {
+      "title": "Second Density",
+      "narration": "Second density: growth and striving toward the light.",
+      "duration": 6.5,
+      "visual": "second",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 27.5,
+      "end_seconds": 34.0
+    },
+    {
+      "title": "Orange Ray",
+      "narration": "Movement, desire, the beginning of individuation.",
+      "duration": 7.0,
+      "visual": "second",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 34.0,
+      "end_seconds": 41.0
+    },
+    {
+      "title": "Third Density",
+      "narration": "Third density: the first consciousness of spirit.",
+      "duration": 6.5,
+      "visual": "third",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 41.0,
+      "end_seconds": 47.5
+    },
+    {
+      "title": "Yellow Ray",
+      "narration": "Self-consciousness — and the first choice between STO and STS.",
+      "duration": 8.0,
+      "visual": "third",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 47.5,
+      "end_seconds": 55.5
+    },
+    {
+      "title": "The Veil",
+      "narration": "Forgetting is the tool — without it, choice would not be real.",
+      "duration": 7.5,
+      "visual": "third",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 55.5,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "Fourth Density",
+      "narration": "Fourth density: love — the green ray.",
+      "duration": 6.5,
+      "visual": "fourth",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 69.5
+    },
+    {
+      "title": "Green Ray",
+      "narration": "Variable physicality — consciousness becomes group.",
+      "duration": 7.0,
+      "visual": "fourth",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 69.5,
+      "end_seconds": 76.5
+    },
+    {
+      "title": "The Heart",
+      "narration": "From green ray onward, the heart opens into service.",
+      "duration": 7.0,
+      "visual": "fourth",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 76.5,
+      "end_seconds": 83.5
+    },
+    {
+      "title": "Fifth Density",
+      "narration": "Fifth density: wisdom — the blue ray.",
+      "duration": 6.5,
+      "visual": "fifth",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 83.5,
+      "end_seconds": 90.0
+    },
+    {
+      "title": "Blue Ray",
+      "narration": "Light and knowledge merged — compassion through understanding.",
+      "duration": 7.0,
+      "visual": "fifth",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 90.0,
+      "end_seconds": 97.0
+    },
+    {
+      "title": "Sixth Density",
+      "narration": "Sixth density: balance — the indigo ray.",
+      "duration": 6.5,
+      "visual": "sixth",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 97.0,
+      "end_seconds": 103.5
+    },
+    {
+      "title": "Indigo Ray",
+      "narration": "STO and STS reconciled — the gateway to intelligent infinity.",
+      "duration": 8.0,
+      "visual": "sixth",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 103.5,
+      "end_seconds": 111.5
+    },
+    {
+      "title": "Seventh Density",
+      "narration": "Seventh density: unity — the violet ray.",
+      "duration": 6.5,
+      "visual": "seventh",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 111.5,
+      "end_seconds": 118.0
+    },
+    {
+      "title": "Violet Ray",
+      "narration": "Union with the One — timeless — the turning to the next octave.",
+      "duration": 7.5,
+      "visual": "seventh",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 118.0,
+      "end_seconds": 125.5
+    },
+    {
+      "title": "The Octave",
+      "narration": "Eight densities form a great octave — the eighth begins the next.",
+      "duration": 7.0,
+      "visual": "octave",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 125.5,
+      "end_seconds": 132.5
+    },
+    {
+      "title": "Sub-Densities",
+      "narration": "Within each density are seven sub-densities — infinite recursion.",
+      "duration": 7.0,
+      "visual": "octave",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 132.5,
+      "end_seconds": 139.5
+    },
+    {
+      "title": "The Prism",
+      "narration": "White light splits into rays — one source, infinite expressions.",
+      "duration": 7.0,
+      "visual": "prism",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 139.5,
+      "end_seconds": 146.5
+    },
+    {
+      "title": "One Light",
+      "narration": "All colors are the same light — all densities are one consciousness.",
+      "duration": 7.0,
+      "visual": "prism",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 146.5,
+      "end_seconds": 153.5
+    },
+    {
+      "title": "The Harvest",
+      "narration": "Those finishing the cycle are sorted by their own vibration.",
+      "duration": 8.0,
+      "visual": "harvest",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 153.5,
+      "end_seconds": 161.5
+    },
+    {
+      "title": "No Judgment",
+      "narration": "There is no judgment — only resonance. You choose your destination.",
+      "duration": 7.5,
+      "visual": "harvest",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 161.5,
+      "end_seconds": 169.0
+    },
+    {
+      "title": "Closing",
+      "narration": "You are the Creator experiencing Itself. The journey is the destination.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 169.0,
+      "end_seconds": 177.0
+    },
+    {
+      "title": "Final Frame",
+      "narration": "All is One. One is All. You are That.",
+      "duration": 6.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 177.0,
+      "end_seconds": 183.0
+    }
+  ]
+}

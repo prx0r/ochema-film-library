@@ -1,0 +1,153 @@
+{
+  "title": "the past can be changed",
+  "subtitle": "remission is retroactive alteration",
+  "scene_count": 14,
+  "runtime_seconds": 118.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "The claim",
+      "narration": "Remission of sins means 'to send back' — the past can be altered.",
+      "duration": 8.5,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 8.5
+    },
+    {
+      "title": "Early Christian knowledge",
+      "narration": "The early Christians understood that forgiveness is retroactive healing.",
+      "duration": 8.0,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 8.5,
+      "end_seconds": 16.5
+    },
+    {
+      "title": "The fixed past",
+      "narration": "We assume the past is settled — immutable, unchangeable.",
+      "duration": 7.5,
+      "visual": "static_past",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 16.5,
+      "end_seconds": 24.0
+    },
+    {
+      "title": "The assumption",
+      "narration": "But is this an assumption about reality or a limitation of perception?",
+      "duration": 8.0,
+      "visual": "static_past",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 24.0,
+      "end_seconds": 32.0
+    },
+    {
+      "title": "The quantum eraser",
+      "narration": "In the lab, a future measurement determines a past event's trajectory.",
+      "duration": 9.5,
+      "visual": "quantum_eraser",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 32.0,
+      "end_seconds": 41.5
+    },
+    {
+      "title": "Delayed choice",
+      "narration": "Wheeler's delayed choice experiment: choice now decides what happened.",
+      "duration": 9.0,
+      "visual": "quantum_eraser",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.5,
+      "end_seconds": 50.5
+    },
+    {
+      "title": "The present as power",
+      "narration": "If the past is not fixed, the present is the only point of power.",
+      "duration": 8.5,
+      "visual": "present_power",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 50.5,
+      "end_seconds": 59.0
+    },
+    {
+      "title": "Now changes everything",
+      "narration": "What you do now reaches backward and forward.",
+      "duration": 8.0,
+      "visual": "present_power",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 59.0,
+      "end_seconds": 67.0
+    },
+    {
+      "title": "Seth on the past",
+      "narration": "'Each present moment brings its own built-in past along with it.'",
+      "duration": 8.5,
+      "visual": "seth_past",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 67.0,
+      "end_seconds": 75.5
+    },
+    {
+      "title": "Not given — chosen",
+      "narration": "The past is not a given — it is a selection from probability.",
+      "duration": 9.0,
+      "visual": "seth_past",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 75.5,
+      "end_seconds": 84.5
+    },
+    {
+      "title": "Caution",
+      "narration": "Quantum eraser is real. Retroactive causality is theoretical.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 84.5,
+      "end_seconds": 93.0
+    },
+    {
+      "title": "The therapeutic truth",
+      "narration": "Whether or not the past physically changes, your relationship to it can.",
+      "duration": 9.0,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 93.0,
+      "end_seconds": 102.0
+    },
+    {
+      "title": "Closing",
+      "narration": "The past is not a prison. It is a story you can rewrite.",
+      "duration": 9.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 102.0,
+      "end_seconds": 111.0
+    },
+    {
+      "title": "Final frame",
+      "narration": "Send healing backward. The past is listening.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 111.0,
+      "end_seconds": 118.0
+    }
+  ]
+}

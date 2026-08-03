@@ -1,0 +1,201 @@
+{
+  "title": "the universe is created at every point every moment",
+  "scene_count": 19,
+  "runtime_seconds": 160.5,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "scenes": [
+    {
+      "title": "Seth's cosmology",
+      "narration": "'The physical universe was not born through some explosion of energy which is being dispersed.'",
+      "duration": 9.0,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 9.0
+    },
+    {
+      "title": "Created everywhere",
+      "narration": "'It is everywhere being created at all of its points at each moment.'",
+      "duration": 8.5,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 9.0,
+      "end_seconds": 17.5
+    },
+    {
+      "title": "The Big Bang",
+      "narration": "The standard story: one moment of creation — then 13.8 billion years of cooling.",
+      "duration": 7.5,
+      "visual": "big_bang",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 17.5,
+      "end_seconds": 25.0
+    },
+    {
+      "title": "What it explains",
+      "narration": "The Big Bang explains the cosmic microwave background, element abundances, expansion.",
+      "duration": 8.0,
+      "visual": "big_bang",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 25.0,
+      "end_seconds": 33.0
+    },
+    {
+      "title": "What it leaves out",
+      "narration": "Why is there something rather than nothing? And what creates the present moment?",
+      "duration": 8.5,
+      "visual": "big_bang",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 33.0,
+      "end_seconds": 41.5
+    },
+    {
+      "title": "Continuous creation",
+      "narration": "Seth: creation is not a past event — it is a present act.",
+      "duration": 8.5,
+      "visual": "continuous",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.5,
+      "end_seconds": 50.0
+    },
+    {
+      "title": "Every point",
+      "narration": "Every point in space is a node of ongoing creation.",
+      "duration": 8.0,
+      "visual": "continuous",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 50.0,
+      "end_seconds": 58.0
+    },
+    {
+      "title": "The psyche participates",
+      "narration": "'Your psyche is being drawn back into itself and out of itself in psychological pulses.'",
+      "duration": 9.0,
+      "visual": "psyche_pulse",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 58.0,
+      "end_seconds": 67.0
+    },
+    {
+      "title": "In and out",
+      "narration": "These pulses have a correlation with the behavior of electrons.",
+      "duration": 8.5,
+      "visual": "psyche_pulse",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 67.0,
+      "end_seconds": 75.5
+    },
+    {
+      "title": "The electron correlation",
+      "narration": "Electrons are not 'there' — they are events. Their appearance and disappearance mirrors consciousness.",
+      "duration": 9.0,
+      "visual": "electron",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 75.5,
+      "end_seconds": 84.5
+    },
+    {
+      "title": "Quantum creation",
+      "narration": "In quantum field theory, particles are constantly created and annihilated in the vacuum.",
+      "duration": 8.5,
+      "visual": "electron",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 84.5,
+      "end_seconds": 93.0
+    },
+    {
+      "title": "Steady state",
+      "narration": "The universe is not running down — it is being continuously replenished.",
+      "duration": 8.0,
+      "visual": "steady_state",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 93.0,
+      "end_seconds": 101.0
+    },
+    {
+      "title": "Not the old cosmology",
+      "narration": "This is not the 1950s steady state theory — it is a different claim about the nature of creation.",
+      "duration": 8.5,
+      "visual": "steady_state",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 101.0,
+      "end_seconds": 109.5
+    },
+    {
+      "title": "Participatory universe",
+      "narration": "Wheeler: 'We are not only observers. We are participators.'",
+      "duration": 8.5,
+      "visual": "participatory",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 109.5,
+      "end_seconds": 118.0
+    },
+    {
+      "title": "Creation needs consciousness",
+      "narration": "In this view, consciousness is not an afterthought — it is intrinsic to reality.",
+      "duration": 9.0,
+      "visual": "participatory",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 118.0,
+      "end_seconds": 127.0
+    },
+    {
+      "title": "Caution",
+      "narration": "Continuous creation is a metaphysical claim, not a physical theory.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 127.0,
+      "end_seconds": 135.5
+    },
+    {
+      "title": "The resonance",
+      "narration": "But it resonates with quantum field theory and the participatory universe.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 135.5,
+      "end_seconds": 144.0
+    },
+    {
+      "title": "Closing",
+      "narration": "You are not living in the aftermath of an explosion. You are being created — now.",
+      "duration": 9.5,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 144.0,
+      "end_seconds": 153.5
+    },
+    {
+      "title": "Final frame",
+      "narration": "Creation is not behind you. It is this moment.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 153.5,
+      "end_seconds": 160.5
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "title": "the voice inside your chest",
+  "scene_count": 40,
+  "runtime_seconds": 339.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "gold serotonin signal-particle ascending the vagus nerve",
+  "palette_roles": {
+    "ink": "architectural scaffold",
+    "cyan": "enteric neural signalling",
+    "gold": "serotonin / gut-derived signal / microbiome message",
+    "crimson": "stress / vagal withdrawal / perturbation",
+    "green": "repair / trophic support / resilience",
+    "violet": "higher vagal integration / brainstem relay",
+    "paper": "epithelial lining / gut wall"
+  },
+  "scenes": [
+    {
+      "title": "Architecture of the second brain",
+      "narration": "Your gut contains a complete nervous system — 500 million neurons, more than the spinal cord.",
+      "duration": 8.0,
+      "visual": "architecture",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 8.0
+    },
+    {
+      "title": "Enteric network",
+      "narration": "It wraps the entire digestive tract in a dense mesh of sensory neurons, interneurons, and motor neurons.",
+      "duration": 8.0,
+      "visual": "architecture",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 8.0,
+      "end_seconds": 16.0
+    },
+    {
+      "title": "Independent origin",
+      "narration": "These neurons did not grow from your brain. They migrated from the neural crest during early embryonic development.",
+      "duration": 8.5,
+      "visual": "neural_crest",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 16.0,
+      "end_seconds": 24.5
+    },
+    {
+      "title": "Long migration",
+      "narration": "Neural crest cells travel from the closing neural tube down into the developing gut, building a second brain from a different source.",
+      "duration": 9.0,
+      "visual": "neural_crest",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 24.5,
+      "end_seconds": 33.5
+    },
+    {
+      "title": "Independence",
+      "narration": "The enteric nervous system can function without any input from the brain or spinal cord.",
+      "duration": 7.5,
+      "visual": "reflex",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 33.5,
+      "end_seconds": 41.0
+    },
+    {
+      "title": "Peristaltic reflex",
+      "narration": "An isolated segment of gut can coordinate peristalsis entirely on its own. Cut it free and it still moves food.",
+      "duration": 9.0,
+      "visual": "reflex",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.0,
+      "end_seconds": 50.0
+    },
+    {
+      "title": "Local decision",
+      "narration": "Sensory neurons detect stretch. Interneurons process the signal. Motor neurons contract the muscle downstream. All in the gut.",
+      "duration": 9.0,
+      "visual": "reflex",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 50.0,
+      "end_seconds": 59.0
+    },
+    {
+      "title": "Serotonin factory",
+      "narration": "The gut produces 95 percent of the body's serotonin — the molecule most associated with mood, well-being, and emotion.",
+      "duration": 8.5,
+      "visual": "serotonin",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 59.0,
+      "end_seconds": 67.5
+    },
+    {
+      "title": "Mood molecule",
+      "narration": "Most of the serotonin in your blood was made by enteric neurons, not by your brain.",
+      "duration": 7.5,
+      "visual": "serotonin",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 67.5,
+      "end_seconds": 75.0
+    },
+    {
+      "title": "Gut-brain chemistry",
+      "narration": "The gut synthesizes serotonin from dietary tryptophan and releases it into the bloodstream and the brain.",
+      "duration": 8.0,
+      "visual": "serotonin",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 75.0,
+      "end_seconds": 83.0
+    },
+    {
+      "title": "The vagus highway",
+      "narration": "The vagus nerve connects the gut and the brain, carrying signals in both directions.",
+      "duration": 7.5,
+      "visual": "vagus",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 83.0,
+      "end_seconds": 90.5
+    },
+    {
+      "title": "Eighty percent ascending",
+      "narration": "Eighty to ninety percent of vagal fibers carry information from the body upward to the brainstem.",
+      "duration": 8.0,
+      "visual": "vagus",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 90.5,
+      "end_seconds": 98.5
+    },
+    {
+      "title": "Bottom-up perception",
+      "narration": "Your brain does not merely command the body. It listens to the body, and most of what it hears comes from the gut.",
+      "duration": 9.0,
+      "visual": "vagus",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 98.5,
+      "end_seconds": 107.5
+    },
+    {
+      "title": "Microbiome dialogue",
+      "narration": "The gut microbiome produces neurotransmitters that enteric neurons detect and relay.",
+      "duration": 8.0,
+      "visual": "microbiome",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 107.5,
+      "end_seconds": 115.5
+    },
+    {
+      "title": "Bacterial signaling",
+      "narration": "Gut bacteria synthesize dopamine, serotonin, GABA, and other molecules that influence mood and behavior.",
+      "duration": 8.5,
+      "visual": "microbiome",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 115.5,
+      "end_seconds": 124.0
+    },
+    {
+      "title": "Ecosystem inside",
+      "narration": "Your gut hosts an ecosystem of trillions of microorganisms. They talk to your second brain, and your second brain talks to your first.",
+      "duration": 9.0,
+      "visual": "microbiome",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 124.0,
+      "end_seconds": 133.0
+    },
+    {
+      "title": "Gut feelings are real",
+      "narration": "Interoception — the perception of internal body states — carries enteric signals into conscious awareness.",
+      "duration": 8.5,
+      "visual": "gut_feeling",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 133.0,
+      "end_seconds": 141.5
+    },
+    {
+      "title": "Insula integration",
+      "narration": "The insular cortex maps the body's internal state. It is where the gut feeling becomes a felt sensation.",
+      "duration": 8.5,
+      "visual": "gut_feeling",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 141.5,
+      "end_seconds": 150.0
+    },
+    {
+      "title": "Intuition has anatomy",
+      "narration": "What we call intuition may be the enteric nervous system contributing its computation to decisions before the brain has finished processing.",
+      "duration": 9.0,
+      "visual": "gut_feeling",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 150.0,
+      "end_seconds": 159.0
+    },
+    {
+      "title": "Enteric glia",
+      "narration": "More than half of the cells in the enteric nervous system are glia — support cells that maintain neuronal health.",
+      "duration": 7.5,
+      "visual": "glia",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 159.0,
+      "end_seconds": 166.5
+    },
+    {
+      "title": "Gut barrier",
+      "narration": "Enteric glia help maintain the gut barrier and regulate inflammation. They are the immune system's interface with the enteric brain.",
+      "duration": 8.5,
+      "visual": "glia",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 166.5,
+      "end_seconds": 175.0
+    },
+    {
+      "title": "Trophic support",
+      "narration": "Glial cells release neurotrophic factors that keep enteric neurons alive and functional throughout life.",
+      "duration": 8.0,
+      "visual": "glia",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 175.0,
+      "end_seconds": 183.0
+    },
+    {
+      "title": "Stress reshapes the gut",
+      "narration": "Chronic stress alters enteric neural activity, barrier function, and gut motility.",
+      "duration": 8.0,
+      "visual": "stress",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 183.0,
+      "end_seconds": 191.0
+    },
+    {
+      "title": "Vagal withdrawal",
+      "narration": "Stress suppresses vagal tone, disconnecting the two brains and leaving the gut to operate without higher modulation.",
+      "duration": 8.5,
+      "visual": "stress",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 191.0,
+      "end_seconds": 199.5
+    },
+    {
+      "title": "Healing the connection",
+      "narration": "Restoring vagal tone through breath, movement, or social connection improves enteric function and emotional regulation.",
+      "duration": 9.0,
+      "visual": "stress",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 199.5,
+      "end_seconds": 208.5
+    },
+    {
+      "title": "Lifelong neurogenesis",
+      "narration": "Unlike most of the central nervous system, the enteric nervous system continues to generate new neurons throughout life.",
+      "duration": 8.5,
+      "visual": "neurogenesis",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 208.5,
+      "end_seconds": 217.0
+    },
+    {
+      "title": "Continuous renewal",
+      "narration": "The enteric brain is not a fixed structure. It rewires, replaces, and adapts in response to diet, experience, and injury.",
+      "duration": 8.5,
+      "visual": "neurogenesis",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 217.0,
+      "end_seconds": 225.5
+    },
+    {
+      "title": "Two brains, one body",
+      "narration": "The cephalic brain and the enteric brain are separate organs with different embryological origins, different transmitters, different functions.",
+      "duration": 9.0,
+      "visual": "dual_brain",
+      "params": {},
+      "scene_id": "scene_028",
+      "start_seconds": 225.5,
+      "end_seconds": 234.5
+    },
+    {
+      "title": "Parallel processing",
+      "narration": "They process information in parallel, communicate bidirectionally, and influence each other's development.",
+      "duration": 8.0,
+      "visual": "dual_brain",
+      "params": {},
+      "scene_id": "scene_029",
+      "start_seconds": 234.5,
+      "end_seconds": 242.5
+    },
+    {
+      "title": "Second mind",
+      "narration": "The enteric nervous system has its own sensory processing, its own reflexes, its own memory, its own capacity to learn.",
+      "duration": 9.0,
+      "visual": "dual_brain",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 242.5,
+      "end_seconds": 251.5
+    },
+    {
+      "title": "Intelligence is distributed",
+      "narration": "Intelligence is not a single organ. It is distributed throughout the body, and the body has ways of knowing the brain does not.",
+      "duration": 9.0,
+      "visual": "intelligence",
+      "params": {},
+      "scene_id": "scene_031",
+      "start_seconds": 251.5,
+      "end_seconds": 260.5
+    },
+    {
+      "title": "Embodied cognition",
+      "narration": "Cognition is not computation on abstract symbols. It is the activity of a body that senses, moves, digests, and feels.",
+      "duration": 8.5,
+      "visual": "intelligence",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 260.5,
+      "end_seconds": 269.0
+    },
+    {
+      "title": "Listen",
+      "narration": "The voice inside your chest is not a metaphor. It is a neural network with half a billion neurons speaking in the language of serotonin and peristalsis.",
+      "duration": 9.5,
+      "visual": "synthesis",
+      "params": {},
+      "scene_id": "scene_033",
+      "start_seconds": 269.0,
+      "end_seconds": 278.5
+    },
+    {
+      "title": "Resilience",
+      "narration": "The enteric nervous system repairs itself, adapts to injury, and maintains function across decades of use.",
+      "duration": 8.0,
+      "visual": "resilience",
+      "params": {},
+      "scene_id": "scene_034",
+      "start_seconds": 278.5,
+      "end_seconds": 286.5
+    },
+    {
+      "title": "Neuroplasticity",
+      "narration": "Enteric neuroplasticity is the reason dietary changes, probiotics, and behavioral interventions can reshape gut function.",
+      "duration": 8.5,
+      "visual": "resilience",
+      "params": {},
+      "scene_id": "scene_035",
+      "start_seconds": 286.5,
+      "end_seconds": 295.0
+    },
+    {
+      "title": "Supported claims",
+      "narration": "That the gut has an independent nervous system. That it produces most of the body's serotonin. That it communicates with the brain.",
+      "duration": 9.0,
+      "visual": "evidence",
+      "params": {},
+      "scene_id": "scene_036",
+      "start_seconds": 295.0,
+      "end_seconds": 304.0
+    },
+    {
+      "title": "Emerging frontier",
+      "narration": "That gut feelings are interoceptive signals reaching awareness. That the microbiome modulates mood. These are active research frontiers.",
+      "duration": 9.0,
+      "visual": "evidence",
+      "params": {},
+      "scene_id": "scene_037",
+      "start_seconds": 304.0,
+      "end_seconds": 313.0
+    },
+    {
+      "title": "Not metaphor",
+      "narration": "What traditions called the second brain or the voice in the chest is now visible as a biological organ with specific anatomy and physiology.",
+      "duration": 9.0,
+      "visual": "evidence",
+      "params": {},
+      "scene_id": "scene_038",
+      "start_seconds": 313.0,
+      "end_seconds": 322.0
+    },
+    {
+      "title": "Closing",
+      "narration": "You are not one voice. You are a chorus. The body speaks in a language older than language. It has been speaking since before there was a brain to hear it.",
+      "duration": 10.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_039",
+      "start_seconds": 322.0,
+      "end_seconds": 332.0
+    },
+    {
+      "title": "Final frame",
+      "narration": "Listen to the voice inside your chest. It has been trying to tell you something.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_040",
+      "start_seconds": 332.0,
+      "end_seconds": 339.0
+    }
+  ]
+}

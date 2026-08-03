@@ -1,0 +1,399 @@
+{
+  "title": "consciousness is not located",
+  "subtitle": "the 36 tattvas — how one becomes many without leaving itself",
+  "scene_count": 38,
+  "runtime_seconds": 301.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "gold ring of Siva surviving every contraction",
+  "visual_arc": [
+    "siva",
+    "descent through tattvas",
+    "body",
+    "recognition"
+  ],
+  "scenes": [
+    {
+      "title": "Siva",
+      "narration": "Pure consciousness, the unconditioned ground.",
+      "duration": 8.0,
+      "visual": "siva",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 8.0
+    },
+    {
+      "title": "Not a god",
+      "narration": "Siva is not a deity — it is the field of all possible appearing.",
+      "duration": 8.0,
+      "visual": "siva",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 8.0,
+      "end_seconds": 16.0
+    },
+    {
+      "title": "Sakti",
+      "narration": "The power to appear as all this — consciousness is not static.",
+      "duration": 8.0,
+      "visual": "sakti",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 16.0,
+      "end_seconds": 24.0
+    },
+    {
+      "title": "Dynamic",
+      "narration": "Siva-Sakti are not two things — they are the same reality as ground and as power.",
+      "duration": 8.5,
+      "visual": "sakti",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 24.0,
+      "end_seconds": 32.5
+    },
+    {
+      "title": "Sadasiva",
+      "narration": "I-am-this — the first pulse of subject and object together.",
+      "duration": 8.0,
+      "visual": "sadasiva",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 32.5,
+      "end_seconds": 40.5
+    },
+    {
+      "title": "First distinction",
+      "narration": "Not two — one pulse that contains both poles.",
+      "duration": 7.5,
+      "visual": "sadasiva",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 40.5,
+      "end_seconds": 48.0
+    },
+    {
+      "title": "Isvara",
+      "narration": "This-ness becomes prominent — the world begins to appear as other.",
+      "duration": 8.0,
+      "visual": "isvara",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 48.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "The object pole",
+      "narration": "Objectivity emerges from the unity.",
+      "duration": 7.5,
+      "visual": "isvara",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 56.0,
+      "end_seconds": 63.5
+    },
+    {
+      "title": "Sadvidya",
+      "narration": "I-ness becomes prominent — the sense of self emerges.",
+      "duration": 8.0,
+      "visual": "sadvidya",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 63.5,
+      "end_seconds": 71.5
+    },
+    {
+      "title": "The subject pole",
+      "narration": "Subjectivity emerges from the unity.",
+      "duration": 7.5,
+      "visual": "sadvidya",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 71.5,
+      "end_seconds": 79.0
+    },
+    {
+      "title": "Maya",
+      "narration": "Consciousness contracts into finitude — the power of limitation.",
+      "duration": 8.5,
+      "visual": "maya",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 79.0,
+      "end_seconds": 87.5
+    },
+    {
+      "title": "Not illusion",
+      "narration": "Maya is not false appearance — it is consciousness freely choosing to appear limited.",
+      "duration": 9.0,
+      "visual": "maya",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 87.5,
+      "end_seconds": 96.5
+    },
+    {
+      "title": "Kala",
+      "narration": "Limited agency — I can only do this much.",
+      "duration": 7.5,
+      "visual": "kala",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 96.5,
+      "end_seconds": 104.0
+    },
+    {
+      "title": "Vidya",
+      "narration": "Limited knowledge — I can only know this much.",
+      "duration": 7.5,
+      "visual": "kala",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 104.0,
+      "end_seconds": 111.5
+    },
+    {
+      "title": "Raga",
+      "narration": "Attachment — I want this and not that.",
+      "duration": 7.0,
+      "visual": "kala",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 111.5,
+      "end_seconds": 118.5
+    },
+    {
+      "title": "Kala",
+      "narration": "Time — I experience sequence, not simultaneity.",
+      "duration": 7.5,
+      "visual": "kala",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 118.5,
+      "end_seconds": 126.0
+    },
+    {
+      "title": "Niyati",
+      "narration": "Causality — events appear determined.",
+      "duration": 7.5,
+      "visual": "kala",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 126.0,
+      "end_seconds": 133.5
+    },
+    {
+      "title": "Purusha",
+      "narration": "The individual experiencer enters.",
+      "duration": 7.5,
+      "visual": "purusha",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 133.5,
+      "end_seconds": 141.0
+    },
+    {
+      "title": "Prakrti",
+      "narration": "The apparatus of experience — nature as the field of limitation.",
+      "duration": 8.0,
+      "visual": "purusha",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 141.0,
+      "end_seconds": 149.0
+    },
+    {
+      "title": "Buddhi",
+      "narration": "The intellect — discernment, decision, the capacity to know this as this.",
+      "duration": 8.0,
+      "visual": "buddhi",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 149.0,
+      "end_seconds": 157.0
+    },
+    {
+      "title": "Ahankara",
+      "narration": "The I-maker — the sense that this experience belongs to me.",
+      "duration": 8.0,
+      "visual": "ahankara",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 157.0,
+      "end_seconds": 165.0
+    },
+    {
+      "title": "Manas",
+      "narration": "The mind — attention, deliberation, oscillation.",
+      "duration": 8.0,
+      "visual": "manas",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 165.0,
+      "end_seconds": 173.0
+    },
+    {
+      "title": "The five senses",
+      "narration": "Hearing, touching, seeing, tasting, smelling — gates through which consciousness perceives.",
+      "duration": 8.5,
+      "visual": "indriyas",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 173.0,
+      "end_seconds": 181.5
+    },
+    {
+      "title": "The five subtle elements",
+      "narration": "Sound, touch, form, taste, smell — the raw data of perception.",
+      "duration": 8.0,
+      "visual": "tanmatras",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 181.5,
+      "end_seconds": 189.5
+    },
+    {
+      "title": "The five gross elements",
+      "narration": "Ether, air, fire, water, earth — consciousness becomes physical.",
+      "duration": 8.5,
+      "visual": "mahabhutas",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 189.5,
+      "end_seconds": 198.0
+    },
+    {
+      "title": "Ether",
+      "narration": "Space — the first condition of physical appearance.",
+      "duration": 7.0,
+      "visual": "mahabhutas",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 198.0,
+      "end_seconds": 205.0
+    },
+    {
+      "title": "Earth",
+      "narration": "The most contracted form of consciousness.",
+      "duration": 7.0,
+      "visual": "mahabhutas",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 205.0,
+      "end_seconds": 212.0
+    },
+    {
+      "title": "The body",
+      "narration": "Earth tattva — the final density of appearing.",
+      "duration": 8.0,
+      "visual": "body",
+      "params": {},
+      "scene_id": "scene_028",
+      "start_seconds": 212.0,
+      "end_seconds": 220.0
+    },
+    {
+      "title": "Matter as consciousness",
+      "narration": "The body is not unconscious — it is consciousness appearing at maximum contraction.",
+      "duration": 8.5,
+      "visual": "body",
+      "params": {},
+      "scene_id": "scene_029",
+      "start_seconds": 220.0,
+      "end_seconds": 228.5
+    },
+    {
+      "title": "Neuroscience",
+      "narration": "Modern science looks for consciousness inside the brain.",
+      "duration": 8.0,
+      "visual": "brain_search",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 228.5,
+      "end_seconds": 236.5
+    },
+    {
+      "title": "Not found",
+      "narration": "After decades of searching, the neural correlate is not the thing itself.",
+      "duration": 8.5,
+      "visual": "brain_search",
+      "params": {},
+      "scene_id": "scene_031",
+      "start_seconds": 236.5,
+      "end_seconds": 245.0
+    },
+    {
+      "title": "Wrong question",
+      "narration": "Abhinavagupta: you cannot find consciousness inside experience because consciousness is the space of experience.",
+      "duration": 9.5,
+      "visual": "brain_search",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 245.0,
+      "end_seconds": 254.5
+    },
+    {
+      "title": "The descent",
+      "narration": "36 tattvas: one consciousness appearing as all this.",
+      "duration": 7.5,
+      "visual": "return",
+      "params": {},
+      "scene_id": "scene_033",
+      "start_seconds": 254.5,
+      "end_seconds": 262.0
+    },
+    {
+      "title": "The ascent",
+      "narration": "The return path: from earth back to Siva — consciousness recognizing itself.",
+      "duration": 8.0,
+      "visual": "return",
+      "params": {},
+      "scene_id": "scene_034",
+      "start_seconds": 262.0,
+      "end_seconds": 270.0
+    },
+    {
+      "title": "Discipline",
+      "narration": "The tattvas are ontological, not physical.",
+      "duration": 7.0,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_035",
+      "start_seconds": 270.0,
+      "end_seconds": 277.0
+    },
+    {
+      "title": "No reduction",
+      "narration": "They describe modes of appearing, not physical layers.",
+      "duration": 8.0,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_036",
+      "start_seconds": 277.0,
+      "end_seconds": 285.0
+    },
+    {
+      "title": "Closing",
+      "narration": "Siva never leaves. The 36 tattvas are the same one, appearing at different densities of self-limitation.",
+      "duration": 9.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_037",
+      "start_seconds": 285.0,
+      "end_seconds": 294.0
+    },
+    {
+      "title": "Final frame",
+      "narration": "Consciousness is not located. It is where location appears.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_038",
+      "start_seconds": 294.0,
+      "end_seconds": 301.0
+    }
+  ]
+}

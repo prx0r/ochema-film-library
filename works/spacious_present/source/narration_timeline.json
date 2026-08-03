@@ -1,0 +1,268 @@
+{
+  "title": "ALL TIME IS NOW — The Spacious Present",
+  "scene_count": 25,
+  "runtime_seconds": 197.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "spiral threading all moments",
+  "palette_roles": {
+    "gold": "spacious present / simultaneous time",
+    "violet": "eternal now / subjective time",
+    "cyan": "psychological time / attention",
+    "crimson": "clock time / forgetting / linear narrative"
+  },
+  "scenes": [
+    {
+      "title": "Clock Time is a Convention",
+      "narration": "The brain parses sequence from simultaneity — time is not what the clock says.",
+      "duration": 7.0,
+      "visual": "clock",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Psychological Time",
+      "narration": "The second inner sense: not measured but felt — duration has a texture.",
+      "duration": 7.0,
+      "visual": "psychological",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "In Dreams You Know",
+      "narration": "In sleep, the spacious present reveals itself — beginning and end at once.",
+      "duration": 7.5,
+      "visual": "dreams",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.5
+    },
+    {
+      "title": "All Moments Coexist",
+      "narration": "Past, present, and future are regions of the same landscape, not a line.",
+      "duration": 8.0,
+      "visual": "coexist",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.5,
+      "end_seconds": 29.5
+    },
+    {
+      "title": "The Spacious Present",
+      "narration": "The present is not a knife-edge — it is a field of simultaneous experience.",
+      "duration": 7.5,
+      "visual": "coexist",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 29.5,
+      "end_seconds": 37.0
+    },
+    {
+      "title": "All Lives are Simultaneous",
+      "narration": "Reincarnation is a landscape, not a chain. You live all lives at once.",
+      "duration": 8.0,
+      "visual": "simultaneous",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 37.0,
+      "end_seconds": 45.0
+    },
+    {
+      "title": "Each Present Brings Its Past",
+      "narration": "The past is not fixed. Each present reorganizes memory.",
+      "duration": 7.5,
+      "visual": "present_brings_past",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 45.0,
+      "end_seconds": 52.5
+    },
+    {
+      "title": "The Past is Plastic",
+      "narration": "Memory is a creative act in the now — the past changes with the present.",
+      "duration": 7.0,
+      "visual": "present_brings_past",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 52.5,
+      "end_seconds": 59.5
+    },
+    {
+      "title": "Probable Futures",
+      "narration": "You choose among infinite realities each moment — all await your focus.",
+      "duration": 7.5,
+      "visual": "probable_futures",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 59.5,
+      "end_seconds": 67.0
+    },
+    {
+      "title": "The Observer Shapes the Seen",
+      "narration": "Expectation directs perception. The spacious present includes all possible views.",
+      "duration": 8.0,
+      "visual": "probable_futures",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 67.0,
+      "end_seconds": 75.0
+    },
+    {
+      "title": "The Eternal Now",
+      "narration": "When you remember everything, time ceases. You are all that ever was.",
+      "duration": 9.0,
+      "visual": "eternal_now",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 75.0,
+      "end_seconds": 84.0
+    },
+    {
+      "title": "Remembering Yourself",
+      "narration": "Beneath the personal self is the observer who watches all moments.",
+      "duration": 8.0,
+      "visual": "self_remember",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 84.0,
+      "end_seconds": 92.0
+    },
+    {
+      "title": "Attention Creates Time",
+      "narration": "Where you place attention, a moment unfolds. Time is a function of awareness.",
+      "duration": 7.5,
+      "visual": "attention",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 92.0,
+      "end_seconds": 99.5
+    },
+    {
+      "title": "Duration is Not Time",
+      "narration": "The felt length of a moment has nothing to do with the clock — it is attention's signature.",
+      "duration": 7.5,
+      "visual": "duration",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 99.5,
+      "end_seconds": 107.0
+    },
+    {
+      "title": "Narrative is Linear",
+      "narration": "The brain strings moments into a story. It forgets the spiral beneath.",
+      "duration": 7.0,
+      "visual": "narrative",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 107.0,
+      "end_seconds": 114.0
+    },
+    {
+      "title": "The Simultaneous Self",
+      "narration": "You are not one self — you are a field of selves in ongoing dialogue.",
+      "duration": 8.5,
+      "visual": "simultaneous_self",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 114.0,
+      "end_seconds": 122.5
+    },
+    {
+      "title": "The Threshold Moment",
+      "narration": "When linear time pauses — in crisis, awe, or love — the spacious present opens.",
+      "duration": 7.5,
+      "visual": "threshold_moment",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 122.5,
+      "end_seconds": 130.0
+    },
+    {
+      "title": "Recall is Active",
+      "narration": "Memory is not storage. It is a creative act performed in the present.",
+      "duration": 7.0,
+      "visual": "recall",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 130.0,
+      "end_seconds": 137.0
+    },
+    {
+      "title": "Past and Future Meet",
+      "narration": "In the spacious present, past and future touch. The boundary is attention.",
+      "duration": 7.5,
+      "visual": "recall",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 137.0,
+      "end_seconds": 144.5
+    },
+    {
+      "title": "You are Time",
+      "narration": "Not in time. Time is a dimension of your own being. All time is now.",
+      "duration": 8.5,
+      "visual": "spacious_final",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 144.5,
+      "end_seconds": 153.0
+    },
+    {
+      "title": "All Time is Now",
+      "narration": "The spiral contains every moment. You are the spacious present experiencing itself.",
+      "duration": 10.0,
+      "visual": "spacious_final",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 153.0,
+      "end_seconds": 163.0
+    },
+    {
+      "title": "The Spiral of Attention",
+      "narration": "Where attention goes, time unfolds. You create time by attending.",
+      "duration": 8.0,
+      "visual": "attention",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 163.0,
+      "end_seconds": 171.0
+    },
+    {
+      "title": "The Observer of Time",
+      "narration": "Who watches the passage of time is not in time.",
+      "duration": 9.0,
+      "visual": "self_remember",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 171.0,
+      "end_seconds": 180.0
+    },
+    {
+      "title": "The Spiral of Attention",
+      "narration": "Where attention goes, time unfolds. You create time by attending.",
+      "duration": 8.0,
+      "visual": "attention",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 180.0,
+      "end_seconds": 188.0
+    },
+    {
+      "title": "The Observer of Time",
+      "narration": "Who watches the passage of time is not in time.",
+      "duration": 9.0,
+      "visual": "self_remember",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 188.0,
+      "end_seconds": 197.0
+    }
+  ]
+}

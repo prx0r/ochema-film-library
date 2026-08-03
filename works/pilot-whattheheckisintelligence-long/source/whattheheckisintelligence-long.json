@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "id": "whattheheckisintelligence",
+  "title": "What the Heck Is Intelligence?",
+  "description": "Ochema pilot visual master generated from whattheheckisintelligence.md with fresh runtime visuals.",
+  "theme": "whiteScientific",
+  "seed": 260803,
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.35
+  },
+  "scenes": [
+    {
+      "id": "def",
+      "title": "Intelligence Is Flexible Success",
+      "subtitle": "The system generates possible trajectories, selects among them, then learns from the result.",
+      "term": "Generate Select Learn",
+      "devanagari": "\u092c\u0941\u0926\u094d\u0927\u093f",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-trajectory-field"
+      }
+    },
+    {
+      "id": "audit",
+      "title": "The Standard Views Do Not Explain It",
+      "subtitle": "g, reward optimization, and adaptation each name a surface but miss the operative mechanism.",
+      "term": "Mechanism Gap",
+      "devanagari": "\u092f\u0928\u094d\u0924\u094d\u0930",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-model-audit"
+      }
+    },
+    {
+      "id": "levin",
+      "title": "Biology Solves Novel Problems",
+      "subtitle": "A distributed living field can repair toward a target through means it did not pre-script.",
+      "term": "Variable Means",
+      "devanagari": "\u0909\u092a\u093e\u092f",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-morphogenetic-repair"
+      }
+    },
+    {
+      "id": "cone",
+      "title": "The Cognitive Light Cone Expands",
+      "subtitle": "Cells, tissues, organisms, and groups differ by how far their sensing and action can reach.",
+      "term": "Light Cone",
+      "devanagari": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-light-cone-scaling"
+      }
+    },
+    {
+      "id": "vector",
+      "title": "Intelligence Is A Vector",
+      "subtitle": "Alternatives, goal sensitivity, efficacy, history, and learning can vary independently.",
+      "term": "Five Components",
+      "devanagari": "\u092a\u091e\u094d\u091a",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-intelligence-vector"
+      }
+    },
+    {
+      "id": "memory",
+      "title": "Historical Depth Makes The Present Nonlocal",
+      "subtitle": "The present choice is shaped by prior outcomes, and those outcomes reshape future generation.",
+      "term": "Memory Ratchet",
+      "devanagari": "\u0938\u094d\u092e\u0943\u0924\u093f",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-memory-ratchet"
+      }
+    },
+    {
+      "id": "svatantrya",
+      "title": "Freedom Navigates Constraint",
+      "subtitle": "The Saiva reading: intelligence is contracted freedom finding paths through limitation.",
+      "term": "Constraint Space",
+      "devanagari": "\u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-constraint-freedom"
+      }
+    }
+  ]
+}

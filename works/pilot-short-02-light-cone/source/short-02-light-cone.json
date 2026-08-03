@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "id": "intel-short-light-cone",
+  "title": "The Cognitive Light Cone",
+  "description": "Vertical short from the Ochema intelligence pilot.",
+  "theme": "whiteScientific",
+  "seed": 260805,
+  "render": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.25
+  },
+  "scenes": [
+    {
+      "id": "cell",
+      "title": "Cells Already Regulate Worlds",
+      "subtitle": "The smallest scope is still goal-directed.",
+      "term": "Scope",
+      "devanagari": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-light-cone-scaling"
+      }
+    },
+    {
+      "id": "field",
+      "title": "Tissues Have Larger Worlds",
+      "subtitle": "Coordination extends sensing and action.",
+      "term": "Scale",
+      "devanagari": "\u092e\u093e\u0928",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-morphogenetic-repair"
+      }
+    },
+    {
+      "id": "claim",
+      "title": "Intelligence Scales",
+      "subtitle": "The cone expands from metabolism to culture.",
+      "term": "Expansion",
+      "devanagari": "\u0935\u093f\u0915\u093e\u0938",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-light-cone-scaling"
+      }
+    }
+  ]
+}

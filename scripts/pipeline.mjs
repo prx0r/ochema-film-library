@@ -14,6 +14,7 @@ import { mkdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { execFileSync, spawnSync } from "node:child_process";
+import { openDb, upsertWork, upsertScenes, logEvent, DB_PATH } from "../library/db.mjs";
 
 const ROOT = resolve(fileURLToPath(new URL(".", import.meta.url)), "..");
 const ENGINE = "/root/projects/clean/MOTHERFUCKER";
@@ -146,6 +147,17 @@ function cmd(argv) {
     const out = opts.out || join(ROOT, "works", workId, "pack.json");
     mkdirSync(dirname(out), { recursive: true });
     writeFileSync(out, JSON.stringify(pack, null, 2));
+    const db = openDb();
+    const m = JSON.parse(readFileSync(target, "utf8"));
+    upsertWork(db, {
+      id: workId, line: opts.line ?? "ported", title: m.title || pack.title,
+      thesis: m.subtitle || "", status: "ported", source_ref: target, pack_path: out,
+    });
+    upsertScenes(db, workId, (m.scenes || []).map((s, i) => ({
+      id: s.scene_id || `scene-${i + 1}`, title: s.title, subtitle: s.subtitle,
+      term: s.term, narration: s.narration, duration: s.duration_seconds ?? s.duration, visual: s.visual,
+    })));
+    logEvent(db, workId, "ported");
     console.log(`Port: ${pack.scenes.length} scenes → ${out} (theme ${THEME})`);
     return;
   }
@@ -163,7 +175,15 @@ function cmd(argv) {
     process.stdout.write(r.stdout);
     process.stderr.write(r.stderr);
     if (r.status !== 0) throw new Error(`render failed (${r.status})`);
-    console.log(`Render: ${out}`);
+    const db = openDb();
+    const workId = basename(dirname(packAbs));
+    const w = db.prepare("SELECT * FROM works WHERE id = ?").get(workId);
+    if (w) {
+      db.prepare("UPDATE works SET status = ?, video_path = ?, updated_at = ? WHERE id = ?")
+        .run("rendered", out, new Date().toISOString(), workId);
+      logEvent(db, workId, "rendered");
+    }
+    console.log(`Render: ${out} (db: ${DB_PATH})`);
     return;
   }
 
@@ -190,6 +210,13 @@ function cmd(argv) {
       w.rendered = true;
       w.videoUrl = `https://pub-8f77709efb2043fbbd8e88677347249a.r2.dev/videos/${workId}.mp4`;
       writeFileSync(join(ROOT, "library", "works.json"), JSON.stringify(worksJson, null, 2));
+    }
+    const db = openDb();
+    const row = db.prepare("SELECT * FROM works WHERE id = ?").get(workId);
+    if (row) {
+      db.prepare("UPDATE works SET status = ?, published_url = ?, pack_path = ?, updated_at = ? WHERE id = ?")
+        .run("published", `https://pub-8f77709efb2043fbbd8e88677347249a.r2.dev/videos/${workId}.mp4`, join(workDir, "pack.json"), new Date().toISOString(), workId);
+      logEvent(db, workId, "published");
     }
     if (opts.site) {
       const siteVideos = join("/mnt/HC_Volume_106427611/ochema-site/data/videos.json");

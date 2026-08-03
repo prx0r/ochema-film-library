@@ -1,0 +1,410 @@
+{
+  "title": "dreams create worlds",
+  "scene_count": 39,
+  "runtime_seconds": 302.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "violet dream-thread weaving through every scene",
+  "palette_roles": {
+    "ink": "physical waking reality",
+    "cyan": "dream-space / the imaginal",
+    "gold": "inventive spark / source of form",
+    "violet": "the dreaming self",
+    "green": "cooperative dreaming",
+    "crimson": "the collapse into waking"
+  },
+  "scenes": [
+    {
+      "title": "The third of life",
+      "narration": "You spend one third of your life in a world that modern science insists does not exist.",
+      "duration": 7.0,
+      "visual": "sleep_cycle",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "The body sleeps — the brain does not",
+      "narration": "During REM sleep, the brain is as electrically active as during waking. The body is paralyzed. The mind is anywhere but here.",
+      "duration": 7.5,
+      "visual": "brain_active",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.5
+    },
+    {
+      "title": "Not random noise",
+      "narration": "Neuroscience once dismissed dreams as random neural firing. But dreams have structure, narrative, meaning — and their own logic.",
+      "duration": 7.5,
+      "visual": "not_random",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.5,
+      "end_seconds": 22.0
+    },
+    {
+      "title": "Seth's claim",
+      "narration": "In the 1960s, a channeled personality named Seth said: the dream world is as real as the physical world. It has its own laws, its own time, its own geography.",
+      "duration": 8.0,
+      "visual": "two_worlds",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 22.0,
+      "end_seconds": 30.0
+    },
+    {
+      "title": "Two faces",
+      "narration": "'Pretend you are a creature with two faces. One face looks out upon one world — the other upon another. Both are fully conscious.'",
+      "duration": 8.0,
+      "visual": "two_worlds",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 30.0,
+      "end_seconds": 38.0
+    },
+    {
+      "title": "Two frameworks",
+      "narration": "Neuroscience says: dreams are memory consolidation and noise. Seth says: dreams are a distinct dimension with its own root assumptions.",
+      "duration": 7.0,
+      "visual": "frameworks",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 38.0,
+      "end_seconds": 45.0
+    },
+    {
+      "title": "The dreaming wave",
+      "narration": "Seth: 'In dreams, your consciousness operates as a wave — not confined to the body, not bound by space or time.'",
+      "duration": 7.5,
+      "visual": "wave",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 45.0,
+      "end_seconds": 52.5
+    },
+    {
+      "title": "Waves of awareness",
+      "narration": "When the body sleeps, consciousness returns to its native element — the dreaming sea from which it emerged.",
+      "duration": 7.5,
+      "visual": "wave",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 52.5,
+      "end_seconds": 60.0
+    },
+    {
+      "title": "Seeding",
+      "narration": "A question placed before sleep becomes a dream. A dream understood becomes an event in the waking world.",
+      "duration": 7.5,
+      "visual": "seeding",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 60.0,
+      "end_seconds": 67.5
+    },
+    {
+      "title": "The night's answer",
+      "narration": "The dreaming mind does not answer questions with words. It answers with encounters. It shows you what you need to see.",
+      "duration": 7.5,
+      "visual": "seeding",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 67.5,
+      "end_seconds": 75.0
+    },
+    {
+      "title": "Source of events",
+      "narration": "Seth: 'All physical events are the end products of nonphysical properties. The dream state is the source.'",
+      "duration": 8.0,
+      "visual": "source",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 75.0,
+      "end_seconds": 83.0
+    },
+    {
+      "title": "From dream to world",
+      "narration": "An idea dreamed becomes a tool. A vision dreamed becomes a city. A fear dreamed becomes an illness.",
+      "duration": 7.5,
+      "visual": "source",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 83.0,
+      "end_seconds": 90.5
+    },
+    {
+      "title": "Original learning",
+      "narration": "Early humans dreamed the location of water and food. They did not discover the world through trial and error — they were shown.",
+      "duration": 8.0,
+      "visual": "primitive",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 90.5,
+      "end_seconds": 98.5
+    },
+    {
+      "title": "The inner GPS",
+      "narration": "In dreams, the mind maps territories the body has never visited. The dream came first. The journey followed.",
+      "duration": 7.5,
+      "visual": "primitive",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 98.5,
+      "end_seconds": 106.0
+    },
+    {
+      "title": "Cooperative dreaming",
+      "narration": "All species once shared their dreams. A cross-species conversation — silent, imagistic, precise — maintained the balance of ecosystems.",
+      "duration": 8.0,
+      "visual": "cooperative",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 106.0,
+      "end_seconds": 114.0
+    },
+    {
+      "title": "The forgotten language",
+      "narration": "Seth: 'In early times, all species shared their dreams. Man inquired of the animals in his sleep.'",
+      "duration": 8.0,
+      "visual": "cooperative",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 114.0,
+      "end_seconds": 122.0
+    },
+    {
+      "title": "Every invention was dreamed",
+      "narration": "Fire, tools, language, art, cities, science — every human invention began as a dream-image before it became physical.",
+      "duration": 8.0,
+      "visual": "invention",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 122.0,
+      "end_seconds": 130.0
+    },
+    {
+      "title": "The dream precedes the form",
+      "narration": "Man dreamed his world and then created it. The physical universe is a dream that solidified.",
+      "duration": 8.0,
+      "visual": "invention",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 130.0,
+      "end_seconds": 138.0
+    },
+    {
+      "title": "Waking is a specialized dream",
+      "narration": "The waking state is not the opposite of dreaming. It is a specialized extension of dreaming — a focused beam of the same light.",
+      "duration": 8.0,
+      "visual": "extension",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 138.0,
+      "end_seconds": 146.0
+    },
+    {
+      "title": "The ocean and the wave",
+      "narration": "Dreaming is the ocean. Waking is a wave on that ocean. The wave does not cease to be ocean when it rises.",
+      "duration": 8.0,
+      "visual": "extension",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 146.0,
+      "end_seconds": 154.0
+    },
+    {
+      "title": "Lucid dreaming",
+      "narration": "In the lucid dream, the dreamer knows they are dreaming. The rules of reality become optional. This is a glimpse of the true nature of all experience.",
+      "duration": 8.0,
+      "visual": "lucid",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 154.0,
+      "end_seconds": 162.0
+    },
+    {
+      "title": "The threshold",
+      "narration": "Lucid dreaming is not a trick. It is a remembering of what you are. The dreamer who wakes within the dream is practicing for a larger awakening.",
+      "duration": 8.0,
+      "visual": "lucid",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 162.0,
+      "end_seconds": 170.0
+    },
+    {
+      "title": "Consciousness in all things",
+      "narration": "Every atom, every cell, every molecule — all possess a kind of consciousness. They are information-gathering processes with their own interior experience.",
+      "duration": 8.0,
+      "visual": "consciousness_units",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 170.0,
+      "end_seconds": 178.0
+    },
+    {
+      "title": "The spectrum of awareness",
+      "narration": "There is no sharp boundary between conscious and unconscious. There is only a spectrum of awareness from the mineral to the divine.",
+      "duration": 7.5,
+      "visual": "consciousness_units",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 178.0,
+      "end_seconds": 185.5
+    },
+    {
+      "title": "The spacious present",
+      "narration": "Past, present, and future coexist in the dream state. Sequence is a filter that waking consciousness applies to a simultaneous reality.",
+      "duration": 8.0,
+      "visual": "spacious",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 185.5,
+      "end_seconds": 193.5
+    },
+    {
+      "title": "All time is now",
+      "narration": "In dreams, you know the beginning and end of events at once. Time is not traversed — it is perceived whole.",
+      "duration": 8.0,
+      "visual": "spacious",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 193.5,
+      "end_seconds": 201.5
+    },
+    {
+      "title": "The dialogue",
+      "narration": "The dreaming self is not unconscious. It is talking to you constantly. You are not listening because you have been taught not to.",
+      "duration": 7.5,
+      "visual": "dialog",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 201.5,
+      "end_seconds": 209.0
+    },
+    {
+      "title": "Learning to listen",
+      "narration": "The first step of dream work is not to interpret. It is to acknowledge that the dream is a real communication from a real intelligence.",
+      "duration": 8.0,
+      "visual": "dialog",
+      "params": {},
+      "scene_id": "scene_028",
+      "start_seconds": 209.0,
+      "end_seconds": 217.0
+    },
+    {
+      "title": "The inner senses",
+      "narration": "Seth describes six inner senses — faculties that perceive realities the outer senses cannot reach. They see within the body, across space, through time.",
+      "duration": 8.0,
+      "visual": "inner_senses",
+      "params": {},
+      "scene_id": "scene_029",
+      "start_seconds": 217.0,
+      "end_seconds": 225.0
+    },
+    {
+      "title": "Expanding perception",
+      "narration": "The inner senses are not paranormal. They are normal faculties that have been atrophied by a culture that only values outer perception.",
+      "duration": 8.0,
+      "visual": "inner_senses",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 225.0,
+      "end_seconds": 233.0
+    },
+    {
+      "title": "Two faces of the self",
+      "narration": "One face looks at the world. One face looks at the dream. Both are you. Both are conscious. Neither is more real.",
+      "duration": 7.5,
+      "visual": "dual_focus",
+      "params": {},
+      "scene_id": "scene_031",
+      "start_seconds": 233.0,
+      "end_seconds": 240.5
+    },
+    {
+      "title": "The integration",
+      "narration": "The goal is not to escape into dreams or to dismiss them. It is to live with both faces aware of each other.",
+      "duration": 8.0,
+      "visual": "dual_focus",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 240.5,
+      "end_seconds": 248.5
+    },
+    {
+      "title": "The merge",
+      "narration": "Dream and waking are not two states. They are one consciousness perceived through two different apertures.",
+      "duration": 7.5,
+      "visual": "merge",
+      "params": {},
+      "scene_id": "scene_033",
+      "start_seconds": 248.5,
+      "end_seconds": 256.0
+    },
+    {
+      "title": "One consciousness",
+      "narration": "When the apertures align, the distinction dissolves. You perceive the dream within the waking — and the waking within the dream.",
+      "duration": 8.0,
+      "visual": "merge",
+      "params": {},
+      "scene_id": "scene_034",
+      "start_seconds": 256.0,
+      "end_seconds": 264.0
+    },
+    {
+      "title": "The universe dreamed itself",
+      "narration": "'The universe dreamed itself into being' is not poetry. It is the most literal description of existence.",
+      "duration": 8.0,
+      "visual": "universe_dreamed",
+      "params": {},
+      "scene_id": "scene_035",
+      "start_seconds": 264.0,
+      "end_seconds": 272.0
+    },
+    {
+      "title": "Divine psychological gestalt",
+      "narration": "A being whose reality escapes the definition of 'being' — the source from which all being emerges. And you are part of its dream.",
+      "duration": 8.0,
+      "visual": "universe_dreamed",
+      "params": {},
+      "scene_id": "scene_036",
+      "start_seconds": 272.0,
+      "end_seconds": 280.0
+    },
+    {
+      "title": "The transition",
+      "narration": "Every night you die to the waking world and are born into the dream. Every morning you die to the dream and are born into waking. Practice dying.",
+      "duration": 8.0,
+      "visual": "transition",
+      "params": {},
+      "scene_id": "scene_037",
+      "start_seconds": 280.0,
+      "end_seconds": 288.0
+    },
+    {
+      "title": "Closing",
+      "narration": "You are not a body having a dream. You are a dream having a body. The world is a dream that knows itself.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_038",
+      "start_seconds": 288.0,
+      "end_seconds": 296.0
+    },
+    {
+      "title": "Final frame",
+      "narration": "Dream deeply. The universe is dreaming through you.",
+      "duration": 6.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_039",
+      "start_seconds": 296.0,
+      "end_seconds": 302.0
+    }
+  ]
+}

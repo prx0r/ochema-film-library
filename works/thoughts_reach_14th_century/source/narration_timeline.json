@@ -1,0 +1,221 @@
+{
+  "title": "your thoughts reach 14th-century selves",
+  "subtitle": "Seth on simultaneous existence — the open-ended psyche",
+  "scene_count": 20,
+  "runtime_seconds": 170.5,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "gold thread of thought reaching backward and forward through time",
+  "visual_arc": [
+    "claim",
+    "linear vs simultaneous",
+    "14th-century",
+    "bidirectional",
+    "block universe",
+    "caution"
+  ],
+  "scenes": [
+    {
+      "title": "Seth's claim",
+      "narration": "You exist in this life and outside it simultaneously — between lives and in lives at once.",
+      "duration": 9.0,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 9.0
+    },
+    {
+      "title": "No closed system",
+      "narration": "Your thoughts reach into all simultaneous existences. No system is closed.",
+      "duration": 8.5,
+      "visual": "claim",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 9.0,
+      "end_seconds": 17.5
+    },
+    {
+      "title": "The conventional view",
+      "narration": "Reincarnation is usually pictured as a line: past, present, future.",
+      "duration": 7.5,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 17.5,
+      "end_seconds": 25.0
+    },
+    {
+      "title": "The problem with linearity",
+      "narration": "If lives are sequential, how does the present affect the past?",
+      "duration": 8.0,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 25.0,
+      "end_seconds": 33.0
+    },
+    {
+      "title": "The simultaneous view",
+      "narration": "All lives coexist. Each influences all the others.",
+      "duration": 8.5,
+      "visual": "simultaneous",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 33.0,
+      "end_seconds": 41.5
+    },
+    {
+      "title": "The landscape",
+      "narration": "Reincarnation is not a line — it is a terrain you are exploring from multiple angles.",
+      "duration": 8.5,
+      "visual": "simultaneous",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.5,
+      "end_seconds": 50.0
+    },
+    {
+      "title": "Between and in",
+      "narration": "You are between lives and in lives at the same time.",
+      "duration": 8.0,
+      "visual": "between_lives",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 50.0,
+      "end_seconds": 58.0
+    },
+    {
+      "title": "The paradox",
+      "narration": "The whole self is both incarnate and discarnate, focused and unfocused.",
+      "duration": 8.5,
+      "visual": "between_lives",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 58.0,
+      "end_seconds": 66.5
+    },
+    {
+      "title": "The 14th-century self",
+      "narration": "A hypothetical 14th-century version of you exists — and your thoughts reach them.",
+      "duration": 9.0,
+      "visual": "14th_century",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 66.5,
+      "end_seconds": 75.5
+    },
+    {
+      "title": "The reach",
+      "narration": "What you think now is unconsciously perceived by other versions of you.",
+      "duration": 8.5,
+      "visual": "14th_century",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 75.5,
+      "end_seconds": 84.0
+    },
+    {
+      "title": "Bidirectional causality",
+      "narration": "The present affects the past — not just the reverse.",
+      "duration": 8.5,
+      "visual": "causality",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 84.0,
+      "end_seconds": 92.5
+    },
+    {
+      "title": "Present as point of power",
+      "narration": "The present moment is the point of power because it can change all moments.",
+      "duration": 9.0,
+      "visual": "causality",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 92.5,
+      "end_seconds": 101.5
+    },
+    {
+      "title": "The block universe",
+      "narration": "Special relativity suggests all moments coexist. Time does not flow.",
+      "duration": 8.5,
+      "visual": "block_universe",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 101.5,
+      "end_seconds": 110.0
+    },
+    {
+      "title": "Consciousness as scanner",
+      "narration": "If the block is real, consciousness is the scanner that moves through it.",
+      "duration": 9.0,
+      "visual": "block_universe",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 110.0,
+      "end_seconds": 119.0
+    },
+    {
+      "title": "Quantum eraser",
+      "narration": "Experiments show that a future measurement can determine a past event's outcome.",
+      "duration": 9.5,
+      "visual": "quantum_bridge",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 119.0,
+      "end_seconds": 128.5
+    },
+    {
+      "title": "Wheeler's universe",
+      "narration": "John Wheeler: the universe is participatory — observation is involved in creation.",
+      "duration": 8.5,
+      "visual": "quantum_bridge",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 128.5,
+      "end_seconds": 137.0
+    },
+    {
+      "title": "Caution",
+      "narration": "Simultaneous existence is a metaphysical claim, not established physics.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 137.0,
+      "end_seconds": 145.5
+    },
+    {
+      "title": "The resonance",
+      "narration": "But the resonance between Seth's claim and emerging physics is striking.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 145.5,
+      "end_seconds": 154.0
+    },
+    {
+      "title": "Closing",
+      "narration": "The psyche is open-ended. Your thoughts reach through time. All selves are one self.",
+      "duration": 9.5,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 154.0,
+      "end_seconds": 163.5
+    },
+    {
+      "title": "Final frame",
+      "narration": "What you think now echoes through all your lives.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 163.5,
+      "end_seconds": 170.5
+    }
+  ]
+}

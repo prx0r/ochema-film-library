@@ -1,0 +1,608 @@
+{
+  "title": "life crosses barriers it cannot climb",
+  "runtime_seconds": 430.5,
+  "scene_count": 54,
+  "style": {
+    "background": "clean white scientific field",
+    "continuity_object": "gold probability filament",
+    "shot_duration_range_seconds": [
+      5,
+      10
+    ],
+    "palette_roles": {
+      "graphite": "classical constraint",
+      "gold": "quantum amplitude",
+      "cyan": "molecular architecture",
+      "crimson": "suppressed or failed path",
+      "green": "viable biological flux"
+    }
+  },
+  "scenes": [
+    {
+      "title": "A proton reaches a wall",
+      "narration": "A proton reaches a wall. Classical physics gives it two options.",
+      "duration": 6.0,
+      "visual": "classical_wall",
+      "params": {
+        "mode": "stop"
+      },
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 6.0
+    },
+    {
+      "title": "Climb",
+      "narration": "Bring enough energy to climb over.",
+      "duration": 5.5,
+      "visual": "classical_wall",
+      "params": {
+        "mode": "climb"
+      },
+      "scene_id": "scene_002",
+      "start_seconds": 6.0,
+      "end_seconds": 11.5
+    },
+    {
+      "title": "Stop",
+      "narration": "Or remain where it is.",
+      "duration": 5.5,
+      "visual": "classical_wall",
+      "params": {
+        "mode": "stop"
+      },
+      "scene_id": "scene_003",
+      "start_seconds": 11.5,
+      "end_seconds": 17.0
+    },
+    {
+      "title": "Third option",
+      "narration": "Inside enzymes, a third option matters. The proton can appear on the other side.",
+      "duration": 7.5,
+      "visual": "tunnelling",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 17.0,
+      "end_seconds": 24.5
+    },
+    {
+      "title": "No crack",
+      "narration": "Not because the wall opens. Not because the particle secretly found a crack.",
+      "duration": 6.5,
+      "visual": "tunnelling",
+      "params": {
+        "barrier_start": 0.45,
+        "barrier_end": 0.61
+      },
+      "scene_id": "scene_005",
+      "start_seconds": 24.5,
+      "end_seconds": 31.0
+    },
+    {
+      "title": "Wave penetrates",
+      "narration": "Its quantum wave extends through the barrier, giving the transfer a probability even when the classical route is energetically forbidden.",
+      "duration": 9.0,
+      "visual": "tunnelling",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 31.0,
+      "end_seconds": 40.0
+    },
+    {
+      "title": "No violation",
+      "narration": "Life does not violate physics. It uses the version of physics in which a barrier is not always an absolute border.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 40.0,
+      "end_seconds": 48.0
+    },
+    {
+      "title": "Wavefunction",
+      "narration": "A quantum particle is described by a wavefunction: a distribution of amplitudes over possible outcomes.",
+      "duration": 7.5,
+      "visual": "tunnelling",
+      "params": {
+        "barrier_start": 0.49,
+        "barrier_end": 0.58
+      },
+      "scene_id": "scene_008",
+      "start_seconds": 48.0,
+      "end_seconds": 55.5
+    },
+    {
+      "title": "Decay",
+      "narration": "At a finite barrier, the wavefunction does not stop sharply. It decays through the forbidden region.",
+      "duration": 7.5,
+      "visual": "tunnelling",
+      "params": {
+        "barrier_start": 0.43,
+        "barrier_end": 0.64
+      },
+      "scene_id": "scene_009",
+      "start_seconds": 55.5,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "Detection",
+      "narration": "If enough amplitude reaches the far side, a measurement can find the particle there.",
+      "duration": 7.0,
+      "visual": "tunnelling",
+      "params": {
+        "barrier_start": 0.48,
+        "barrier_end": 0.58
+      },
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    },
+    {
+      "title": "Width",
+      "narration": "The probability falls exponentially with barrier width.",
+      "duration": 7.0,
+      "visual": "width",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 70.0,
+      "end_seconds": 77.0
+    },
+    {
+      "title": "Mass",
+      "narration": "It also falls with particle mass. Electrons tunnel readily; protons can tunnel biologically; heavier atoms do so far less easily.",
+      "duration": 9.0,
+      "visual": "mass",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 77.0,
+      "end_seconds": 86.0
+    },
+    {
+      "title": "Geometry becomes destiny",
+      "narration": "At this scale, a difference of fractions of an ångström can transform the rate. Geometry becomes destiny.",
+      "duration": 8.0,
+      "visual": "width",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 86.0,
+      "end_seconds": 94.0
+    },
+    {
+      "title": "Catalysis before enzyme",
+      "narration": "Enzymes are molecular catalysts. A reaction in solution may face a steep and badly arranged energy landscape.",
+      "duration": 8.0,
+      "visual": "landscape",
+      "params": {
+        "mode": "solution"
+      },
+      "scene_id": "scene_014",
+      "start_seconds": 94.0,
+      "end_seconds": 102.0
+    },
+    {
+      "title": "Catalysis inside enzyme",
+      "narration": "An enzyme orients substrates, reorganizes electrostatics, positions water, and stabilizes favorable configurations.",
+      "duration": 9.0,
+      "visual": "landscape",
+      "params": {
+        "mode": "enzyme"
+      },
+      "scene_id": "scene_015",
+      "start_seconds": 102.0,
+      "end_seconds": 111.0
+    },
+    {
+      "title": "No quantum magic",
+      "narration": "Tunnelling is not a universal explanation for catalytic power. The enzyme does not replace chemistry with quantum magic.",
+      "duration": 8.0,
+      "visual": "warning",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 111.0,
+      "end_seconds": 119.0
+    },
+    {
+      "title": "Prepared situation",
+      "narration": "It prepares a molecular situation in which an unavoidable quantum process becomes useful.",
+      "duration": 7.5,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 119.0,
+      "end_seconds": 126.5
+    },
+    {
+      "title": "Hydrogen transfer",
+      "narration": "Hydrogen-transfer enzymes offer the clearest cases because hydrogen is light and its quantum position is comparatively spread out.",
+      "duration": 8.5,
+      "visual": "mass",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 126.5,
+      "end_seconds": 135.0
+    },
+    {
+      "title": "Replace H with D",
+      "narration": "Replace ordinary hydrogen with deuterium. The heavier isotope tunnels less readily.",
+      "duration": 7.5,
+      "visual": "isotope",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 135.0,
+      "end_seconds": 142.5
+    },
+    {
+      "title": "Open a case",
+      "narration": "A large isotope effect can support tunnelling, but mass is not the only variable.",
+      "duration": 7.0,
+      "visual": "evidence",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 142.5,
+      "end_seconds": 149.5
+    },
+    {
+      "title": "Mechanism remains plural",
+      "narration": "Protein motion, barrier shape, electrostatics, and coupled coordinates also influence the result. The experiment opens a case. It does not close it automatically.",
+      "duration": 9.5,
+      "visual": "evidence",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 149.5,
+      "end_seconds": 159.0
+    },
+    {
+      "title": "Donor and acceptor apart",
+      "narration": "In soybean lipoxygenase, donor and acceptor begin too far apart for efficient hydrogen transfer.",
+      "duration": 7.0,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 159.0,
+      "end_seconds": 166.0
+    },
+    {
+      "title": "Protein samples geometry",
+      "narration": "Protein motion samples configurations. For brief moments, the distance narrows.",
+      "duration": 7.0,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 166.0,
+      "end_seconds": 173.0
+    },
+    {
+      "title": "Breathing barrier",
+      "narration": "The enzyme does not push the particle continuously across. It breathes the barrier into a form through which tunnelling becomes likely.",
+      "duration": 9.0,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 173.0,
+      "end_seconds": 182.0
+    },
+    {
+      "title": "Motion and probability",
+      "narration": "Motion prepares. Quantum probability completes.",
+      "duration": 6.0,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 182.0,
+      "end_seconds": 188.0
+    },
+    {
+      "title": "Evolution selects geometry",
+      "narration": "Evolution does not need to understand wavefunctions. It only needs to preserve molecular arrangements that produce better outcomes.",
+      "duration": 8.5,
+      "visual": "evolution",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 188.0,
+      "end_seconds": 196.5
+    },
+    {
+      "title": "The molecule inherits mathematics",
+      "narration": "Quantum effects can become biologically functional without being represented by the organism. Selection operates on outcomes. The molecule inherits the mathematics.",
+      "duration": 9.5,
+      "visual": "evolution",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 196.5,
+      "end_seconds": 206.0
+    },
+    {
+      "title": "Triangle",
+      "narration": "Build a triangle and geometric relations arrive with the arrangement.",
+      "duration": 6.5,
+      "visual": "form",
+      "params": {
+        "mode": "triangle"
+      },
+      "scene_id": "scene_028",
+      "start_seconds": 206.0,
+      "end_seconds": 212.5
+    },
+    {
+      "title": "Double well",
+      "narration": "Build a double-well molecular potential at the right scale and tunnelling enters the reaction landscape.",
+      "duration": 8.0,
+      "visual": "form",
+      "params": {
+        "mode": "doublewell"
+      },
+      "scene_id": "scene_029",
+      "start_seconds": 212.5,
+      "end_seconds": 220.5
+    },
+    {
+      "title": "Reliable flux",
+      "narration": "Build an enzyme that repeatedly narrows donor and acceptor distance, and a small probability becomes a reliable biological flux.",
+      "duration": 9.0,
+      "visual": "enzyme",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 220.5,
+      "end_seconds": 229.5
+    },
+    {
+      "title": "Pointer into possibility",
+      "narration": "The organism does not create the quantum law. It creates a pointer into the region where the law becomes useful.",
+      "duration": 8.0,
+      "visual": "form",
+      "params": {
+        "mode": "doublewell"
+      },
+      "scene_id": "scene_031",
+      "start_seconds": 229.5,
+      "end_seconds": 237.5
+    },
+    {
+      "title": "Structure selects",
+      "narration": "Structure does not merely decorate matter. Structure selects which physical possibilities become real often enough to matter.",
+      "duration": 9.0,
+      "visual": "rates",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 237.5,
+      "end_seconds": 246.5
+    },
+    {
+      "title": "Water relay",
+      "narration": "In respiratory enzymes, proton transfer may use hydrogen-bonded water chains. Bonding patterns reorganize in a relay.",
+      "duration": 8.5,
+      "visual": "gate",
+      "params": {
+        "mode": "water"
+      },
+      "scene_id": "scene_033",
+      "start_seconds": 246.5,
+      "end_seconds": 255.0
+    },
+    {
+      "title": "Electric gate",
+      "narration": "Electric fields, protonation states, and conformational switches lower one route while suppressing others.",
+      "duration": 8.5,
+      "visual": "gate",
+      "params": {
+        "mode": "routes"
+      },
+      "scene_id": "scene_034",
+      "start_seconds": 255.0,
+      "end_seconds": 263.5
+    },
+    {
+      "title": "Constraint gives direction",
+      "narration": "The proton reaches the correct destination not because every possibility remains open, but because architecture makes one event repeatable and most alternatives irrelevant.",
+      "duration": 9.5,
+      "visual": "gate",
+      "params": {
+        "mode": "routes"
+      },
+      "scene_id": "scene_035",
+      "start_seconds": 263.5,
+      "end_seconds": 273.0
+    },
+    {
+      "title": "Life sculpts barriers",
+      "narration": "Life does not defeat barriers. It sculpts them.",
+      "duration": 6.0,
+      "visual": "gate",
+      "params": {
+        "mode": "routes"
+      },
+      "scene_id": "scene_036",
+      "start_seconds": 273.0,
+      "end_seconds": 279.0
+    },
+    {
+      "title": "Warm, wet, noisy",
+      "narration": "Living systems do not preserve a laboratory-perfect quantum world inside the cell.",
+      "duration": 7.0,
+      "visual": "noise",
+      "params": {},
+      "scene_id": "scene_037",
+      "start_seconds": 279.0,
+      "end_seconds": 286.0
+    },
+    {
+      "title": "Noise samples geometry",
+      "narration": "Protein fluctuations can sample useful geometries. Dissipation can prevent a system from remaining trapped.",
+      "duration": 8.0,
+      "visual": "noise",
+      "params": {},
+      "scene_id": "scene_038",
+      "start_seconds": 286.0,
+      "end_seconds": 294.0
+    },
+    {
+      "title": "Control without purity",
+      "narration": "Life builds noisy structures in which specific quantum facts remain consequential. The miracle is control without purity.",
+      "duration": 9.0,
+      "visual": "noise",
+      "params": {},
+      "scene_id": "scene_039",
+      "start_seconds": 294.0,
+      "end_seconds": 303.0
+    },
+    {
+      "title": "No concept required",
+      "narration": "A proton does not know the destination. An enzyme does not know quantum mechanics. Evolution does not calculate tunnelling integrals.",
+      "duration": 9.0,
+      "visual": "architecture",
+      "params": {},
+      "scene_id": "scene_040",
+      "start_seconds": 303.0,
+      "end_seconds": 312.0
+    },
+    {
+      "title": "Architecture knows",
+      "narration": "Knowledge is not required at every level for a structure to exploit a law.",
+      "duration": 7.0,
+      "visual": "architecture",
+      "params": {},
+      "scene_id": "scene_041",
+      "start_seconds": 312.0,
+      "end_seconds": 319.0
+    },
+    {
+      "title": "Truths the body cannot state",
+      "narration": "A bird need not understand spin chemistry. A cell need not understand voltage. An embryo need not understand geometry. The body acts through truths it cannot state.",
+      "duration": 9.5,
+      "visual": "architecture",
+      "params": {},
+      "scene_id": "scene_042",
+      "start_seconds": 319.0,
+      "end_seconds": 328.5
+    },
+    {
+      "title": "Do not overreach",
+      "narration": "Tunnelling in enzymes does not prove that thought tunnels, intention controls particles, or spiritual realization is a quantum jump.",
+      "duration": 9.0,
+      "visual": "warning",
+      "params": {},
+      "scene_id": "scene_043",
+      "start_seconds": 328.5,
+      "end_seconds": 337.5
+    },
+    {
+      "title": "Exact mechanism",
+      "narration": "It is a specific physical mechanism defined by masses, barriers, coupling, geometry, and measurable rate effects.",
+      "duration": 8.0,
+      "visual": "warning",
+      "params": {},
+      "scene_id": "scene_044",
+      "start_seconds": 337.5,
+      "end_seconds": 345.5
+    },
+    {
+      "title": "Disciplined metaphor",
+      "narration": "The responsible philosophical movement goes in the other direction: let the exact mechanism transform the metaphor.",
+      "duration": 8.0,
+      "visual": "warning",
+      "params": {},
+      "scene_id": "scene_045",
+      "start_seconds": 345.5,
+      "end_seconds": 353.5
+    },
+    {
+      "title": "Same wall, more force",
+      "narration": "A person can spend years trying to climb a psychological wall through greater force: more pressure, more command, more repetition of the same approach.",
+      "duration": 9.5,
+      "visual": "psychology",
+      "params": {
+        "mode": "force"
+      },
+      "scene_id": "scene_046",
+      "start_seconds": 353.5,
+      "end_seconds": 363.0
+    },
+    {
+      "title": "Change geometry",
+      "narration": "Sometimes change happens only when the geometry changes.",
+      "duration": 6.5,
+      "visual": "psychology",
+      "params": {
+        "mode": "geometry"
+      },
+      "scene_id": "scene_047",
+      "start_seconds": 363.0,
+      "end_seconds": 369.5
+    },
+    {
+      "title": "Preparation",
+      "narration": "Support narrows the distance to safety. Regulation permits new evidence. Practice changes the shape of attention.",
+      "duration": 9.0,
+      "visual": "psychology",
+      "params": {
+        "mode": "geometry"
+      },
+      "scene_id": "scene_048",
+      "start_seconds": 369.5,
+      "end_seconds": 378.5
+    },
+    {
+      "title": "Sudden from one level",
+      "narration": "Transformation looks sudden because preparation happened in dimensions the conscious story did not track.",
+      "duration": 8.5,
+      "visual": "psychology",
+      "params": {
+        "mode": "geometry"
+      },
+      "scene_id": "scene_049",
+      "start_seconds": 378.5,
+      "end_seconds": 387.0
+    },
+    {
+      "title": "Return to wall",
+      "narration": "A proton reaches a wall. Classical intuition says it must climb or stop.",
+      "duration": 7.0,
+      "visual": "classical_wall",
+      "params": {
+        "mode": "stop"
+      },
+      "scene_id": "scene_050",
+      "start_seconds": 387.0,
+      "end_seconds": 394.0
+    },
+    {
+      "title": "Quantum layer",
+      "narration": "Quantum mechanics says the wall has thickness, the particle has a wavefunction, and probability penetrates where a point-object could not.",
+      "duration": 9.0,
+      "visual": "tunnelling",
+      "params": {},
+      "scene_id": "scene_051",
+      "start_seconds": 394.0,
+      "end_seconds": 403.0
+    },
+    {
+      "title": "Biological layer",
+      "narration": "Biology adds another layer: the enzyme evolves a chamber in which the forbidden crossing becomes ordinary enough to sustain life.",
+      "duration": 9.5,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_052",
+      "start_seconds": 403.0,
+      "end_seconds": 412.5
+    },
+    {
+      "title": "Closing",
+      "narration": "Life crosses barriers it cannot climb. Not through will. Not through violation. Through architecture aligned with a deeper possibility already present in nature.",
+      "duration": 10.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_053",
+      "start_seconds": 412.5,
+      "end_seconds": 422.5
+    },
+    {
+      "title": "Thin wall",
+      "narration": "The particle does not conquer the wall. The living system learns how thin the wall must become.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_054",
+      "start_seconds": 422.5,
+      "end_seconds": 430.5
+    }
+  ]
+}

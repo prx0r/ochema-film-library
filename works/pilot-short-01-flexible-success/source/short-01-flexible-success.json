@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "id": "intel-short-flexible-success",
+  "title": "Intelligence Is Flexible Success",
+  "description": "Vertical short from the Ochema intelligence pilot.",
+  "theme": "whiteScientific",
+  "seed": 260804,
+  "render": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.25
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "title": "A Thermostat Has A Goal",
+      "subtitle": "But a fixed loop is not enough.",
+      "term": "Agent",
+      "devanagari": "\u0915\u0930\u094d\u0924\u093e",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-model-audit"
+      }
+    },
+    {
+      "id": "turn",
+      "title": "Novel Conditions Break Rigid Systems",
+      "subtitle": "Intelligence appears when alternatives are generated.",
+      "term": "Perturbation",
+      "devanagari": "\u0935\u093f\u0915\u094d\u0937\u0947\u092a",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-trajectory-field"
+      }
+    },
+    {
+      "id": "close",
+      "title": "Generate, Select, Learn",
+      "subtitle": "That is the shortest defensible account.",
+      "term": "Intelligence",
+      "devanagari": "\u092c\u0941\u0926\u094d\u0927\u093f",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-memory-ratchet"
+      }
+    }
+  ]
+}

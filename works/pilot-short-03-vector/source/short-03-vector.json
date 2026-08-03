@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "id": "intel-short-vector",
+  "title": "Intelligence Is Not One Number",
+  "description": "Vertical short from the Ochema intelligence pilot.",
+  "theme": "whiteScientific",
+  "seed": 260806,
+  "render": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "crf": 18,
+    "preset": "veryfast",
+    "sceneDuration": 10,
+    "transitionDuration": 0.25
+  },
+  "scenes": [
+    {
+      "id": "scalar",
+      "title": "Not One Score",
+      "subtitle": "The scalar view collapses different capacities.",
+      "term": "g",
+      "devanagari": "\u092e\u093e\u092a",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-model-audit"
+      }
+    },
+    {
+      "id": "vector",
+      "title": "Five Components",
+      "subtitle": "Alternatives, goals, efficacy, history, learning.",
+      "term": "Vector",
+      "devanagari": "\u0938\u0942\u091a\u0940",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-intelligence-vector"
+      }
+    },
+    {
+      "id": "ratchet",
+      "title": "Better At Getting Better",
+      "subtitle": "Meta-learning changes the generator itself.",
+      "term": "Ratchet",
+      "devanagari": "\u0905\u092d\u094d\u092f\u093e\u0938",
+      "motif": "semantic-essay",
+      "duration": 10,
+      "params": {
+        "visual": "ochema-memory-ratchet"
+      }
+    }
+  ]
+}

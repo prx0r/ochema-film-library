@@ -1,0 +1,113 @@
+{
+  "title": "black holes are the path to total nonexistence",
+  "subtitle": "And that balances God — Cassiopaean cosmology meets physics",
+  "scene_count": 10,
+  "runtime_seconds": 70.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "Black holes are grand-scale STS",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Inward to total nonexistence",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "Nonexistence balances total existence",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "Total existence is God",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "STS as gravitational collapse",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "The black sun tradition",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "Consciousness consuming itself",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "Hawking radiation as balance",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "STO expands — STS contracts",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "Which path are you on?",
+      "narration": "And that balances God — Cassiopaean cosmology meets physics",
+      "duration": 7.0,
+      "visual": "vis_v9",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    }
+  ]
+}

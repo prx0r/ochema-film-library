@@ -1,0 +1,113 @@
+{
+  "title": "the holy grail is real — and it's not a cup",
+  "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "scene_count": 10,
+  "runtime_seconds": 70.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "The grail is not a cup",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "A state of consciousness",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "The wounded fisher king",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "The waste land",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "Whom does the grail serve?",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "The question that heals",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "Parzival's foolishness",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "The second chance",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "The temple of the grail",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "How to ask the question",
+      "narration": "Parzival's question could save the world",
+      "duration": 7.0,
+      "visual": "vis_v9",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    }
+  ]
+}

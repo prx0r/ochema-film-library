@@ -1,0 +1,430 @@
+{
+  "title": "your beliefs create your biology",
+  "scene_count": 41,
+  "runtime_seconds": 316.5,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "gold belief-particle moving from consciousness toward matter",
+  "palette_roles": {
+    "ink": "conventional biology / materialism",
+    "cyan": "cellular consciousness / molecular cooperation",
+    "gold": "belief / intent / the shaping principle",
+    "crimson": "illness / blockage / dimming signal",
+    "green": "healing / value fulfillment / cellular faith",
+    "violet": "the psyche / the dreaming self / inner reality"
+  },
+  "scenes": [
+    {
+      "title": "The materialist assumption",
+      "narration": "For centuries, Western science has assumed that matter generates mind — that consciousness is a byproduct of brain activity.",
+      "duration": 7.0,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "The boundary",
+      "narration": "The brain is the hardware. Consciousness is the software. Or so the story goes.",
+      "duration": 6.0,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 13.0
+    },
+    {
+      "title": "The placebo",
+      "narration": "A patient receives a sugar pill and is told it is a powerful painkiller. Their pain vanishes.",
+      "duration": 7.0,
+      "visual": "placebo",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 13.0,
+      "end_seconds": 20.0
+    },
+    {
+      "title": "Not imagined",
+      "narration": "fMRI scans show the brain's pain centers deactivating. The saline did nothing. The belief did everything.",
+      "duration": 7.5,
+      "visual": "placebo",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 20.0,
+      "end_seconds": 27.5
+    },
+    {
+      "title": "Growing stronger",
+      "narration": "In 2023, a meta-analysis found the placebo effect in pain trials is 65% stronger than it was in the 1990s.",
+      "duration": 7.5,
+      "visual": "placebo_growing",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 27.5,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "Learning to heal",
+      "narration": "We are not imagining relief more effectively — we are learning to translate belief into biology more efficiently.",
+      "duration": 8.0,
+      "visual": "placebo_growing",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 43.0
+    },
+    {
+      "title": "The forgotten variable",
+      "narration": "The placebo effect was once dismissed as a statistical nuisance. It is now understood as the mechanism of healing itself.",
+      "duration": 8.0,
+      "visual": "placebo_growing",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 43.0,
+      "end_seconds": 51.0
+    },
+    {
+      "title": "A different starting point",
+      "narration": "In 1963, a woman named Jane Roberts began channeling a personality named Seth.",
+      "duration": 7.0,
+      "visual": "seth_claim",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 51.0,
+      "end_seconds": 58.0
+    },
+    {
+      "title": "Seth's claim",
+      "narration": "Seth said: 'Desire, love, intent, belief and purpose — these form the experience of your body and all the events it perceives.'",
+      "duration": 8.0,
+      "visual": "seth_claim",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 58.0,
+      "end_seconds": 66.0
+    },
+    {
+      "title": "Not metaphor",
+      "narration": "He meant this literally — not metaphorically. Belief is not a commentary on biology. Belief IS the substance of biology.",
+      "duration": 8.0,
+      "visual": "seth_claim",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 66.0,
+      "end_seconds": 74.0
+    },
+    {
+      "title": "Belief enters the cell",
+      "narration": "How does a thought become a biological change? The same way an instruction becomes a cellular response.",
+      "duration": 7.5,
+      "visual": "belief_cell",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 74.0,
+      "end_seconds": 81.5
+    },
+    {
+      "title": "Gene expression",
+      "narration": "Beliefs regulate gene expression through epigenetic mechanisms. A thought can silence a gene or activate it.",
+      "duration": 8.0,
+      "visual": "belief_cell",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 81.5,
+      "end_seconds": 89.5
+    },
+    {
+      "title": "The body listens",
+      "narration": "Every cell of your body is listening to your thoughts. Not metaphorically — biochemically.",
+      "duration": 8.0,
+      "visual": "belief_cell",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 89.5,
+      "end_seconds": 97.5
+    },
+    {
+      "title": "Cellular faith",
+      "narration": "Seth: 'Each cell contains within itself a belief and an understanding of its own inevitability.'",
+      "duration": 7.5,
+      "visual": "cellular_faith",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 97.5,
+      "end_seconds": 105.0
+    },
+    {
+      "title": "Built-in optimism",
+      "narration": "Each cell believes in a better tomorrow. This is not poetry — it is the biological impetus of all growth.",
+      "duration": 8.0,
+      "visual": "cellular_faith",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 105.0,
+      "end_seconds": 113.0
+    },
+    {
+      "title": "The network",
+      "narration": "Cells communicate through gap junctions, ion channels, electromagnetic fields. They weigh probabilities. They make decisions.",
+      "duration": 8.0,
+      "visual": "cellular_faith",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 113.0,
+      "end_seconds": 121.0
+    },
+    {
+      "title": "Value fulfillment",
+      "narration": "Life seeks not just to continue, but to enhance the quality of life itself. Seth called this value fulfillment.",
+      "duration": 7.5,
+      "visual": "value_fulfillment",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 121.0,
+      "end_seconds": 128.5
+    },
+    {
+      "title": "Cooperative venture",
+      "narration": "The very existence of one human body speaks of molecular and cellular cooperation that chance alone cannot explain.",
+      "duration": 8.0,
+      "visual": "value_fulfillment",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 128.5,
+      "end_seconds": 136.5
+    },
+    {
+      "title": "Molecular cooperation",
+      "narration": "Minerals, plants, animals, cells — all participate in a cooperative venture that unites every level of life.",
+      "duration": 7.5,
+      "visual": "cooperation",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 136.5,
+      "end_seconds": 144.0
+    },
+    {
+      "title": "The given gift",
+      "narration": "Cooperation is not learned — it is given. The gift of life brings along with it the actualization of that cooperation.",
+      "duration": 8.0,
+      "visual": "cooperation",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 144.0,
+      "end_seconds": 152.0
+    },
+    {
+      "title": "DNA as antenna",
+      "narration": "Cassiopaean: 'DNA acts as a superconductor — a neurotransceiver for thought pattern programs.'",
+      "duration": 7.5,
+      "visual": "dna_antenna",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 152.0,
+      "end_seconds": 159.5
+    },
+    {
+      "title": "Electrical conductor",
+      "narration": "Research confirms that DNA conducts electricity. Its structure is optimized for charge transport.",
+      "duration": 8.0,
+      "visual": "dna_antenna",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 159.5,
+      "end_seconds": 167.5
+    },
+    {
+      "title": "Signal or noise?",
+      "narration": "What if DNA is not a blueprint but a receiver — shaped by consciousness to receive consciousness?",
+      "duration": 8.0,
+      "visual": "dna_antenna",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 167.5,
+      "end_seconds": 175.5
+    },
+    {
+      "title": "The field of awareness",
+      "narration": "Consciousness is not located inside the body. The body is located inside consciousness.",
+      "duration": 7.5,
+      "visual": "field",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 175.5,
+      "end_seconds": 183.0
+    },
+    {
+      "title": "Brain or field?",
+      "narration": "The brain is not the source of consciousness — it is a reducing valve that filters consciousness into the bandwidth of a single body.",
+      "duration": 8.0,
+      "visual": "field",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 183.0,
+      "end_seconds": 191.0
+    },
+    {
+      "title": "Illness as communication",
+      "narration": "Seth: 'Illness is often another mode of expression, a means to a desired end.'",
+      "duration": 7.0,
+      "visual": "illness",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 191.0,
+      "end_seconds": 198.0
+    },
+    {
+      "title": "The body's language",
+      "narration": "The body has no language but health and its disturbance. Illness is the body's way of speaking what the mind cannot.",
+      "duration": 8.0,
+      "visual": "illness",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 198.0,
+      "end_seconds": 206.0
+    },
+    {
+      "title": "The dreaming source",
+      "narration": "Seth: 'The dream state is the source of all physical events. Physical events are the end products of nonphysical properties.'",
+      "duration": 8.0,
+      "visual": "dreams",
+      "params": {},
+      "scene_id": "scene_028",
+      "start_seconds": 206.0,
+      "end_seconds": 214.0
+    },
+    {
+      "title": "Events from significances",
+      "narration": "Events are not built from cause and effect. They are built from significances — from meaning, belief, and intent.",
+      "duration": 8.0,
+      "visual": "dreams",
+      "params": {},
+      "scene_id": "scene_029",
+      "start_seconds": 214.0,
+      "end_seconds": 222.0
+    },
+    {
+      "title": "The psyche as gestalt",
+      "narration": "The psyche is not a thing. It is an ever-forming state of being — a gestalt of aware energy.",
+      "duration": 7.5,
+      "visual": "psyche",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 222.0,
+      "end_seconds": 229.5
+    },
+    {
+      "title": "You create it",
+      "narration": "You create the psyche and it creates you. This is not paradox — it is the structure of subjective life.",
+      "duration": 8.0,
+      "visual": "psyche",
+      "params": {},
+      "scene_id": "scene_031",
+      "start_seconds": 229.5,
+      "end_seconds": 237.5
+    },
+    {
+      "title": "The first distortion",
+      "narration": "The Law of One: 'Intelligent infinity invested itself in an exploration of many-ness. The first distortion is free will.'",
+      "duration": 8.0,
+      "visual": "free_will",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 237.5,
+      "end_seconds": 245.5
+    },
+    {
+      "title": "Freedom is primitive",
+      "narration": "Freedom does not emerge from causality. Causality emerges from freedom. This is the ground of all existence.",
+      "duration": 8.0,
+      "visual": "free_will",
+      "params": {},
+      "scene_id": "scene_033",
+      "start_seconds": 245.5,
+      "end_seconds": 253.5
+    },
+    {
+      "title": "Impressions on consciousness",
+      "narration": "Tantraloka: vikalpa-samskara — conceptual constructions leave impressions on consciousness that shape subsequent form.",
+      "duration": 8.0,
+      "visual": "vikalpa",
+      "params": {},
+      "scene_id": "scene_034",
+      "start_seconds": 253.5,
+      "end_seconds": 261.5
+    },
+    {
+      "title": "Seeds of belief",
+      "narration": "Every thought is a seed planted in the field of the body. The harvest is health or illness, vitality or decay.",
+      "duration": 8.0,
+      "visual": "vikalpa",
+      "params": {},
+      "scene_id": "scene_035",
+      "start_seconds": 261.5,
+      "end_seconds": 269.5
+    },
+    {
+      "title": "Healing parity",
+      "narration": "The body learned to heal itself in sleep — in dreams. At certain levels, every cell contributes to the health of all.",
+      "duration": 7.5,
+      "visual": "healing",
+      "params": {},
+      "scene_id": "scene_036",
+      "start_seconds": 269.5,
+      "end_seconds": 277.0
+    },
+    {
+      "title": "The nocturnal pharmacy",
+      "narration": "In the dream state, each portion of consciousness contributes to the health and stability of all other portions.",
+      "duration": 8.0,
+      "visual": "healing",
+      "params": {},
+      "scene_id": "scene_037",
+      "start_seconds": 277.0,
+      "end_seconds": 285.0
+    },
+    {
+      "title": "Consciousness before matter",
+      "narration": "Seth: 'There was consciousness before there was matter. It is an error to separate matter from consciousness.'",
+      "duration": 8.0,
+      "visual": "primacy",
+      "params": {},
+      "scene_id": "scene_038",
+      "start_seconds": 285.0,
+      "end_seconds": 293.0
+    },
+    {
+      "title": "Matter as manifestation",
+      "narration": "Consciousness materializes itself as matter in physical life. The body does not generate consciousness — it is generated BY consciousness.",
+      "duration": 8.5,
+      "visual": "primacy",
+      "params": {},
+      "scene_id": "scene_039",
+      "start_seconds": 293.0,
+      "end_seconds": 301.5
+    },
+    {
+      "title": "Closing",
+      "narration": "Your beliefs create your biology. This is not a slogan. It is the most verified and most ignored finding in medical science.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_040",
+      "start_seconds": 301.5,
+      "end_seconds": 309.5
+    },
+    {
+      "title": "Final frame",
+      "narration": "You are not a body having a spiritual experience. You are consciousness having a biological experience.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_041",
+      "start_seconds": 309.5,
+      "end_seconds": 316.5
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "title": "blake's printing house in hell is your spinal chakra",
+  "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "scene_count": 9,
+  "runtime_seconds": 63.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "Blake's hell is the spine",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Marriage of heaven and hell",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "The printing house",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "Six chambers six chakras",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "Knowledge through descent",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "Energy is eternal delight",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "The body as divine vehicle",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "Doors of perception",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "Liberation of the senses",
+      "narration": "The six chambers as the six lower energy centers",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    }
+  ]
+}

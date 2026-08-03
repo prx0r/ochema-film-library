@@ -1,0 +1,253 @@
+{
+  "title": "your DNA is a superconductor",
+  "subtitle": "programming reality — the Cassiopaean claim meets modern physics",
+  "scene_count": 23,
+  "runtime_seconds": 199.5,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "DNA helix transforming into an antenna",
+  "visual_arc": [
+    "conventional",
+    "charge transport",
+    "superconductor",
+    "program",
+    "time",
+    "convergence",
+    "upgrade",
+    "caution"
+  ],
+  "scenes": [
+    {
+      "title": "The standard story",
+      "narration": "DNA codes proteins. Proteins build the body. The body houses consciousness.",
+      "duration": 7.0,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "What's missing",
+      "narration": "This story leaves out something essential: DNA conducts electricity.",
+      "duration": 8.0,
+      "visual": "conventional",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 15.0
+    },
+    {
+      "title": "Charge transport",
+      "narration": "In the 1990s, researchers discovered that electrons move through DNA's stacked base pairs.",
+      "duration": 8.5,
+      "visual": "charge_transport",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 15.0,
+      "end_seconds": 23.5
+    },
+    {
+      "title": "Molecular wire",
+      "narration": "DNA can act as a conductor, semiconductor, or insulator depending on its environment.",
+      "duration": 8.5,
+      "visual": "charge_transport",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 23.5,
+      "end_seconds": 32.0
+    },
+    {
+      "title": "The Cassiopaean claim",
+      "narration": "In 1994, a channeled source stated that DNA is a superconductor — a neurotransceiver for consciousness.",
+      "duration": 9.0,
+      "visual": "superconductor",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 32.0,
+      "end_seconds": 41.0
+    },
+    {
+      "title": "Not just a blueprint",
+      "narration": "DNA, they said, is 'the method used for creation and maintenance of program illusions.'",
+      "duration": 8.5,
+      "visual": "superconductor",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 41.0,
+      "end_seconds": 49.5
+    },
+    {
+      "title": "Neurotransceiver",
+      "narration": "Receiving and transmitting — DNA as an antenna between consciousness and the physical world.",
+      "duration": 8.5,
+      "visual": "neurotransceiver",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 49.5,
+      "end_seconds": 58.0
+    },
+    {
+      "title": "Thought pattern programs",
+      "narration": "Electromagnetic wave transmission facilitates thought patterns through the DNA infrastructure.",
+      "duration": 9.0,
+      "visual": "neurotransceiver",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 58.0,
+      "end_seconds": 67.0
+    },
+    {
+      "title": "The program illusion",
+      "narration": "'That perception is part of the illusion. What you perceive as solid is a program readout.'",
+      "duration": 8.0,
+      "visual": "program_illusion",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 67.0,
+      "end_seconds": 75.0
+    },
+    {
+      "title": "Perception is programmed",
+      "narration": "The Cassiopaeans: your perception of linear time is maintained by how DNA interacts with electromagnetic fields.",
+      "duration": 9.5,
+      "visual": "program_illusion",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 75.0,
+      "end_seconds": 84.5
+    },
+    {
+      "title": "Linear time",
+      "narration": "If DNA is a clock, what is it measuring? And what if the clock is also the clockmaker?",
+      "duration": 8.5,
+      "visual": "time_illusion",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 84.5,
+      "end_seconds": 93.0
+    },
+    {
+      "title": "Simultaneity",
+      "narration": "All time is now. Sequence is a readout — not a fundamental feature of reality.",
+      "duration": 8.0,
+      "visual": "time_illusion",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 93.0,
+      "end_seconds": 101.0
+    },
+    {
+      "title": "Modern convergence",
+      "narration": "Michael Levin's lab shows that bioelectric fields carry pattern information across cellular networks.",
+      "duration": 9.0,
+      "visual": "levin_bridge",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 101.0,
+      "end_seconds": 110.0
+    },
+    {
+      "title": "The field",
+      "narration": "Cells communicate electrically. DNA is part of a larger bioelectric field that navigates morphospace.",
+      "duration": 9.5,
+      "visual": "levin_bridge",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 110.0,
+      "end_seconds": 119.5
+    },
+    {
+      "title": "Levin bridge",
+      "narration": "Levin: 'The bioelectric field is the hardware of the body's memory.' The Cassiopaeans: 'DNA is a superconductor.'",
+      "duration": 9.0,
+      "visual": "levin_bridge",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 119.5,
+      "end_seconds": 128.5
+    },
+    {
+      "title": "Osiris",
+      "narration": "The cutting up of Osiris' body represents the reduction of human knowledge capacity — the removal of frequencies from DNA.",
+      "duration": 9.5,
+      "visual": "osiris",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 128.5,
+      "end_seconds": 138.0
+    },
+    {
+      "title": "The myth encodes",
+      "narration": "Ancient knowledge encoded as myth: the fall was a reduction in the number of accessible DNA strands.",
+      "duration": 9.0,
+      "visual": "osiris",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 138.0,
+      "end_seconds": 147.0
+    },
+    {
+      "title": "The upgrade",
+      "narration": "'You don't get added strands. You receive. Interaction with the upcoming wave, if vibration is aligned.'",
+      "duration": 9.5,
+      "visual": "upgrade",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 147.0,
+      "end_seconds": 156.5
+    },
+    {
+      "title": "Alignment",
+      "narration": "The Wave is coming. Your DNA must be tuned to receive it. Knowledge protects.",
+      "duration": 9.0,
+      "visual": "upgrade",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 156.5,
+      "end_seconds": 165.5
+    },
+    {
+      "title": "Caution",
+      "narration": "DNA charge transport is real. DNA as a superconductor is not established. The boundary matters.",
+      "duration": 9.0,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 165.5,
+      "end_seconds": 174.5
+    },
+    {
+      "title": "The distinction",
+      "narration": "The Cassiopaean claim is extraordinary. But extraordinary claims require disciplined scrutiny.",
+      "duration": 8.5,
+      "visual": "caution",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 174.5,
+      "end_seconds": 183.0
+    },
+    {
+      "title": "Closing",
+      "narration": "Your DNA is not a blueprint. It is an antenna. The program is running — and you are the programmer.",
+      "duration": 9.5,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 183.0,
+      "end_seconds": 192.5
+    },
+    {
+      "title": "Final frame",
+      "narration": "You don't get. You receive. The Wave is here. Align your vibration.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 192.5,
+      "end_seconds": 199.5
+    }
+  ]
+}

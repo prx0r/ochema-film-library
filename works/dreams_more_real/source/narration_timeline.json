@@ -1,0 +1,113 @@
+{
+  "title": "dreams are more real than waking reality",
+  "subtitle": "The built-in faith of every chromosome — Seth on cellular knowing",
+  "scene_count": 10,
+  "runtime_seconds": 70.0,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "timeline being rewritten from the present moment",
+  "scenes": [
+    {
+      "title": "Dreams are the source",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v0",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Not byproduct — origin",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v1",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.0
+    },
+    {
+      "title": "Events from nonphysical properties",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v2",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.0,
+      "end_seconds": 21.0
+    },
+    {
+      "title": "The dream state is the source",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v3",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 21.0,
+      "end_seconds": 28.0
+    },
+    {
+      "title": "Significances not cause-effect",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v4",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 28.0,
+      "end_seconds": 35.0
+    },
+    {
+      "title": "The dreaming intellect",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v5",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 35.0,
+      "end_seconds": 42.0
+    },
+    {
+      "title": "Early man dreamed locations",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v6",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 42.0,
+      "end_seconds": 49.0
+    },
+    {
+      "title": "Inventions began as dreams",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v7",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 49.0,
+      "end_seconds": 56.0
+    },
+    {
+      "title": "The universe dreamed itself",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v8",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 56.0,
+      "end_seconds": 63.0
+    },
+    {
+      "title": "Living from the dream source",
+      "narration": "Seth on dreams as the source of all physical events",
+      "duration": 7.0,
+      "visual": "vis_v9",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 63.0,
+      "end_seconds": 70.0
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "title": "the wave — hyperdimensional reality is here",
+  "scene_count": 33,
+  "runtime_seconds": 255.5,
+  "shot_duration_range": [
+    5,
+    10
+  ],
+  "continuity_object": "luminous wave-crest travelling through every scene",
+  "palette_roles": {
+    "ink": "3rd density / physical reality",
+    "cyan": "4th density / the Wave bleedthrough",
+    "gold": "STO / knowledge / protection",
+    "crimson": "STS / control / separation",
+    "violet": "6th density / the future self",
+    "green": "the merge / healing / balance"
+  },
+  "scenes": [
+    {
+      "title": "The contact",
+      "narration": "In 1994, a group of researchers in Florida began receiving communications from a source identifying as 'you in the future.'",
+      "duration": 7.0,
+      "visual": "contact",
+      "params": {},
+      "scene_id": "scene_001",
+      "start_seconds": 0.0,
+      "end_seconds": 7.0
+    },
+    {
+      "title": "Sixth density",
+      "narration": "The Cassiopaeans claimed to be a sixth-density collective — humanity's own future self, communicating backward through time.",
+      "duration": 7.5,
+      "visual": "contact",
+      "params": {},
+      "scene_id": "scene_002",
+      "start_seconds": 7.0,
+      "end_seconds": 14.5
+    },
+    {
+      "title": "The program",
+      "narration": "Reality, they said, is a program — a hyperdimensional simulation maintained by electromagnetic fields interacting with DNA.",
+      "duration": 7.5,
+      "visual": "program",
+      "params": {},
+      "scene_id": "scene_003",
+      "start_seconds": 14.5,
+      "end_seconds": 22.0
+    },
+    {
+      "title": "Perception is part of the illusion",
+      "narration": "'That perception is part of the illusion. What you perceive as solid is a readout of a hyperdimensional code.'",
+      "duration": 7.5,
+      "visual": "program",
+      "params": {},
+      "scene_id": "scene_004",
+      "start_seconds": 22.0,
+      "end_seconds": 29.5
+    },
+    {
+      "title": "The Wave",
+      "narration": "The Wave is a Macro-cosmic Quantum Wave Collapse — a hyperdimensional transition that reshapes the very structure of reality.",
+      "duration": 8.0,
+      "visual": "wave_intro",
+      "params": {},
+      "scene_id": "scene_005",
+      "start_seconds": 29.5,
+      "end_seconds": 37.5
+    },
+    {
+      "title": "The crest",
+      "narration": "It is not a metaphor. It is a physical and metaphysical event — a shift in the vibrational frequency of the planet itself.",
+      "duration": 7.5,
+      "visual": "wave_intro",
+      "params": {},
+      "scene_id": "scene_006",
+      "start_seconds": 37.5,
+      "end_seconds": 45.0
+    },
+    {
+      "title": "Third density",
+      "narration": "We are currently in third density — the density of self-consciousness, of forgetting, and of first conscious choice.",
+      "duration": 7.0,
+      "visual": "third",
+      "params": {},
+      "scene_id": "scene_007",
+      "start_seconds": 45.0,
+      "end_seconds": 52.0
+    },
+    {
+      "title": "The forgetting",
+      "narration": "The veil of forgetting is what makes third density unique. We do not remember where we came from — which makes our choices real.",
+      "duration": 7.5,
+      "visual": "third",
+      "params": {},
+      "scene_id": "scene_008",
+      "start_seconds": 52.0,
+      "end_seconds": 59.5
+    },
+    {
+      "title": "Fourth density",
+      "narration": "Fourth density is the first density with variable physicality. Thought becomes malleable. Reality begins to respond directly to consciousness.",
+      "duration": 8.0,
+      "visual": "fourth",
+      "params": {},
+      "scene_id": "scene_009",
+      "start_seconds": 59.5,
+      "end_seconds": 67.5
+    },
+    {
+      "title": "The next octave",
+      "narration": "Earth is transitioning from third to fourth density. The clock has been ticking for 75,000 years — and the hour is striking.",
+      "duration": 7.5,
+      "visual": "fourth",
+      "params": {},
+      "scene_id": "scene_010",
+      "start_seconds": 67.5,
+      "end_seconds": 75.0
+    },
+    {
+      "title": "DNA as superconductor",
+      "narration": "DNA is not just a protein-coding blueprint. It is a conductor of electricity — a neurotransceiver for consciousness itself.",
+      "duration": 8.0,
+      "visual": "dna",
+      "params": {},
+      "scene_id": "scene_011",
+      "start_seconds": 75.0,
+      "end_seconds": 83.0
+    },
+    {
+      "title": "The antenna",
+      "narration": "'DNA acts as a superconductor — the method used for creation and maintenance of program illusions, such as the perception of linear time.'",
+      "duration": 8.0,
+      "visual": "dna",
+      "params": {},
+      "scene_id": "scene_012",
+      "start_seconds": 83.0,
+      "end_seconds": 91.0
+    },
+    {
+      "title": "STO and STS",
+      "narration": "The fundamental polarity: Service to Others and Service to Self. Both are paths to the Creator — they just take different routes.",
+      "duration": 7.5,
+      "visual": "polarity",
+      "params": {},
+      "scene_id": "scene_013",
+      "start_seconds": 91.0,
+      "end_seconds": 98.5
+    },
+    {
+      "title": "Flow outward, flow inward",
+      "narration": "STO flows outward and touches all, including the point of origin. STS flows inward and touches only the origin point.",
+      "duration": 7.5,
+      "visual": "polarity",
+      "params": {},
+      "scene_id": "scene_014",
+      "start_seconds": 98.5,
+      "end_seconds": 106.0
+    },
+    {
+      "title": "Bleedthrough",
+      "narration": "Fourth density is already bleeding into third. Unexplained phenomena, synchronicities, 'paranormal' events — these are the ooze of a new reality.",
+      "duration": 8.0,
+      "visual": "bleedthrough",
+      "params": {},
+      "scene_id": "scene_015",
+      "start_seconds": 106.0,
+      "end_seconds": 114.0
+    },
+    {
+      "title": "The heat",
+      "narration": "'Heat means 4th density bleedthrough — oozing of faint reflections of new reality.' The transition is not theoretical. It is thermal.",
+      "duration": 8.0,
+      "visual": "bleedthrough",
+      "params": {},
+      "scene_id": "scene_016",
+      "start_seconds": 114.0,
+      "end_seconds": 122.0
+    },
+    {
+      "title": "Knowledge protects",
+      "narration": "The Cassiopaeans' most repeated teaching: knowledge protects. Not faith, not ritual, not symbols — understanding itself raises your vibration.",
+      "duration": 7.5,
+      "visual": "knowledge",
+      "params": {},
+      "scene_id": "scene_017",
+      "start_seconds": 122.0,
+      "end_seconds": 129.5
+    },
+    {
+      "title": "The vibration",
+      "narration": "Knowledge is not information. It is the alignment of your being with the truth of your own nature. And that alignment IS protection.",
+      "duration": 8.0,
+      "visual": "knowledge",
+      "params": {},
+      "scene_id": "scene_018",
+      "start_seconds": 129.5,
+      "end_seconds": 137.5
+    },
+    {
+      "title": "Realm border crossing",
+      "narration": "The realm border crossing will be like a thermonuclear blast. The lower cannot enter the higher — only the vibrationally compatible can pass.",
+      "duration": 8.0,
+      "visual": "border",
+      "params": {},
+      "scene_id": "scene_019",
+      "start_seconds": 137.5,
+      "end_seconds": 145.5
+    },
+    {
+      "title": "The sorting",
+      "narration": "There is no judgment. There is only resonance. You are sorted by your own vibration — which is the sum of what you have chosen to become.",
+      "duration": 8.0,
+      "visual": "border",
+      "params": {},
+      "scene_id": "scene_020",
+      "start_seconds": 145.5,
+      "end_seconds": 153.5
+    },
+    {
+      "title": "Time is a perception illusion",
+      "narration": "Linear time is not fundamental. It is a readout of the program — a way of organizing a simultaneous reality into a sequential experience.",
+      "duration": 8.0,
+      "visual": "time",
+      "params": {},
+      "scene_id": "scene_021",
+      "start_seconds": 153.5,
+      "end_seconds": 161.5
+    },
+    {
+      "title": "All time is now",
+      "narration": "'The past and the future are all in the present.' Time does not flow. You move through a static block of all moments.",
+      "duration": 7.5,
+      "visual": "time",
+      "params": {},
+      "scene_id": "scene_022",
+      "start_seconds": 161.5,
+      "end_seconds": 169.0
+    },
+    {
+      "title": "Thought becomes matter",
+      "narration": "The Cassiopaeans described a principle called 'bilaterality' — thought becomes matter, and matter becomes thought, in a continuous loop.",
+      "duration": 8.0,
+      "visual": "thought_matter",
+      "params": {},
+      "scene_id": "scene_023",
+      "start_seconds": 169.0,
+      "end_seconds": 177.0
+    },
+    {
+      "title": "Dual emergence",
+      "narration": "'The beginning emerges from the end, and vice versa. Union with the One is both origin and destination.'",
+      "duration": 8.0,
+      "visual": "thought_matter",
+      "params": {},
+      "scene_id": "scene_024",
+      "start_seconds": 177.0,
+      "end_seconds": 185.0
+    },
+    {
+      "title": "The merge",
+      "narration": "When the Wave reaches Earth, the Cassiopaeans merge with us. Not as invaders — as our own future self, recognizing itself.",
+      "duration": 8.0,
+      "visual": "merge",
+      "params": {},
+      "scene_id": "scene_025",
+      "start_seconds": 185.0,
+      "end_seconds": 193.0
+    },
+    {
+      "title": "The crowded wave",
+      "narration": "The Wave is crowded. Every civilization in the galaxy that has an interest in Earth's transition is riding it. Both sides respect free will. Only one respects yours.",
+      "duration": 8.5,
+      "visual": "crowded",
+      "params": {},
+      "scene_id": "scene_026",
+      "start_seconds": 193.0,
+      "end_seconds": 201.5
+    },
+    {
+      "title": "The Black Sun",
+      "narration": "The ultimate destiny of the STS path is the Black Sun — a black hole. Not as metaphor, but as literal gravitational collapse of a consciousness that has turned entirely inward.",
+      "duration": 8.0,
+      "visual": "sts",
+      "params": {},
+      "scene_id": "scene_027",
+      "start_seconds": 201.5,
+      "end_seconds": 209.5
+    },
+    {
+      "title": "The centre that cannot hold",
+      "narration": "STS disintegrates because separation is not sustainable. A self that serves only itself eventually consumes itself.",
+      "duration": 7.5,
+      "visual": "sts",
+      "params": {},
+      "scene_id": "scene_028",
+      "start_seconds": 209.5,
+      "end_seconds": 217.0
+    },
+    {
+      "title": "Seventh density",
+      "narration": "Seventh density is union with the One — timeless, radiant, the ground from which all realities emerge and to which all return.",
+      "duration": 7.5,
+      "visual": "seventh",
+      "params": {},
+      "scene_id": "scene_029",
+      "start_seconds": 217.0,
+      "end_seconds": 224.5
+    },
+    {
+      "title": "The great cycle",
+      "narration": "Eighth density is the beginning of the next octave. The universe breathes — expansion and contraction, creation and return, in an eternal rhythm.",
+      "duration": 8.0,
+      "visual": "seventh",
+      "params": {},
+      "scene_id": "scene_030",
+      "start_seconds": 224.5,
+      "end_seconds": 232.5
+    },
+    {
+      "title": "Knowledge centers in DNA",
+      "narration": "The Osirian cycle is not myth. It is the history of consciousness encoded in biology — the removal of knowledge centers from DNA.",
+      "duration": 8.0,
+      "visual": "knowledge_center",
+      "params": {},
+      "scene_id": "scene_031",
+      "start_seconds": 232.5,
+      "end_seconds": 240.5
+    },
+    {
+      "title": "Closing",
+      "narration": "The Wave is not a belief. It is a fact of hyperdimensional physics. The only question is whether your vibration is aligned with its frequency.",
+      "duration": 8.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_032",
+      "start_seconds": 240.5,
+      "end_seconds": 248.5
+    },
+    {
+      "title": "Final frame",
+      "narration": "Knowledge protects. Wake up. The future self is not coming — it is remembering itself through you.",
+      "duration": 7.0,
+      "visual": "final",
+      "params": {},
+      "scene_id": "scene_033",
+      "start_seconds": 248.5,
+      "end_seconds": 255.5
+    }
+  ]
+}
