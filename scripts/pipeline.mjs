@@ -254,6 +254,65 @@ function cmd(argv) {
     return;
   }
 
+  if (command === "script") {
+    // Dump or update a work's narration as an editable markdown script.
+    //   script <workId>            -> print the script to stdout
+    //   script <workId> --write    -> write works/<id>/script.md (editable)
+    //   script <workId> --import   -> re-port from an edited script.md
+    const workId = target;
+    if (!workId) throw new Error("script requires a work id");
+    const workDir = join(ROOT, "works", workId);
+    const packPath = join(workDir, "pack.json");
+    const scriptPath = join(workDir, "script.md");
+    if (opts.import) {
+      if (!existsSync(scriptPath)) throw new Error(`no ${scriptPath} to import`);
+      const pack = JSON.parse(readFileSync(packPath, "utf8"));
+      const blocks = readFileSync(scriptPath, "utf8").split(/\n(?=## )/);
+      for (const block of blocks) {
+        const m = block.match(/^## (.+)$/m);
+        if (!m) continue;
+        const id = m[1].trim();
+        const narr = (block.match(/^> (.+)$/m)?.[1] ?? "").trim();
+        const scene = pack.scenes.find((s) => s.id === id);
+        if (scene && narr) scene.subtitle = narr;
+      }
+      writeFileSync(packPath, JSON.stringify(pack, null, 2));
+      const db = openDb();
+      logEvent(db, workId, "re-scripted");
+      console.log(`Imported ${blocks.length - 1} scenes from script.md → ${packPath}`);
+      return;
+    }
+    if (!existsSync(packPath)) throw new Error(`no pack at ${packPath} — port first`);
+    const pack = JSON.parse(readFileSync(packPath, "utf8"));
+    const md = [`# ${pack.title}`, "", `_Work: ${workId} · ${pack.scenes.length} scenes · theme ${pack.theme}_`, "", "Edit the narration lines (`> ...`). Then run:", "", "```bash", `node scripts/pipeline.mjs script ${workId} --import`, "```", ""];
+    for (const s of pack.scenes) {
+      md.push(`## ${s.id}`, "", `**${s.title}**`, `> ${s.subtitle}`, "", `_term: ${s.term} · visual: ${s.params.visual} · ${s.duration}s_`, "");
+    }
+    const out = md.join("\n");
+    if (opts.write) {
+      writeFileSync(scriptPath, out);
+      console.log(`Wrote ${scriptPath} — edit it, then run script ${workId} --import`);
+    } else {
+      process.stdout.write(out);
+    }
+    return;
+  }
+
+  if (command === "review") {
+    // review <id> <verdict> [--topics a,b,c]
+    // verdict: keep | refine | duplicate-of:<id> | archive
+    const [workId, verdict] = [target, argv[0]];
+    if (!workId || !verdict) throw new Error("review <id> <verdict> [--topics a,b,c]");
+    const db = openDb();
+    const row = db.prepare("SELECT * FROM works WHERE id = ?").get(workId);
+    if (!row) throw new Error(`unknown work ${workId}`);
+    db.prepare("UPDATE works SET verdict = ?, topics = ?, updated_at = ? WHERE id = ?")
+      .run(verdict, opts.topics ?? row.topics, new Date().toISOString(), workId);
+    logEvent(db, workId, `review:${verdict}`);
+    console.log(`${workId}: verdict = ${verdict}${opts.topics ? `, topics = ${opts.topics}` : ""}`);
+    return;
+  }
+
   throw new Error(`unknown command: ${command}`);
 }
 
