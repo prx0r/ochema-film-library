@@ -301,7 +301,7 @@ function cmd(argv) {
   if (command === "review") {
     // review <id> <verdict> [--topics a,b,c]
     // verdict: keep | refine | duplicate-of:<id> | archive
-    const [workId, verdict] = [target, argv[0]];
+    const [workId, verdict] = [target, argv[2]];
     if (!workId || !verdict) throw new Error("review <id> <verdict> [--topics a,b,c]");
     const db = openDb();
     const row = db.prepare("SELECT * FROM works WHERE id = ?").get(workId);
